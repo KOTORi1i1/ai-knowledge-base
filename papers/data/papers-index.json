@@ -1,5 +1,1451 @@
 [
   {
+    "id": "2607.07500",
+    "title": "TimEE: End-to-end Time Series Classification via In-Context Learning",
+    "authors": [
+      "Jaris Küken",
+      "Shi Bin Hoo",
+      "Martin Mráz",
+      "Frank Hutter",
+      "Lennart Purucker"
+    ],
+    "summary": "Time series classification (TSC) is dominated by a two-stage paradigm: train a feature encoder -- either from scratch on the target dataset or via pretraining on large corpora -- and then fit a task-specific classifier on top. While effective, this decoupling optimizes representation learning independently of the classification objective, requires per-dataset training, and prevents the model from exploiting label information during inference. We introduce TimEE, a 4.5M-parameter foundation model for end-to-end TSC via in-context learning. Given a labeled support set and a query time series, TimEE directly outputs a predicted class distribution in a single forward pass with no per-dataset training required. Following the prior-data fitted network (PFN) framework, TimEE is meta-trained exclusively on synthetic TSC tasks, where each task contains time series with distinct class identities arising from structured distributional shifts in the generative process. Despite seeing no real time series during pre-training, TimEE ranks first in ROC AUC (and third on accuracy) on the UCR benchmark among all compared methods, which include both foundation models and supervised deep learning baselines. To our knowledge, TimEE is the first purely synthetic-pretrained model to reach state-of-the-art performance on the UCR benchmark. These results establish end-to-end ICL with synthetic priors as a compelling, largely unexplored direction for TSC, with scaling, prior design, and richer generation mechanisms as natural avenues for improvement. Code is publicly available at http://github.com/automl/timee.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07500",
+      "pdf": "https://arxiv.org/pdf/2607.07500"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 4,
+        "confidence": 59
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 58,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "summaryCN": "**研究主题**：TimEE: End-to-end Time Series Classification via In-Context Learning\n**核心技术**：涉及 预训练、上下文学习、最先进水平(SOTA)\n**研究方法**：提出新方法、取得优异结果\n**所属领域**：大语言模型、自然语言处理、生成式AI"
+  },
+  {
+    "id": "2607.07416",
+    "title": "VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised Medical Image Segmentation",
+    "authors": [
+      "Zimu Zhang",
+      "Yiheng Zhong",
+      "Zhuoru Zhang",
+      "Yingzhen Hu",
+      "Yanan He",
+      "Fanliang Meng",
+      "Xiaofeng Liu"
+    ],
+    "summary": "Semi-supervised 3D medical image segmentation reduces the need for dense voxel-level annotations by exploiting unlabeled volumes. Although existing methods such as consistency regularization, pseudo-labeling, and co-training improve prediction-level robustness, they often provide insufficient feature-space organization for anatomically complex structures, especially small organs and ambiguous boundary regions with large intra-class variations. To address this issue, we propose Variation-Conditioned Distributional Proxy Learning (VCDP), a plug-and-play training-only regularization module for semi-supervised 3D medical image segmentation. VCDP represents each class with a learnable Gaussian distribution for shared class semantics and multiple variation prototypes for fine-grained intra-class patterns. A unified variation-conditioned compatibility score is further formulated to fuse distributional similarity and soft variation aggregation, guiding voxel embeddings to align with both global organ identity and local anatomical variations. VCDP is attached to decoder features during training and removed during inference, introducing no additional inference cost. Experiments on multi-organ segmentation benchmarks show that VCDP improves most evaluated baselines, particularly for small, ambiguous, and highly variable organs. Our anonymous code is released at https://anonymous.4open.science/r/VCDP_code-41ED.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07416",
+      "pdf": "https://arxiv.org/pdf/2607.07416"
+    },
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 14,
+        "confidence": 100
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 50,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "summaryCN": "**研究主题**：VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-Supervised...\n**核心技术**：涉及 图像分割\n**研究方法**：提出新方法、改进现有方案\n**所属领域**：计算机视觉、图神经网络、强化学习"
+  },
+  {
+    "id": "2607.07467",
+    "title": "SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory Analysis",
+    "authors": [
+      "Songhan Wang",
+      "Haoang Chi",
+      "He Li",
+      "Zhiheng Zhang",
+      "Jiayan Yuan",
+      "Cheems Wang",
+      "Hao Peng",
+      "Xinwang Liu",
+      "Wenjing Yang"
+    ],
+    "summary": "Spatial and Single-cell transcriptomics are transformative in deciphering cellular dynamics. As the fundamental paradigm for reconstructing cell developmental paths, trajectory inference (TI) is critical. However, existing methods require extensive manual intervention and proficiency in heterogeneous tools, posing a significant barrier to efficient TI analysis. To bridge this gap, we propose SpaCellAgent, an autonomous large language model (LLM) multi-agent framework that automates end-to-end spatiotemporal analysis and narrative generation. SpaCellAgent utilizes a multi-agent architecture for strategic workflow planning, a dynamic tool-orchestration engine for adaptive algorithm selection, and a self-evolution module that iteratively refines performance through feedback. We evaluate SpaCellAgent on six heterogeneous datasets encompassing complex temporal developmental trajectories, diverse sequencing platforms, and spatially-resolved tissue architectures. SpaCellAgent consistently demonstrates over 40\\% improvement in analytical efficiency while maintaining expert-aligned performance. By converting natural language specifications into optimized analytical workflows and fully automating the pipeline, SpaCellAgent democratizes advanced spatiotemporal modeling and establishes a scalable, agent-driven paradigm for computational biology. The code and materials are available at https://github.com/LittleXH-shw/SpaCellAgent.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07467",
+      "pdf": "https://arxiv.org/pdf/2607.07467"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 4,
+        "confidence": 59
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 40
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 3,
+        "confidence": 33
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      }
+    ],
+    "score": 49,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for Trajectory ...\n**核心技术**：涉及 大语言模型(LLM)、多智能体\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：大语言模型、自然语言处理、强化学习"
+  },
+  {
+    "id": "2607.07438",
+    "title": "Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Quality Assessment",
+    "authors": [
+      "Kanglei Zhou",
+      "Ruizhi Cai",
+      "Xinning Wang",
+      "Yijian Zheng",
+      "Liyuan Wang",
+      "Jianguo Li",
+      "Xiaohui Liang"
+    ],
+    "summary": "Action Quality Assessment (AQA) aims to evaluate how well a person performs a movement, which is essential in applications such as sports scoring, skill assessment, and healthcare. However, unimodal approaches often struggle to capture subtle cues of movement quality in real-world settings. Although multi-modal inputs provide complementary information, existing methods still face two major challenges: heterogeneous modalities often lead to cross-modal misalignment and unstable fusion, and reliable multi-modal annotation is costly, resulting in limited dataset diversity. To address these challenges, we propose DualAlign, a two-stage multi-modal fusion framework with adaptive alignment. The framework first constructs a coherent visual representation by maximizing shared structural information across RGB video, optical flow, and skeleton modalities. Textual semantics are then incorporated after visual stabilization, allowing high-level descriptions to complement rather than distort the underlying visual manifold. To evaluate the framework under realistic multi-modal conditions, we introduce MM--JDM, a movement-quality assessment dataset integrating RGB videos, optical flow, skeleton sequences, and structured text. MM--JDM naturally exhibits modality noise, class imbalance, and label scarcity, making it a challenging benchmark for studying multi-modal fusion and alignment. Extensive experiments show that DualAlign improves average correlation on MM--JDM by 21.16% over the state-of-the-art methods and achieves gains of 3.53% and 5.95% on the RG and Fis-V benchmarks, respectively. DualAlign also remains robust under missing-modality and label-scarce conditions.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07438",
+      "pdf": "https://arxiv.org/pdf/2607.07438"
+    },
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 7,
+        "confidence": 94
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 7,
+        "confidence": 86
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 5,
+        "confidence": 37
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      }
+    ],
+    "score": 49,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Quality Asses...\n**核心技术**：涉及 最先进水平(SOTA)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**性能提升**：21.16%、3.53%\n**所属领域**：计算机视觉、多模态、大语言模型"
+  },
+  {
+    "id": "2607.07422",
+    "title": "InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs",
+    "authors": [
+      "Mayank Kharbanda",
+      "Michael Cochez",
+      "Rajiv Ratn Shah",
+      "Raghava Mutharaju"
+    ],
+    "summary": "Logical Multi-Hop Query Answering over Knowledge Graphs (KGs) can be formulated as querying, with an implicit completeness assumption. Current works mainly focus on Existential First Order Logic (EFO) queries. These EFO queries contain conjunction, disjunction, and negation operators. Most existing works employ transductive reasoning, meaning they are not capable of reasoning over entities unseen during training. In the real world, there is a resource scarcity, and we cannot train a model with all the nodes of a large KG. Hence, we propose InductWave, a wavelet-based inductive embedding method for logical query answering on large KGs. Here, the training graph consists of fewer nodes than the test graph. Our model performs on par with the baseline models while having half the number of message-passing layers. It outperforms all of them in most cases, with 75% of the layers. These fewer resource requirements enable us to evaluate InductWave on massive graphs, such as Wiki-KG. We test our model using extensive experiments across varying train-test graph proportions of the FB15k-(237) dataset, comparing it with the state-of-the-art models. The code and datasets for the model are available at https://github.com/kracr/inductwave/.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07422",
+      "pdf": "https://arxiv.org/pdf/2607.07422"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 3,
+        "confidence": 100
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 61
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 49,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：InductWave: Inductive Multi-Hop Logical Query Answering on Knowledge Graphs\n**核心技术**：涉及 最先进水平(SOTA)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**性能提升**：75%\n**所属领域**：图神经网络、自然语言处理、强化学习"
+  },
+  {
+    "id": "2607.07408",
+    "title": "Transformer-based segmentation of prosodic boundaries in Brazilian Portuguese",
+    "authors": [
+      "Rodrigo de Freitas Lima",
+      "Julio Cesar Galdino",
+      "Marcos Vinicius Treviso"
+    ],
+    "summary": "Automatic prosodic segmentation identifies boundaries between speech units from acoustic and linguistic evidence. Although recent deep learning approaches have produced strong results for English, automatic segmentation for Brazilian Portuguese (BP) still relies mostly on rule-based or traditional machine-learning methods. This paper presents SAMPA, a Whisper-based segmenter that transcribes BP speech while inserting explicit markers for terminal prosodic boundaries. We fine-tune Whisper large-v3 on manually segmented recordings from the NURC-SP dataset and evaluate different training and test-time filtering configurations, including out-of-distribution testing on the MuPe-Diversidades dataset. SAMPA achieves competitive boundary-detection performance across settings, with the best models reaching F1=0.731 on the held-out test split and F1=0.796 on MuPe-Diversidades. Finally, through n-gram and acoustic-visual analyses, we show that our model follows morphosyntactic, semantic, and prosodic cues for detecting prosodic boundaries.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07408",
+      "pdf": "https://arxiv.org/pdf/2607.07408"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 48,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Transformer-based segmentation of prosodic boundaries in Brazilian Portuguese\n**所属领域**：AI安全与对齐、计算机视觉、大语言模型"
+  },
+  {
+    "id": "2607.07486",
+    "title": "Discovering Geometric Biases in 3D Face Reconstruction: A Curvature-Aware Spectral Framework for Fairness Evaluation",
+    "authors": [
+      "Veronika Shilova",
+      "Emmanuel Malherbe",
+      "Giovanni Palma",
+      "Panagiotis-Alexandros Bokaris",
+      "Laurent Risser",
+      "Jean-Michel Loubes"
+    ],
+    "summary": "3D Morphable Models (3DMMs) remain the standard parametric shape priors for many state-of-the-art 3D face reconstruction algorithms. However, as these models are derived from a finite number of 3D face samples, they inherit the morphological biases of their training data, potentially limiting their generalizability across diverse global populations. In this paper, we propose a novel framework to analyze 3DMM reconstructions through the lens of surface curvature, with the objective to discover, quantify and visualize biases. While standard evaluation metrics often rely on Euclidean distances, our reconstruction error captures subtle surface nuances such as local topology or undulations. To do so, we leverage the Laplace-Beltrami Operator (LBO) to generate high-resolution curvature error maps, providing a localized and geometrically meaningful visualization of discrepancies between ground truth faces and reconstructed meshes. We derive from it an error metric that we validated through a user study, observing a significantly higher correlation to human perception compared to traditional methods. Furthermore, we conduct extensive experiments across several 3DMM bases and fitting algorithms, uncovering systematic age-related biases and providing preliminary evidence of biases associated with gender and ethnicity. Our findings highlight the necessity of adopting curvature-aware evaluation protocols to ensure demographic fairness and geometric precision in future 3D face reconstruction research.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07486",
+      "pdf": "https://arxiv.org/pdf/2607.07486"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 7,
+        "confidence": 78
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 2,
+        "confidence": 17
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 47,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Discovering Geometric Biases in 3D Face Reconstruction: A Curvature-Aware Spe...\n**核心技术**：涉及 最先进水平(SOTA)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：AI安全与对齐、自然语言处理、计算机视觉"
+  },
+  {
+    "id": "2607.07469",
+    "title": "SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation",
+    "authors": [
+      "Andrea Scarinci",
+      "Virginia Negri",
+      "Brayan Impata",
+      "Suleiman Khan",
+      "Victor Martinez",
+      "Marcello Federico"
+    ],
+    "summary": "Fine-tuning large language models (LLMs) for e-commerce attribute extraction requires labeled data representative across thousands of product types, attributes, and multiple languages. This combinatorial scale translates to millions of annotations, rendering human labeling prohibitively costly. While recent work has demonstrated synthetic label generation using LLMs, deploying such approaches at industrial scale requires integrated quality control mechanisms. We present SynthAVE, a large-scale human-validated benchmark for attribute value extraction spanning 12,726 products across 229 product types, 792 attributes, and 4 languages (Spanish, French, Italian, German). To validate synthetic labels at scale, we introduce a multi-LLM arena framework where samples are independently evaluated by 21 judge configurations (7 model families $\\times$ 3 prompts), with final labels determined via majority voting. The majority vote ensemble agrees with human experts at Cohen's $κ= 0.92$ (95.2% agreement), while individual judges show substantial inter-model agreement (Fleiss' $κ= 0.76$). This demonstrates that diverse models with varying individual judgments aggregate into highly reliable predictions, enabling cost-effective validation at scale while maintaining quality parity with human review.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07469",
+      "pdf": "https://arxiv.org/pdf/2607.07469"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 10,
+        "confidence": 100
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "score": 47,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：SynthAVE: Scalable Synthetic Labeling for E-Commerce with LLM-Arena Validation\n**核心技术**：涉及 微调、大语言模型(LLM)\n**研究方法**：提出新方法\n**性能提升**：95.2%\n**所属领域**：大语言模型、图神经网络、生成式AI"
+  },
+  {
+    "id": "2607.07508",
+    "title": "Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning",
+    "authors": [
+      "Zhenyu Hou",
+      "Yujiang Li",
+      "Jie Tang",
+      "Yuxiao Dong"
+    ],
+    "summary": "Reinforcement learning (RL) is becoming increasingly important for post-training large language models (LLMs). Previous RL pipelines for LLMs were mostly synchronous and batch-interleaved, which is inefficient for long-horizon agentic tasks. Recently, asynchronous RL has emerged as a more efficient alternative by updating the model as rollouts arrive. However, existing asynchronous RL systems often emphasize throughput, while leaving training stability and task effectiveness largely underexplored. For example, a key challenge is that group-wise sampling in the widely-used GRPO framework does not naturally fit asynchronous agentic training. In this paper, we present Single-rollout Asynchronous Optimization (SAO) to address the stability and off-policy challenges in asynchronous RL. To reduce off-policy effects and improve generalization, we replace group-wise sampling with single-rollout sampling, that is, using one rollout per prompt. We further improve this single-rollout strategy with practical value-model training designs. To improve optimization stability, we introduce a strict double-side token-level clipping strategy. SAO is able to train stably for one thousand steps and consistently outperform GRPO and its variants on agentic coding and reasoning benchmarks, such as SWE-Bench Verified, BeyondAIME, and IMOAnswerBench. We also demonstrate that single-rollout RL is particularly effective in a simulated online learning setting, where the model must adapt to changing evolving environments. To this end, SAO is successfully deployed in the agentic RL pipeline for training the open GLM-5.2 model (750B-A40B).",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07508",
+      "pdf": "https://arxiv.org/pdf/2607.07508"
+    },
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 13,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 7,
+        "confidence": 81
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 1,
+        "confidence": 12
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning\n**核心技术**：涉及 强化学习、泛化能力、大语言模型(LLM)\n**研究方法**：提出新方法、改进现有方案、超越基线模型\n**所属领域**：强化学习、大语言模型、高效模型"
+  },
+  {
+    "id": "2607.07494",
+    "title": "GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining",
+    "authors": [
+      "Jieying Wang",
+      "Shuyuan Fan",
+      "Mingkai Zheng",
+      "Zhao Zhang"
+    ],
+    "summary": "Gradient communication is a primary scaling bottleneck in large language model (LLM) pretraining. Communicating gradients in low-precision formats, such as FP8 and NVFP4, can significantly reduce the communication volume. Existing methods quantize gradients via linear or nonlinear mappings in Euclidean space, often degrading model performance because highly anisotropic gradients incur direction-dependent distortion. We present GIFT, a geometry-informed gradient scaling method that performs low-precision communication in geometry-aware coordinates. By transforming gradients into a near-isotropic space before quantization, GIFT makes low-precision representations substantially more faithful to their high-precision counterparts. GIFT only changes the coordinate system used for low-precision gradient communication and does not change the optimizer, training recipe, communication collective, or low-precision format. We also develop a simplified geometry-aware transformation algorithm with low-rank approximation and selective application to balance the computation overhead and communication reduction. We examine the empirical convergence of GIFT using Llama-300M and Llama-600M models. Our results show that GIFT reduces the end-to-end pretraining time of Llama-600M by 7.6% on 64 NVIDIA GH200 Superchips, while improving the downstream task preservation profile over direct Euclidean FP8 communication under the same optimizer and communication path.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07494",
+      "pdf": "https://arxiv.org/pdf/2607.07494"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 13,
+        "confidence": 100
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 2,
+        "confidence": 28
+      }
+    ],
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：GIFT: Geometry-Informed Low-precision Gradient Communication for LLM Pretraining\n**核心技术**：涉及 预训练、模型量化、大语言模型(LLM)\n**研究方法**：提出新方法\n**性能提升**：7.6%\n**所属领域**：大语言模型、高效模型"
+  },
+  {
+    "id": "2607.07425",
+    "title": "Reliable mechanistic operator recovery with biologically-informed neural networks: principles for architecture and optimisation design",
+    "authors": [
+      "Rebecca M. Crossley",
+      "Yuan Yin",
+      "Sarah L. Waters",
+      "Ruth E. Baker"
+    ],
+    "summary": "Many biological processes are governed by complex dynamical mechanisms that remain incompletely understood despite increasing volumes of experimental data. Biologically-informed neural networks (BINNs) seek to address this challenge by embedding mechanistic differential equations into neural network training, enabling interpretable constitutive operators to be recovered directly from sparse and noisy observations. However, reliable operator recovery depends sensitively on network architecture, optimisation strategy, and data informativeness. Here, we present a systematic empirical study of how these factors influence mechanistic inference using BINNs applied to canonical one-dimensional advection-diffusion-reaction partial differential equation models. Across a suite of benchmark problems, we investigate how network expressivity, learning rate, loss weighting, and batch size influence optimisation behaviour and operator recovery. We show that successful mechanistic inference depends on balancing competing objectives rather than maximising any single aspect of the model or optimisation. Moderately expressive architectures outperform overly complex networks, intermediate learning rates improve optimisation stability, balanced data and PDE losses are essential for accurate operator recovery, and intermediate batch sizes provide the best compromise between computational efficiency and reproducibility. We further identify practical diagnostics for recognising common failure modes, including over-fitting, unstable optimisation, and poor mechanistic recovery when the ground truth is unavailable. Together, these findings provide evidence-based guidelines for deploying BINNs as credible tools for biological model discovery.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07425",
+      "pdf": "https://arxiv.org/pdf/2607.07425"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Reliable mechanistic operator recovery with biologically-informed neural netw...\n**研究方法**：提出新方法、改进现有方案、超越基线模型\n**实验数据**：在 ARC 上验证\n**所属领域**：图神经网络、生成式AI、强化学习"
+  },
+  {
+    "id": "2607.07507",
+    "title": "HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models",
+    "authors": [
+      "Feng He",
+      "Zhenting Wang",
+      "Qifan Wang",
+      "Qiang Guan",
+      "Dongfang Liu",
+      "Ruixiang Tang",
+      "Qiankun Li"
+    ],
+    "summary": "Hallucinations in vision language models (VLMs) are commonly treated as semantic errors, yet they often arise from partial or ambiguous visual evidence. Prior work mainly focuses on detecting or suppressing hallucinations at generation time, leaving the subsequent reasoning stage largely unexplored. In this work, we study Post Hallucination Reasoning (PHR), the stage in which hallucinated semantics enter the model's inference context and influence downstream predictions. To systematically investigate PHR, we introduce HIVE, Hallucination Inference and Verification Engine, an evaluation infrastructure that enables controlled comparisons between faithful and hallucinated captions. Across nine tasks and nine models, we observe structured modality dependent patterns: hallucinated captions often improve accuracy on vision language tasks, while text only tasks exhibit limited or unstable effects. Further analyses show that hallucinated cues broaden semantic coverage and reshape reasoning dynamics while preserving stable inference. These findings highlight that hallucinated semantics may influence downstream reasoning once they enter the model's inference context. Understanding this post hallucination stage is important for improving the reliability and interpretability of multimodal reasoning systems. Code is publicly available at https://github.com/hefengcs/HIVE.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07507",
+      "pdf": "https://arxiv.org/pdf/2607.07507"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 7,
+        "confidence": 78
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 52
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 1,
+        "confidence": 12
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "score": 43,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：HIVE: Understanding Post-Hallucination Reasoning in Vision Language Models\n**研究方法**：提出新方法、改进现有方案\n**所属领域**：AI安全与对齐、大语言模型、图神经网络"
+  },
+  {
+    "id": "2607.07498",
+    "title": "Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing for NHL26",
+    "authors": [
+      "Florian Fuchs",
+      "Jessy Gosselin-Grant",
+      "Boris Skuin",
+      "Michele Petteni",
+      "Alessandro Sestini",
+      "Joakim Bergdahl",
+      "Amir Baghi",
+      "Linus Gisslén"
+    ],
+    "summary": "Testing is a major effort for the gaming industry, requiring a significant part of development budget and people power. We present a case study on a development version of the ice hockey game EA SPORTS NHL 26, for which human playtesters test the goalie AI for behavioral exploits. To reduce the effort of re-testing the goalie AI after every game or behavior modification in the development phase, we propose Reward-Adaptive Iterative Discovery (RAID), a novel approach to automatically find exploits using an iterative Reinforcement Learning (RL) approach that trains a population of goal scoring agents. While previous approaches can already successfully find exploits, RL algorithms tend to overfit to a single solution. We introduce a simple extension on top of existing RL algorithms, such that they find multiple diverse high-quality solutions. For our first deployment of this approach, within a single experiment we were able to find six hockey scoring exploit strategies that were qualitatively similar to those that playtesters had found in hours-long manual testing sessions.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07498",
+      "pdf": "https://arxiv.org/pdf/2607.07498"
+    },
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 4,
+        "confidence": 67
+      }
+    ],
+    "score": 43,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Reward-Adaptive Iterative Discovery: A Case Study on Automated Game Testing f...\n**核心技术**：涉及 强化学习\n**研究方法**：提出新方法\n**所属领域**：强化学习"
+  },
+  {
+    "id": "2607.07492",
+    "title": "Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning",
+    "authors": [
+      "Dmitry Beresnev",
+      "Vladimir Makharev",
+      "Roman Khalikov",
+      "Ivan Oseledets",
+      "Petr Anokhin"
+    ],
+    "summary": "Many reasoning tasks are not well described by a single left-to-right chain: a solver may need to pursue a plausible branch, observe delayed failure, and return to the latest prefix that can still be completed. We introduce Pyligent, a training and inference framework inspired by the Diligent Learner formulation that represents reasoning as validated search over partial solution chains. A task validator labels generated continuations and failures, and the resulting search trees are converted into supervised targets for three actions: continue, finish, and backtrack, with optional traces that summarize abandoned branches. We evaluate Pyligent on a hidden directed graph task designed to isolate delayed-failure recovery, and on structured reasoning domains with exact validators, including $4{\\times}4$ Sudoku, Sudoku with reasoning traces, and Blocksworld. Compared with gold-only supervised fine-tuning, Pyligent improves solve rate by $72.7$ percentage points on hidden graphs, by $17$ and $18$ points on mixed and expert Sudoku, by $27$ and $14$ points on mixed and expert Sudoku with reasoning traces, and by $13$ points on Blocksworld. These results suggest that explicit failed-branch supervision can teach useful recovery behavior beyond imitation of polished solution chains.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07492",
+      "pdf": "https://arxiv.org/pdf/2607.07492"
+    },
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 41,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Search, Fail, Recover: A Training Framework for Correction-Aware Reasoning\n**核心技术**：涉及 微调\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：强化学习、自然语言处理、大语言模型"
+  },
+  {
+    "id": "2607.07471",
+    "title": "Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data",
+    "authors": [
+      "Vinícius Gabriel Angelozzi",
+      "Héber H. Arcolezi"
+    ],
+    "summary": "Machine learning models are increasingly deployed in high-stakes domains, raising concerns about both privacy and fairness. Differential Privacy (DP) has become a gold standard for privacy-preserving data analysis, while fairness-aware mechanisms aim to mitigate discrimination against underrepresented groups. However, these objectives can conflict: DP often amplifies disparities across demographic groups, and little is known about whether established fairness interventions remain effective under DP constraints. In this work, we present, to our knowledge, the first systematic evaluation of fairness interventions on differentially private synthetic tabular data. Our benchmark centers on the Adaptive Iterative Mechanism (AIM), identified as the state-of-the-art marginal-based DP synthesizer (Cormode et al. 2025). We thus evaluate fairness interventions across four datasets, multiple group fairness metrics, and three categories of mitigation strategies (pre-processing, in-processing, and post-processing) under a wide range of privacy budgets. We compare four pipeline configurations: (Baseline) training on original data; (DP-only) training on DP synthetic data; (Fair-only) applying fairness mechanisms on original data; and (DP+Fair) combining fairness mechanisms with DP synthetic data. Our results demonstrate that while DP alone can degrade both utility and fairness, applying fairness interventions can partially restore equitable outcomes. Among them, post-processing methods tend to provide more stable fairness-utility trade-offs across privacy budgets and synthesizers, achieving strong fairness improvements while preserving competitive utility relative to other intervention stages. We release all code, data, and experimental artifacts in an open-source repository to ensure full reproducibility and to support future research on the privacy-fairness-utility trade-off.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07471",
+      "pdf": "https://arxiv.org/pdf/2607.07471"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 22,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 2,
+        "confidence": 91
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 2,
+        "confidence": 33
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 41,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Pr...\n**核心技术**：涉及 最先进水平(SOTA)\n**研究方法**：提出新方法、超越基线模型\n**实验数据**：在 ARC 上验证\n**所属领域**：AI安全与对齐、生成式AI、图神经网络"
+  },
+  {
+    "id": "2607.07459",
+    "title": "EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI",
+    "authors": [
+      "Xinjie Wang",
+      "Liu Liu",
+      "Taojun Ding",
+      "Andrew Choi",
+      "Chaodong Huang",
+      "Mengao Zhao",
+      "Ziang Li",
+      "Jackson Jiang",
+      "Chunlei Yu",
+      "Shengxiang Liu",
+      "Wei Xu",
+      "Zhizhong Su"
+    ],
+    "summary": "We present EmbodiedGen V2, a generative 3D world engine for building executable sim-ready environments for embodied intelligence. Sim-ready 3D asset generation has advanced rapidly, yet assembling such assets into policy-ready task environments remains largely manual, limiting scalable closed-loop learning. EmbodiedGen V2 addresses this gap through a unified sim-ready representation that connects cross-simulator assets, interaction affordances, task-driven worlds, large-scale multi-room scenes, and stateful Vibe Coding into a generative, editable, and reusable simulation pipeline. The generated environments support manipulation, navigation, mobile manipulation, cross-simulator deployment, and embodied policy training. In evaluation, the asset pipeline achieves 96.5% human acceptance and 98.6% collision success, and 83.3% of task-driven worlds are directly usable for downstream simulation without manual modification. Online reinforcement learning with generated environments further improves simulation success from 9.7% to 79.8%, and transfers to real robots with task success increasing from 21.7% to 75.0%. These results establish EmbodiedGen V2 as scalable simulation infrastructure for training, evaluating, and deploying embodied policies.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07459",
+      "pdf": "https://arxiv.org/pdf/2607.07459"
+    },
+    "domains": [
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 9,
+        "confidence": 100
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 6,
+        "confidence": 89
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 5,
+        "confidence": 51
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      }
+    ],
+    "score": 40,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：EmbodiedGen V2: An Agentic, Simulation-Ready 3D World Engine for Embodied AI\n**核心技术**：涉及 强化学习\n**研究方法**：提出新方法\n**性能提升**：96.5%、98.6%\n**所属领域**：多模态、强化学习、自然语言处理"
+  },
+  {
+    "id": "2607.07409",
+    "title": "DeLS-Spec: Decoupled Long-Short Contexts for Parallel Speculative Drafting",
+    "authors": [
+      "Hong-Kai Zheng",
+      "Piji Li"
+    ],
+    "summary": "Speculative decoding accelerates LLM inference by drafting multiple tokens and verifying them in parallel. Block-parallel drafters such as DFlash further improve drafting efficiency by predicting an entire block in one pass, but their position-wise predictions lack explicit intra-block causal conditioning. Recent methods such as Domino and DSpark attempt to introduce such causality into block-parallel drafting, but they require training the draft model from scratch, which limits their flexibility and increases training cost. We propose DeLS-Spec, a decoupled long-short context speculative decoding method. DeLS-Spec treats the fixed DFlash model as a long-context expert and introduces a lightweight local head as a short-context expert. The local head can be trained independently with a standard next-token prediction objective, without joint training with the target model or the DFlash backbone, leading to extremely low training cost. At inference time, DeLS-Spec combines long-context and short-context logits, and the local head is not tied to a specific DFlash checkpoint, making the method more modular and flexible. Experiments on Qwen3 models show that DeLS-Spec consistently improves speedup and average acceptance length over DFlash across math, code, and dialogue benchmarks.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07409",
+      "pdf": "https://arxiv.org/pdf/2607.07409"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 22
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      }
+    ],
+    "score": 39,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "summaryCN": "**研究主题**：DeLS-Spec: Decoupled Long-Short Contexts for Parallel Speculative Drafting\n**研究方法**：提出新方法、改进现有方案\n**实验数据**：在 MATH 上验证\n**所属领域**：大语言模型、高效模型"
+  },
+  {
+    "id": "2607.07510",
+    "title": "Stability of Flow Models for Graph Signals",
+    "authors": [
+      "Martin Schmidt",
+      "Gonzalo Mateos"
+    ],
+    "summary": "Generating signals on graphs requires permutation-equivariant models that exhibit stability with respect to relative structural perturbations. While favorable stability properties of Graph Neural Networks (GNNs) have been well documented, it is unclear how structural errors propagate through the dynamics of continuous generative flow models that are gaining traction for graph signal generation. In this paper, we analyze continuous normalized flow models parameterized by GNNs and show that permutation equivariance is preserved for both the resulting continuous-time ordinary differential equations and their discrete numerical approximations used as graph signal samplers. Our primary contribution is to derive explicit stability bounds on the generated probability distributions, which quantify how relative graph perturbations affect the final sampled signals. Motivated by these theoretical bounds, we introduce a stability-promoting regularized flow matching strategy that actively penalizes the spatial Lipschitz constant of the vector field during model training. Experiments using synthetic smooth signals on stochastic block model graphs and real-world fMRI signals on brain connectomes demonstrate that this bound-oriented approach yields generative models that are more robust to structural noise, without sacrificing output quality.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07510",
+      "pdf": "https://arxiv.org/pdf/2607.07510"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 4,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 2,
+        "confidence": 61
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 5,
+        "confidence": 51
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "score": 34,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Stability of Flow Models for Graph Signals\n**核心技术**：涉及 图神经网络(GNN)\n**研究方法**：提出新方法\n**所属领域**：图神经网络、生成式AI、自然语言处理"
+  },
+  {
+    "id": "2607.07468",
+    "title": "Statistical inverse learning and $\\ell^1$-regularization",
+    "authors": [
+      "Abhishake Rastogi",
+      "Tatiana A. Bubba",
+      "Tapio Helin",
+      "Luca Ratti"
+    ],
+    "summary": "We study the recovery of sparse functions from finite, noisy, and indirect observations in the framework of statistical inverse learning. The unknown is modeled as an element of $\\ell^1$, and observations are generated through a possibly nonlinear forward operator $A:\\ell^1\\to H$, where $H$ is a vector-valued reproducing kernel Hilbert space. We propose an $\\ell^1$-regularized empirical risk minimizer and develop a theoretical analysis of its statistical properties. Under mild assumptions, we establish almost-sure consistency and derive non-asymptotic high-probability convergence rates in both the prediction and $\\ell^1$ reconstruction norms. The rates depend on the source smoothness parameter $r$, characterized by a variational source condition, and the effective dimension exponent $b$, describing the polynomial spectral decay of the covariance operator. We further prove matching minimax lower bounds, showing that the obtained convergence rates are optimal. To relate the theory to practical sparsity models, we consider finitely smoothing operators of the form $A=G\\circ S$, where $S$ is a synthesis operator, and show that approximation-space assumptions imply the required variational source conditions. In particular, we prove that membership in the approximation space $k_t$ is equivalent to polynomial decay of the best $n$-term approximation error. Finally, we verify the assumptions for two representative inverse problems: reaction coefficient identification in elliptic PDEs and sparse computed tomography. For filtered Radon transforms, we derive explicit effective-dimension asymptotics, yielding concrete convergence rates for standard image models and sparsifying systems.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07468",
+      "pdf": "https://arxiv.org/pdf/2607.07468"
+    },
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "score": 34,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Statistical inverse learning and $\\ell^1$-regularization\n**研究方法**：提出新方法\n**所属领域**：自然语言处理、计算机视觉"
+  },
+  {
+    "id": "2607.07478",
+    "title": "FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transformer Attention",
+    "authors": [
+      "Athanasios Zeris"
+    ],
+    "summary": "FFT-based spectral preprocessing of learned query-key (Q/K) projections substantially improves transformer attention on character-level language modelling. On TinyShakespeare: a fixed random spectral filter achieves val=1.031 (Delta=+0.443); a single learned frequency at paragraph scale achieves val=0.608 (Delta=+0.867); and four learned frequencies spanning paragraph to word scale achieve val=0.309 (Delta=+1.166), a 79% reduction over standard dot-product attention. The single-frequency result is confirmed across three random seeds (mean val=0.236, std=0.019). The four frequencies converge to a near-geometric multi-scale ordering (49, 27, 10, 6 tokens/cycle) corresponding to paragraph, sub-paragraph, phrase, and word scales. The gain is specific to spectral preprocessing: random orthogonal and non-orthogonal projections of Q/K produce no measurable improvement, suggesting the benefit comes from global frequency-domain mixing rather than metric distortion. All results are verified by a shuffled-validation diagnostic against positional leakage. Causal filters (Gaussian, Mexican Hat, Morlet) do not improve over standard attention at character-level tokenisation: the bilateral FFT kernel is structurally non-causal, coupling every position to future tokens. This defines an architectural boundary between bilateral spectral attention (this paper) and genuinely causal spectral attention at word-scale tokenisation (companion paper MorletQK). This work is architecturally distinct from FNet (Lee-Thorp et al., 2021), which replaces attention with Fourier mixing of token embeddings. Here, spectral preprocessing applies only to Q/K projections while the full attention score structure is preserved.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07478",
+      "pdf": "https://arxiv.org/pdf/2607.07478"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 7,
+        "confidence": 67
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      }
+    ],
+    "score": 33,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：FourierQK: Spectral Preprocessing of Query-Key Projections Improves Transform...\n**核心技术**：涉及 Transformer架构\n**研究方法**：改进现有方案、取得优异结果\n**实验数据**：在 ARC 上验证\n**性能提升**：79%\n**所属领域**：大语言模型、强化学习"
+  },
+  {
+    "id": "2607.07436",
+    "title": "The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in Self-Evolving Agents",
+    "authors": [
+      "Xing Zhang",
+      "Yanwei Cui",
+      "Guanghui Wang",
+      "Ziyuan Li",
+      "Wei Qiu",
+      "Bing Zhu",
+      "Peiyang He"
+    ],
+    "summary": "A self-evolving agent retires its bad skills by watching them fail, so what happens when the judge cannot see the failures? Skill retirement is the structural constraint that keeps a growing library from drifting below the no-skill baseline, but its guarantee assumes an unbiased reward, which is false for the LLM judges that reference-free tasks force upon us. We show that a biased judge does not merely add noise; it \\emph{silently switches off the curator}. We make this precise with a corrupted-reward analysis and, isolating the causal channel by injecting corruption on top of a deterministic reward, a behavioral study on a reference-free report-writing testbed with a code-generation cross-check. Symmetric noise leaves retirement intact, but \\emph{false-pass} bias (failures slipping through as passes) disables contribution-based retirement past a sharp threshold that no amount of data can cross. Separating genuine retirement from cap-eviction churn shows this \\emph{mechanism} failure is universal, holding across domains and failure rates and sparing only near-zero-false-pass, verifier-like graders. The downstream \\emph{outcome}, though, is regime-dependent: eval quality degrades only where the same corruption also starves skill synthesis, and otherwise holds steady, so the disabled curator is \\emph{silent}, surfacing in no aggregate metric. The contribution is a behavioral safety result, not a performance one. A cheap defect-injection audit then tells an operator, before deployment, which side of the threshold their judge occupies.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07436",
+      "pdf": "https://arxiv.org/pdf/2607.07436"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 7,
+        "confidence": 78
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 33,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：The Blind Curator: How a Biased Judge Silently Disables Skill Retirement in S...\n**所属领域**：AI安全与对齐、图神经网络、生成式AI"
+  },
+  {
+    "id": "2607.07405",
+    "title": "Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violation Failure Mode in Tool-Using LLM Agents",
+    "authors": [
+      "Vikas Reddy",
+      "Sumanth Reddy Challaram",
+      "Abhishek Basu"
+    ],
+    "summary": "Tool-using LLM agents can violate the very policies they are deployed to enforce while appearing to complete the task successfully. In policy-permissive environments, a tool may execute any well-formed call even when the corresponding state transition is forbidden by domain policy. The result is a silent wrong state (a booking cancelled, a passenger count changed, a claim acted on without verification) that neither the tool nor the agent's self-report exposes. We study this failure mode in the $τ^2$-bench airline domain. On a budget agent, 78% of observed failures are silent wrong-state failures with no tool error, and the aggregate failure rate is reproducible across disjoint seeds, not sampling noise. We then evaluate a lightweight intervention: deterministic, read-only pre-execution gates that inspect the proposed call and current state before allowing a write. A four-gate suite raises full-benchmark success from 29.6% to 42.0% on gpt-4o-mini (+12.4pp; paired task-level bootstrap P=0.0012), and the lift reproduces on a disjoint 15-seed set (+12.3pp; P=0.0008). The effect is concentrated where the gates fire: on the 26/50 firing tasks, success rises by +19.2pp, while movement on the 24 non-firing tasks does not exclude zero. Two negative controls (a self-enforcing retail domain and BFCL) bound the mechanism: gates help when tools are policy-permissive and add little where tools already self-enforce. As suggestive evidence, not a central claim, the same failure mode persists at the frontier: gpt-5.2 at default reasoning still attempts policy-violating writes, and the same suite improves success from 61.2% to 71.6% (+10.4pp; P=0.020; n=5, no replication). The contribution is a bounded evaluation and reliability result: deterministic gates do not guarantee task success, but they can deterministically prevent a known class of silent policy-violating writes at the action boundary.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07405",
+      "pdf": "https://arxiv.org/pdf/2607.07405"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 8,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 5,
+        "confidence": 37
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 33,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Reason Less, Verify More: Deterministic Gates Recover a Silent Policy-Violati...\n**性能提升**：78%、29.6%\n**所属领域**：图神经网络、大语言模型、高效模型"
+  },
+  {
+    "id": "2607.07474",
+    "title": "Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Agents",
+    "authors": [
+      "Harry Owiredu-Ashley"
+    ],
+    "summary": "Agentic red-teaming benchmarks report whether an injected agent was compromised as a single bit: the attack succeeded, or it did not. We argue that this binary attack-success rate discards the information a defender most needs, namely how harmful the resulting action was. We introduce an action-graded harm rubric that scores an agent's tool-call trajectory on a seven-level ordinal scale (L0 to L6) according to whether the executed action was reversible, whether it crossed scope to reach another party, and whether it expanded privilege. We compute the scale two ways: a deterministic oracle that reads the trajectory and the attacker's stated goal, and a panel of three frontier language-model judges that read a tag-free account of the same trajectory. Across four victim models and two defenses on the AgentDojo workspace suite, severity grading exposes three cases the binary metric hides, including a defense that reports a zero attack-success rate while still permitting an externally visible cross-scope leak through an unfiltered tool. The judge panel reproduces the oracle with high ordinal agreement (Krippendorff's alpha = 0.91) but shares systematic blind spots that we characterize, most notably a failure to recognize escalation chains. Unlike prior work that provides harm taxonomies, harmful-task completion tests, execution-level safety benchmarks, or severity-aware simulation, our contribution is a reusable, trace-grounded severity instrument applied to the actual actions recorded in existing red-team logs. All code, prompts, and per-episode logs are released.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07474",
+      "pdf": "https://arxiv.org/pdf/2607.07474"
+    },
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 3,
+        "confidence": 33
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 30,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Beyond Attack-Success Rate: Action-Graded Severity Scale for Tool-Using AI Ag...\n**研究方法**：提出新方法、取得优异结果\n**所属领域**：AI安全与对齐、大语言模型"
+  },
+  {
+    "id": "2607.07429",
+    "title": "Single-Entity Spiking Neuron Models: Survey",
+    "authors": [
+      "Leon Parepko",
+      "Danila Shulepin",
+      "Albert Nasybullin"
+    ],
+    "summary": "In this work, we reviewed different approaches in mathematical modeling of biologically plausible neural systems. Models are characterized and classified based on their common features and special use cases. In addition to spiking models, different types of discrete and continuous analogs are considered to accurately simulate biological processes, including membrane potential dynamics. The models under investigation include neurons and various components encountered in neural systems and affected the dynamics. The selection of specific approaches was driven by their prevalence and innovative perspectives in order to enhance the relevance of the presented information.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07429",
+      "pdf": "https://arxiv.org/pdf/2607.07429"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      }
+    ],
+    "score": 30,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Single-Entity Spiking Neuron Models: Survey\n**研究方法**：改进现有方案\n**实验数据**：在 MATH 上验证\n**所属领域**：图神经网络"
+  },
+  {
+    "id": "2607.07435",
+    "title": "RLVP: Penalize the Path, Reward the Outcome",
+    "authors": [
+      "Bojie Li",
+      "Noah Shi"
+    ],
+    "summary": "Agents acting on our behalf in the real world (e.g. placing phone calls) must learn online from costly, often irreversible interactions rather than cheap simulator steps. Two things follow. First, deployability depends on the path, not only the outcome. An agent must respect outcome-neutral constraints such as not repeatedly calling an unresponsive user, respecting business hours, or completing required authentication constraints that outcome-based rewards cannot express, since violating them frequently improves apparent success. Second, because each interaction is expensive, the agent must learn efficiently from very few examples. Reinforcement learning from verifiable rewards (RLVR) is blind to both challenges: it optimizes solely on the outcome and wastes expensive rollouts on all-fail groups where group-relative advantage collapses to zero. Attempts to densify supervision by rewarding progress target the hard-to-verify direction. In contrast, real agentic environments can cheaply detect bad moves. Since group-relative advantage is equivalent to within-group variance, a dense signal helps only when it supplies variance the outcome lacks. A verifiable penalty on the path meets this condition reliably, while a progress potential helps only where partial progress is reachable. The resulting recipe \"penalize the path, reward the outcome\" achieves high task success with near-zero violations, where outcome-only training violates constraints on nearly every episode. We provide four design rules for effective penalties, including avoidance of the inaction trap that arises when a penalty is used in isolation.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07435",
+      "pdf": "https://arxiv.org/pdf/2607.07435"
+    },
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 5,
+        "confidence": 78
+      }
+    ],
+    "score": 29,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：RLVP: Penalize the Path, Reward the Outcome\n**核心技术**：涉及 强化学习\n**所属领域**：强化学习"
+  },
+  {
+    "id": "2607.07470",
+    "title": "A Theory of Contrastive Learning with Natural Images",
+    "authors": [
+      "Antonio Torralba",
+      "Yair Weiss"
+    ],
+    "summary": "Why does contrastive learning with simple images and augmentations yield useful representations for downstream tasks? We address this question by analytically computing the optimal representation in terms of a contrastive loss for a range of basic augmentations and any image dataset with stationary statistics. We show that for certain augmentations the optimum can be attained by a CNN whose first layer filters are sinusoids, followed by a pointwise nonlinearity, global average pooling, and a final linear layer that performs partial whitening. We also show that the optimal weights in such CNNs for more complicated augmentations are still sinusoids. The frequencies of the sinusoids and their weights can be computed using a simple waterfilling algorithm given the dataset's expected power spectrum. Experiments with different image datasets and augmentations show that such CNNs trained with SGD empirically learn sinusoids in their first layer and to perform partial whitening",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07470",
+      "pdf": "https://arxiv.org/pdf/2607.07470"
+    },
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 9,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 27,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：A Theory of Contrastive Learning with Natural Images\n**核心技术**：涉及 对比学习\n**所属领域**：计算机视觉、大语言模型"
+  },
+  {
+    "id": "2607.07504",
+    "title": "Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation Across Data-Science Workflows",
+    "authors": [
+      "Wei-Jung Huang"
+    ],
+    "summary": "Product data scientists often ask LLM-based agents to help with recurring execution tasks such as cleaning data, writing SQL, choosing statistical tests, and formatting results. Reusable skill files are meant to avoid prompting from scratch by packaging guidance for a task family. Expert-written skills can encode high-quality guidance, but writing and maintaining them across many data-science task families creates a manual bottleneck. We ask whether LLM-generated skills offer a useful low-curation alternative: do they improve performance over the task prompt alone? We test this question across four lifecycle stages: data preparation, data extraction, statistical analysis, and reporting, using one generated skill per stage. We find no reliable improvement from full generated skills over No-Skill prompting. We then ask whether any part of the skill is useful by ablating different skill components. The main ablation covers 56 tasks, nine model configurations, and three providers, yielding 7,560 runs. Compared with prompting using the task alone, neither the full generated skill nor any ablated skill variant significantly improves performance; all p-values are at least 0.396, and the total spread across variants is only 1.2 pp. A supplemental token-matched control adds 1,512 runs and finds that Full skills perform similarly to task-irrelevant skill-formatted content. The results caution against using one LLM-generated skill per data-science workflow as a default single-shot prompting strategy.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07504",
+      "pdf": "https://arxiv.org/pdf/2607.07504"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 13,
+        "confidence": 96
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 6,
+        "confidence": 61
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "score": 26,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Do LLM-Generated Skills Make Better AI Data Scientists? A Component Ablation ...\n**研究方法**：改进现有方案\n**所属领域**：大语言模型、自然语言处理、强化学习"
+  },
+  {
+    "id": "2607.07513",
+    "title": "Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization",
+    "authors": [
+      "Adam M. Oberman"
+    ],
+    "summary": "Self-supervised learning matches supervised accuracy from a fraction of the labels, but the labeled-sample efficiency behind this has lacked a theoretical explanation. We provide one. Data augmentation induces a similarity graph on the unlabeled data, so downstream learning on that graph is graph-Laplacian-regularized learning. We prove a fast transductive rate, $O(1/n_L)$ in the number of labels, in place of the supervised $O(1/\\sqrt{n_L})$, by carrying the leave-one-out stability apparatus of Johnson and Zhang (JMLR 2007) over to the augmentation graph, and without the unrealistic assumptions of limit-based analyses (exact kernel, generalizing features). The bound makes augmentation quality explicit: the expected error is at most $C/n_L + R_{\\mathrm{DA}}(y)$, where the data-augmentation alignment error $R_{\\mathrm{DA}}(y)$ is the graph-cut mass of augmentations that cross a label boundary, so good augmentations let few labels suffice. The analysis uses a streamlined loss that drops the projector, negative-sample, and orthogonality overhead of standard objectives yet still recovers the top-$K$ ideal features in the infinite-data limit, the augmentation-kernel eigenspace studied by Zhai et al. The result explains the observed accuracy-versus-label-count curve rather than only bounding a generalization gap.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07513",
+      "pdf": "https://arxiv.org/pdf/2607.07513"
+    },
+    "domains": [
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 45
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 22,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regulariz...\n**核心技术**：涉及 自监督学习、泛化能力\n**实验数据**：在 MATH 上验证\n**所属领域**：生成式AI、自然语言处理、图神经网络"
+  },
+  {
+    "id": "2607.07460",
+    "title": "Social-spatial dependencies for learning visual navigation",
+    "authors": [
+      "Patrick Govoni",
+      "Pawel Romanczuk"
+    ],
+    "summary": "Navigation for social organisms rarely is a fully independent activity. Group structure and dynamics, as well as embodied interactions, critically influence useful behavior. Individual neural network controlled agents are trained to navigate in different social contexts, where social dependence and behavioral strategy learned is determined by relative task performance and spatial effect. Increasing high quality social information drives phase transitions from individual to following navigational strategy, and to collision avoidance in response to a crowded foraging patch. Predictable, nonstationary environmental dynamics drive behavioral hybridization between individual and social navigation, far and near the patch. Our findings challenge the approach of only inspecting individual behavior for social organisms and highlight the importance of taking a bottom-up approach in understanding how organisms behave.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07460",
+      "pdf": "https://arxiv.org/pdf/2607.07460"
+    },
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 5,
+        "confidence": 83
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 5,
+        "confidence": 43
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 1,
+        "confidence": 12
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "score": 21,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：Social-spatial dependencies for learning visual navigation\n**所属领域**：图神经网络、计算机视觉、多模态"
+  },
+  {
+    "id": "2607.07423",
+    "title": "The Optimal Sample Complexity of Learning Autoregressive Chain-of-Thought",
+    "authors": [
+      "Zhiyuan Li"
+    ],
+    "summary": "We prove that, in the realizable PAC setting, the sample complexity of exact-trace learning for full autoregressive Chain-of-Thought traces is upper bounded by the standard multiclass rate of the local next-token class, where this rate is governed by the Daniely--Shalev-Shwartz dimension. Under exact-trace loss, one wrong action makes the whole trace incorrect; nevertheless, for every stopping rule $\\mathtt{halt}$ and every pointwise $\\mathtt{halt}$-halting local class $\\mathrm{H}$, $n_{\\mathrm{PAC}}^{\\varepsilon,δ}(\\operatorname{Roll}_{\\mathtt{halt}}(\\mathrm{H}))=O((\\operatorname{DSdim}(\\mathrm{H})+\\log(1/δ))/\\varepsilon)$, with no dependence on rollout length. The dependence on $\\operatorname{DSdim}(\\mathrm{H})$ is worst-case optimal, since one-step stopping recovers ordinary multiclass learning of $\\mathrm{H}$. The proof introduces parity dimension, a rollout-stable refinement of DS dimension based on even pseudo-cubes. It controls one-inclusion density via a low-coordinate spanning theorem on finite restrictions and, unlike DS dimension itself, does not increase under autoregressive rollout. We also show why this detour is necessary: DS dimension can increase under rollout.",
+    "published": "2026-07-08",
+    "categories": [],
+    "primaryCategory": "unknown",
+    "links": {
+      "abs": "https://arxiv.org/abs/2607.07423",
+      "pdf": "https://arxiv.org/pdf/2607.07423"
+    },
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      }
+    ],
+    "score": 20,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "summaryCN": "**研究主题**：The Optimal Sample Complexity of Learning Autoregressive Chain-of-Thought\n**核心技术**：涉及 思维链推理\n**实验数据**：在 MATH 上验证\n**所属领域**：大语言模型"
+  },
+  {
     "id": "2607.07708",
     "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
     "authors": [
@@ -41,7 +1487,54 @@
       "abs": "https://arxiv.org/abs/2607.07708",
       "pdf": "https://arxiv.org/pdf/2607.07708v1"
     },
-    "score": 85
+    "score": 48,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 8,
+        "confidence": 81
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 52
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 4,
+        "confidence": 34
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 2,
+        "confidence": 33
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 1,
+        "confidence": 12
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Accurate, Interdisciplinary and Transparent Structure-property Understanding ...\n**核心技术**：涉及 最先进水平(SOTA)、大语言模型(LLM)\n**研究方法**：提出新方法\n**性能提升**：98%\n**所属领域**：自然语言处理、大语言模型、计算机视觉"
   },
   {
     "id": "2607.07707",
@@ -64,7 +1557,40 @@
       "abs": "https://arxiv.org/abs/2607.07707",
       "pdf": "https://arxiv.org/pdf/2607.07707v1"
     },
-    "score": 85
+    "score": 46,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 11,
+        "confidence": 100
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 3,
+        "confidence": 33
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 3,
+        "confidence": 30
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 2,
+        "confidence": 30
+      }
+    ],
+    "summaryCN": "**研究主题**：Co-LMLM: Continuous-Query Limited Memory Language Models\n**核心技术**：涉及 预训练\n**研究方法**：提出新方法\n**所属领域**：大语言模型、AI安全与对齐、自然语言处理"
   },
   {
     "id": "2607.07675",
@@ -106,7 +1632,61 @@
       "abs": "https://arxiv.org/abs/2607.07675",
       "pdf": "https://arxiv.org/pdf/2607.07675v1"
     },
-    "score": 85
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 11,
+        "confidence": 94
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 4,
+        "confidence": 49
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 45
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 6,
+        "confidence": 44
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence\n**核心技术**：涉及 预训练\n**研究方法**：提出新方法、改进现有方案、取得优异结果\n**实验数据**：在 ARC 上验证\n**所属领域**：计算机视觉、多模态、生成式AI"
   },
   {
     "id": "2607.07673",
@@ -149,7 +1729,33 @@
       "abs": "https://arxiv.org/abs/2607.07673",
       "pdf": "https://arxiv.org/pdf/2607.07673v1"
     },
-    "score": 85
+    "score": 56,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "domains": [
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 8,
+        "confidence": 99
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 7,
+        "confidence": 77
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 4,
+        "confidence": 59
+      }
+    ],
+    "summaryCN": "**研究主题**：MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal D...\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**性能提升**：95.3%、19.7%\n**所属领域**：多模态、计算机视觉、大语言模型"
   },
   {
     "id": "2607.07608",
@@ -173,7 +1779,47 @@
       "abs": "https://arxiv.org/abs/2607.07608",
       "pdf": "https://arxiv.org/pdf/2607.07608v1"
     },
-    "score": 85
+    "score": 42,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 5,
+        "confidence": 62
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "summaryCN": "**研究主题**：Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation\n**研究方法**：提出新方法\n**所属领域**：多模态、生成式AI、强化学习"
   },
   {
     "id": "2607.07553",
@@ -197,7 +1843,33 @@
       "abs": "https://arxiv.org/abs/2607.07553",
       "pdf": "https://arxiv.org/pdf/2607.07553v1"
     },
-    "score": 85
+    "score": 52,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 12,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：AA-ViT: Anatomically Aware Vision Transformer with Structural and Frequency G...\n**核心技术**：涉及 Transformer架构、最先进水平(SOTA)\n**研究方法**：提出新方法、改进现有方案\n**所属领域**：计算机视觉、大语言模型、自然语言处理"
   },
   {
     "id": "2607.07534",
@@ -232,7 +1904,40 @@
       "abs": "https://arxiv.org/abs/2607.07534",
       "pdf": "https://arxiv.org/pdf/2607.07534v1"
     },
-    "score": 85
+    "score": 43,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 7,
+        "confidence": 78
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Infinite Worlds with Versatile Interactions\n**核心技术**：涉及 预训练\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：强化学习、高效模型、计算机视觉"
   },
   {
     "id": "2607.07702",
@@ -253,7 +1958,19 @@
       "abs": "https://arxiv.org/abs/2607.07702",
       "pdf": "https://arxiv.org/pdf/2607.07702v1"
     },
-    "score": 80
+    "score": 50,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 52
+      }
+    ],
+    "summaryCN": "**研究主题**：From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal E...\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：提出新方法、改进现有方案\n**性能提升**：42.5%、58.5%\n**所属领域**：大语言模型"
   },
   {
     "id": "2607.07683",
@@ -274,7 +1991,40 @@
       "abs": "https://arxiv.org/abs/2607.07683",
       "pdf": "https://arxiv.org/pdf/2607.07683v1"
     },
-    "score": 80
+    "score": 42,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 7,
+        "confidence": 78
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 3,
+        "confidence": 42
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 3,
+        "confidence": 26
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial I...\n**实验数据**：在 ARC 上验证\n**性能提升**：95.51%、88.89%\n**所属领域**：强化学习、高效模型、计算机视觉"
   },
   {
     "id": "2607.07669",
@@ -295,7 +2045,54 @@
       "abs": "https://arxiv.org/abs/2607.07669",
       "pdf": "https://arxiv.org/pdf/2607.07669v1"
     },
-    "score": 80
+    "score": 45,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 10,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 4,
+        "confidence": 61
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 4,
+        "confidence": 40
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialec...\n**核心技术**：涉及 预训练、大语言模型(LLM)\n**研究方法**：提出新方法\n**所属领域**：大语言模型、生成式AI、自然语言处理"
   },
   {
     "id": "2607.07640",
@@ -315,7 +2112,47 @@
       "abs": "https://arxiv.org/abs/2607.07640",
       "pdf": "https://arxiv.org/pdf/2607.07640v1"
     },
-    "score": 80
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 22
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：ALER-TI: Aligned Latent Embedding Retrieval for Time Series Imputation\n**核心技术**：涉及 检索增强生成(RAG)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：大语言模型、强化学习、图神经网络"
   },
   {
     "id": "2607.07521",
@@ -335,7 +2172,61 @@
       "abs": "https://arxiv.org/abs/2607.07521",
       "pdf": "https://arxiv.org/pdf/2607.07521v1"
     },
-    "score": 80
+    "score": 39,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 45
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 3,
+        "confidence": 42
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 4,
+        "confidence": 40
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 30
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 2,
+        "confidence": 25
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "summaryCN": "**研究主题**：Creativity from Friction: Human-AI Interaction for Exploratory Structural Design\n**核心技术**：涉及 低秩适配(LoRA)\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：生成式AI、高效模型、自然语言处理"
   },
   {
     "id": "2607.07696",
@@ -352,7 +2243,47 @@
       "abs": "https://arxiv.org/abs/2607.07696",
       "pdf": "https://arxiv.org/pdf/2607.07696v1"
     },
-    "score": 70
+    "score": 45,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 13,
+        "confidence": 100
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 4,
+        "confidence": 44
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 4,
+        "confidence": 40
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      }
+    ],
+    "summaryCN": "**研究主题**：Breaking Database Lock-in: Agentic Regeneration of High Performance Storage R...\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：提出新方法\n**所属领域**：大语言模型、AI安全与对齐、自然语言处理"
   },
   {
     "id": "2607.07695",
@@ -368,7 +2299,40 @@
       "abs": "https://arxiv.org/abs/2607.07695",
       "pdf": "https://arxiv.org/pdf/2607.07695v1"
     },
-    "score": 70
+    "score": 34,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 3,
+        "confidence": 56
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape ...\n**核心技术**：涉及 多智能体\n**研究方法**：提出新方法\n**性能提升**：87%、22%\n**所属领域**：AI安全与对齐、强化学习、图神经网络"
   },
   {
     "id": "2607.07693",
@@ -386,7 +2350,47 @@
       "abs": "https://arxiv.org/abs/2607.07693",
       "pdf": "https://arxiv.org/pdf/2607.07693v1"
     },
-    "score": 70
+    "score": 50,
+    "stars": "⭐⭐⭐",
+    "grade": "B — 可读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 18,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 8,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 9,
+        "confidence": 81
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 26
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      }
+    ],
+    "summaryCN": "**研究主题**：Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient ...\n**核心技术**：涉及 强化学习、人类反馈强化学习(RLHF)、泛化能力、扩散模型、RLHF\n**研究方法**：提出新方法、改进现有方案、取得优异结果\n**所属领域**：强化学习、生成式AI、大语言模型"
   },
   {
     "id": "2607.07690",
@@ -402,7 +2406,33 @@
       "abs": "https://arxiv.org/abs/2607.07690",
       "pdf": "https://arxiv.org/pdf/2607.07690v1"
     },
-    "score": 70
+    "score": 29,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 6,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning\n**核心技术**：涉及 强化学习\n**研究方法**：提出新方法、改进现有方案\n**实验数据**：在 MATH 上验证\n**所属领域**：强化学习、大语言模型、AI安全与对齐"
   },
   {
     "id": "2607.07689",
@@ -418,7 +2448,33 @@
       "abs": "https://arxiv.org/abs/2607.07689",
       "pdf": "https://arxiv.org/pdf/2607.07689v1"
     },
-    "score": 70
+    "score": 37,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      }
+    ],
+    "summaryCN": "**研究主题**：Agent Delivery Engineering Predictive Reliability Framework\n**核心技术**：涉及 多智能体\n**研究方法**：提出新方法\n**性能提升**：76.8%、99.65%\n**所属领域**：强化学习、图神经网络、大语言模型"
   },
   {
     "id": "2607.07682",
@@ -437,7 +2493,40 @@
       "abs": "https://arxiv.org/abs/2607.07682",
       "pdf": "https://arxiv.org/pdf/2607.07682v1"
     },
-    "score": 70
+    "score": 45,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 5,
+        "confidence": 83
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 45
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Const...\n**研究方法**：取得优异结果\n**所属领域**：图神经网络、生成式AI、AI安全与对齐"
   },
   {
     "id": "2607.07680",
@@ -454,7 +2543,40 @@
       "abs": "https://arxiv.org/abs/2607.07680",
       "pdf": "https://arxiv.org/pdf/2607.07680v1"
     },
-    "score": 70
+    "score": 34,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 50
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 3,
+        "confidence": 30
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 26
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Any-Dimensional Learning by Sampling\n**核心技术**：涉及 Transformer架构、泛化能力、图神经网络(GNN)\n**研究方法**：提出新方法、取得优异结果、超越基线模型\n**所属领域**：图神经网络、自然语言处理、计算机视觉"
   },
   {
     "id": "2607.07678",
@@ -472,7 +2594,33 @@
       "abs": "https://arxiv.org/abs/2607.07678",
       "pdf": "https://arxiv.org/pdf/2607.07678v1"
     },
-    "score": 70
+    "score": 35,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 6,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 30
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Lengt...\n**核心技术**：涉及 Transformer架构、泛化能力\n**研究方法**：提出新方法\n**所属领域**：自然语言处理、大语言模型、强化学习"
   },
   {
     "id": "2607.07674",
@@ -488,7 +2636,33 @@
       "abs": "https://arxiv.org/abs/2607.07674",
       "pdf": "https://arxiv.org/pdf/2607.07674v1"
     },
-    "score": 70
+    "score": 31,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 5,
+        "confidence": 56
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems\n**实验数据**：在 MATH 上验证\n**性能提升**：50%\n**所属领域**：强化学习、自然语言处理、大语言模型"
   },
   {
     "id": "2607.07671",
@@ -506,7 +2680,47 @@
       "abs": "https://arxiv.org/abs/2607.07671",
       "pdf": "https://arxiv.org/pdf/2607.07671v1"
     },
-    "score": 70
+    "score": 46,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：PeTeR: Post-Training Robustification of Probabilistic Circuits\n**核心技术**：涉及 泛化能力\n**研究方法**：提出新方法\n**所属领域**：自然语言处理、图神经网络、强化学习"
   },
   {
     "id": "2607.07670",
@@ -522,7 +2736,33 @@
       "abs": "https://arxiv.org/abs/2607.07670",
       "pdf": "https://arxiv.org/pdf/2607.07670v1"
     },
-    "score": 70
+    "score": 28,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 5,
+        "confidence": 56
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 52
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity...\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：改进现有方案\n**所属领域**：AI安全与对齐、大语言模型、自然语言处理"
   },
   {
     "id": "2607.07666",
@@ -539,7 +2779,33 @@
       "abs": "https://arxiv.org/abs/2607.07666",
       "pdf": "https://arxiv.org/pdf/2607.07666v1"
     },
-    "score": 70
+    "score": 39,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 7,
+        "confidence": 81
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      }
+    ],
+    "summaryCN": "**研究主题**：A hierarchical memory architecture overcomes context limits in long-horizon m...\n**核心技术**：涉及 大语言模型(LLM)、多智能体\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：大语言模型、强化学习、图神经网络"
   },
   {
     "id": "2607.07665",
@@ -555,7 +2821,40 @@
       "abs": "https://arxiv.org/abs/2607.07665",
       "pdf": "https://arxiv.org/pdf/2607.07665v1"
     },
-    "score": 70
+    "score": 30,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 2,
+        "confidence": 34
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 2,
+        "confidence": 30
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Guidance Breaks the Fitted Operator: A Terminal-Fitted Repair for Classifier-...\n**研究方法**：改进现有方案\n**实验数据**：在 CIFAR 上验证\n**所属领域**：计算机视觉、生成式AI、强化学习"
   },
   {
     "id": "2607.07663",
@@ -573,7 +2872,26 @@
       "abs": "https://arxiv.org/abs/2607.07663",
       "pdf": "https://arxiv.org/pdf/2607.07663v1"
     },
-    "score": 70
+    "score": 27,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 33
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous ...\n**实验数据**：在 ARC 上验证\n**所属领域**：强化学习、自然语言处理"
   },
   {
     "id": "2607.07646",
@@ -591,7 +2909,54 @@
       "abs": "https://arxiv.org/abs/2607.07646",
       "pdf": "https://arxiv.org/pdf/2607.07646v1"
     },
-    "score": 70
+    "score": 27,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 9,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 6,
+        "confidence": 44
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 2,
+        "confidence": 28
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 3,
+        "confidence": 26
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：RL Post-Training Builds Compositional Reasoning Strategies\n**核心技术**：涉及 Transformer架构、预训练、微调、低秩适配(LoRA)\n**研究方法**：提出新方法\n**所属领域**：强化学习、大语言模型、高效模型"
   },
   {
     "id": "2607.07637",
@@ -609,7 +2974,40 @@
       "abs": "https://arxiv.org/abs/2607.07637",
       "pdf": "https://arxiv.org/pdf/2607.07637v1"
     },
-    "score": 70
+    "score": 46,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：An optimal control approach for neural network architecture adaptation with a...\n**核心技术**：涉及 泛化能力\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：强化学习、AI安全与对齐、自然语言处理"
   },
   {
     "id": "2607.07634",
@@ -626,7 +3024,26 @@
       "abs": "https://arxiv.org/abs/2607.07634",
       "pdf": "https://arxiv.org/pdf/2607.07634v1"
     },
-    "score": 70
+    "score": 35,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 5,
+        "confidence": 60
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      }
+    ],
+    "summaryCN": "**研究主题**：QCNN with Rough Path Signature Kernels\n**研究方法**：提出新方法\n**实验数据**：在 MATH、ARC 上验证\n**所属领域**：计算机视觉、图神经网络"
   },
   {
     "id": "2607.07626",
@@ -642,7 +3059,54 @@
       "abs": "https://arxiv.org/abs/2607.07626",
       "pdf": "https://arxiv.org/pdf/2607.07626v1"
     },
-    "score": 70
+    "score": 37,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 8,
+        "confidence": 100
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 2,
+        "confidence": 28
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Future Confidence Distillation in Large Language Models\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：提出新方法、改进现有方案\n**所属领域**：大语言模型、高效模型、图神经网络"
   },
   {
     "id": "2607.07623",
@@ -659,7 +3123,33 @@
       "abs": "https://arxiv.org/abs/2607.07623",
       "pdf": "https://arxiv.org/pdf/2607.07623v1"
     },
-    "score": 70
+    "score": 39,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Nor...\n**研究方法**：提出新方法、改进现有方案\n**实验数据**：在 ARC 上验证\n**所属领域**：生成式AI、AI安全与对齐、自然语言处理"
   },
   {
     "id": "2607.07611",
@@ -676,7 +3166,26 @@
       "abs": "https://arxiv.org/abs/2607.07611",
       "pdf": "https://arxiv.org/pdf/2607.07611v1"
     },
-    "score": 70
+    "score": 46,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 4,
+        "confidence": 100
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug I...\n**核心技术**：涉及 图神经网络(GNN)\n**研究方法**：改进现有方案\n**实验数据**：在 ARC 上验证\n**性能提升**：29.8%、9.1%\n**所属领域**：图神经网络、强化学习"
   },
   {
     "id": "2607.07601",
@@ -694,7 +3203,54 @@
       "abs": "https://arxiv.org/abs/2607.07601",
       "pdf": "https://arxiv.org/pdf/2607.07601v1"
     },
-    "score": 70
+    "score": 41,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 12,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 6,
+        "confidence": 91
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 4,
+        "confidence": 44
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 3,
+        "confidence": 26
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：CARLA-GS: Decoupling Representation, Reasoning, and Physics Simulation for Au...\n**核心技术**：涉及 多智能体\n**研究方法**：提出新方法\n**所属领域**：自然语言处理、生成式AI、强化学习"
   },
   {
     "id": "2607.07581",
@@ -713,7 +3269,33 @@
       "abs": "https://arxiv.org/abs/2607.07581",
       "pdf": "https://arxiv.org/pdf/2607.07581v1"
     },
-    "score": 70
+    "score": 39,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 6,
+        "confidence": 51
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      }
+    ],
+    "summaryCN": "**研究主题**：Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory\n**研究方法**：提出新方法\n**所属领域**：计算机视觉、图神经网络、大语言模型"
   },
   {
     "id": "2607.07580",
@@ -732,7 +3314,33 @@
       "abs": "https://arxiv.org/abs/2607.07580",
       "pdf": "https://arxiv.org/pdf/2607.07580v1"
     },
-    "score": 70
+    "score": 38,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Automatic Echocardiography Segmentation via Transition Probability Correlatio...\n**研究方法**：提出新方法\n**所属领域**：大语言模型、图神经网络、AI安全与对齐"
   },
   {
     "id": "2607.07573",
@@ -750,7 +3358,26 @@
       "abs": "https://arxiv.org/abs/2607.07573",
       "pdf": "https://arxiv.org/pdf/2607.07573v1"
     },
-    "score": 70
+    "score": 37,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 8,
+        "confidence": 100
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping: How Taxonomy Structu...\n**核心技术**：涉及 Transformer架构、文本分类\n**研究方法**：超越基线模型\n**实验数据**：在 ARC 上验证\n**所属领域**：自然语言处理、大语言模型"
   },
   {
     "id": "2607.07565",
@@ -768,7 +3395,68 @@
       "abs": "https://arxiv.org/abs/2607.07565",
       "pdf": "https://arxiv.org/pdf/2607.07565v1"
     },
-    "score": 70
+    "score": 42,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 11,
+        "confidence": 100
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 5,
+        "confidence": 100
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 3,
+        "confidence": 50
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：Collaborative Synthetic Data Generation for Knowledge Transfer in Federated L...\n**核心技术**：涉及 联邦学习\n**研究方法**：提出新方法\n**所属领域**：AI安全与对齐、生成式AI、图神经网络"
   },
   {
     "id": "2607.07548",
@@ -786,7 +3474,61 @@
       "abs": "https://arxiv.org/abs/2607.07548",
       "pdf": "https://arxiv.org/pdf/2607.07548v1"
     },
-    "score": 70
+    "score": 45,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 4,
+        "confidence": 67
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 44
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "summaryCN": "**研究主题**：Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?\n**核心技术**：涉及 大语言模型(LLM)、多智能体\n**实验数据**：在 ARC 上验证\n**性能提升**：37%\n**所属领域**：图神经网络、大语言模型、强化学习"
   },
   {
     "id": "2607.07545",
@@ -804,7 +3546,40 @@
       "abs": "https://arxiv.org/abs/2607.07545",
       "pdf": "https://arxiv.org/pdf/2607.07545v1"
     },
-    "score": 70
+    "score": 48,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 13,
+        "confidence": 100
+      },
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 3,
+        "confidence": 26
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Face-trace: Open-Set Attribution and Progressive Discovery of Synthetic Face ...\n**研究方法**：提出新方法\n**性能提升**：96.73%、71.25%\n**所属领域**：自然语言处理、计算机视觉、强化学习"
   },
   {
     "id": "2607.07542",
@@ -823,7 +3598,26 @@
       "abs": "https://arxiv.org/abs/2607.07542",
       "pdf": "https://arxiv.org/pdf/2607.07542v1"
     },
-    "score": 70
+    "score": 44,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 2,
+        "confidence": 17
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 2,
+        "confidence": 15
+      }
+    ],
+    "summaryCN": "**研究主题**：SonoRank: Towards Calibration-Free Real-Time Finger Flexion Detection from Fo...\n**核心技术**：涉及 预训练、微调\n**研究方法**：提出新方法\n**性能提升**：28%\n**所属领域**：计算机视觉、大语言模型"
   },
   {
     "id": "2607.07538",
@@ -839,7 +3633,19 @@
       "abs": "https://arxiv.org/abs/2607.07538",
       "pdf": "https://arxiv.org/pdf/2607.07538v1"
     },
-    "score": 70
+    "score": 27,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      }
+    ],
+    "summaryCN": "**研究主题**：Avoiding unsafe sets when training with Langevin Dynamics\n**研究方法**：提出新方法\n**实验数据**：在 MATH 上验证\n**所属领域**：自然语言处理"
   },
   {
     "id": "2607.07532",
@@ -857,7 +3663,19 @@
       "abs": "https://arxiv.org/abs/2607.07532",
       "pdf": "https://arxiv.org/pdf/2607.07532v1"
     },
-    "score": 70
+    "score": 43,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 1,
+        "confidence": 9
+      }
+    ],
+    "summaryCN": "**研究主题**：Context-Aware Slum Mapping in Sub-Saharan Africa Using Sentinel-1 Texture and...\n**实验数据**：在 ARC 上验证\n**性能提升**：7%\n**所属领域**：计算机视觉"
   },
   {
     "id": "2607.07527",
@@ -876,7 +3694,33 @@
       "abs": "https://arxiv.org/abs/2607.07527",
       "pdf": "https://arxiv.org/pdf/2607.07527v1"
     },
-    "score": 70
+    "score": 38,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 3,
+        "confidence": 56
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 3,
+        "confidence": 52
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      }
+    ],
+    "summaryCN": "**研究主题**：A Unified Detection Framework for AI-Related Content and Artifacts\n**核心技术**：涉及 大语言模型(LLM)\n**研究方法**：提出新方法\n**所属领域**：AI安全与对齐、大语言模型、自然语言处理"
   },
   {
     "id": "2607.07518",
@@ -893,7 +3737,40 @@
       "abs": "https://arxiv.org/abs/2607.07518",
       "pdf": "https://arxiv.org/pdf/2607.07518v1"
     },
-    "score": 70
+    "score": 42,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "cv",
+        "name": "计算机视觉",
+        "icon": "👁️",
+        "matchCount": 8,
+        "confidence": 85
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 22
+      },
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 1,
+        "confidence": 12
+      },
+      {
+        "id": "safety",
+        "name": "AI安全与对齐",
+        "icon": "🛡️",
+        "matchCount": 1,
+        "confidence": 11
+      }
+    ],
+    "summaryCN": "**研究主题**：Learning to Unify Deformable Shape and Texture Representations for Cardiac Vi...\n**核心技术**：涉及 注意力机制、图像分类、最先进水平(SOTA)\n**研究方法**：提出新方法\n**所属领域**：计算机视觉、大语言模型、多模态"
   },
   {
     "id": "2607.07706",
@@ -911,7 +3788,26 @@
       "abs": "https://arxiv.org/abs/2607.07706",
       "pdf": "https://arxiv.org/pdf/2607.07706v1"
     },
-    "score": 65
+    "score": 41,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 6,
+        "confidence": 44
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      }
+    ],
+    "summaryCN": "**研究主题**：The Key to Going Linear: Analysis-Driven Transformer Linearization\n**核心技术**：涉及 Transformer架构、自注意力\n**研究方法**：提出新方法、超越基线模型\n**实验数据**：在 MMLU 上验证\n**所属领域**：大语言模型、图神经网络"
   },
   {
     "id": "2607.07676",
@@ -930,7 +3826,40 @@
       "abs": "https://arxiv.org/abs/2607.07676",
       "pdf": "https://arxiv.org/pdf/2607.07676v1"
     },
-    "score": 65
+    "score": 31,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 3,
+        "confidence": 50
+      },
+      {
+        "id": "generative",
+        "name": "生成式AI",
+        "icon": "🎨",
+        "matchCount": 1,
+        "confidence": 15
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      },
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 1,
+        "confidence": 7
+      }
+    ],
+    "summaryCN": "**研究主题**：SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Ag...\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：图神经网络、生成式AI、自然语言处理"
   },
   {
     "id": "2607.07612",
@@ -947,7 +3876,26 @@
       "abs": "https://arxiv.org/abs/2607.07612",
       "pdf": "https://arxiv.org/pdf/2607.07612v1"
     },
-    "score": 65
+    "score": 27,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 1,
+        "confidence": 11
+      },
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 1,
+        "confidence": 10
+      }
+    ],
+    "summaryCN": "**研究主题**：Towards Agentic AI Governance: A Preliminary Assessment\n**研究方法**：提出新方法\n**所属领域**：强化学习、自然语言处理"
   },
   {
     "id": "2607.07557",
@@ -964,7 +3912,26 @@
       "abs": "https://arxiv.org/abs/2607.07557",
       "pdf": "https://arxiv.org/pdf/2607.07557v1"
     },
-    "score": 65
+    "score": 36,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "llm",
+        "name": "大语言模型",
+        "icon": "🧠",
+        "matchCount": 9,
+        "confidence": 67
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 3,
+        "confidence": 42
+      }
+    ],
+    "summaryCN": "**研究主题**：PALS: Percentile-Aware Layerwise Sparsity for LLM Pruning\n**核心技术**：涉及 Transformer架构、微调、模型剪枝\n**研究方法**：提出新方法\n**实验数据**：在 ARC 上验证\n**所属领域**：大语言模型、高效模型"
   },
   {
     "id": "2607.07519",
@@ -981,7 +3948,40 @@
       "abs": "https://arxiv.org/abs/2607.07519",
       "pdf": "https://arxiv.org/pdf/2607.07519v1"
     },
-    "score": 65
+    "score": 38,
+    "stars": "⭐⭐",
+    "grade": "C — 泛读",
+    "domains": [
+      {
+        "id": "multimodal",
+        "name": "多模态",
+        "icon": "🔗",
+        "matchCount": 2,
+        "confidence": 25
+      },
+      {
+        "id": "rl",
+        "name": "强化学习",
+        "icon": "🎮",
+        "matchCount": 2,
+        "confidence": 22
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      },
+      {
+        "id": "efficient",
+        "name": "高效模型",
+        "icon": "⚡",
+        "matchCount": 1,
+        "confidence": 14
+      }
+    ],
+    "summaryCN": "**研究主题**：Gradient-free Riemannian Langevin Sampler\n**核心技术**：涉及 低秩适配(LoRA)\n**研究方法**：提出新方法\n**所属领域**：多模态、强化学习、图神经网络"
   },
   {
     "id": "2607.07517",
@@ -998,6 +3998,25 @@
       "abs": "https://arxiv.org/abs/2607.07517",
       "pdf": "https://arxiv.org/pdf/2607.07517v1"
     },
-    "score": 65
+    "score": 23,
+    "stars": "⭐",
+    "grade": "D — 略读",
+    "domains": [
+      {
+        "id": "nlp",
+        "name": "自然语言处理",
+        "icon": "📝",
+        "matchCount": 2,
+        "confidence": 20
+      },
+      {
+        "id": "gnn",
+        "name": "图神经网络",
+        "icon": "🕸️",
+        "matchCount": 1,
+        "confidence": 17
+      }
+    ],
+    "summaryCN": "**研究主题**：Stability and Convergence of Optimistic Exponential Weights with Asymmetric S...\n**所属领域**：自然语言处理、图神经网络"
   }
 ]

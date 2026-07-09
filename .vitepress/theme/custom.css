@@ -1,5 +1,5 @@
 /* ========================================
-   Skills 推荐系统 — 卡片式布局样式
+   自定义样式 — Skills 卡片 + 论文统计 + 快捷入口
    ======================================== */
 
 /* ---- 分类卡片网格 ---- */
@@ -157,6 +157,72 @@
   margin: 8px 0 16px;
 }
 
+/* ---- 统计卡片网格（论文页）---- */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 14px;
+  margin: 18px 0 28px;
+}
+
+.stat-card {
+  padding: 18px 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 10px;
+  text-align: center;
+  background: var(--vp-c-bg-soft);
+}
+
+.stat-card.highlight {
+  border-color: var(--vp-c-brand);
+  background: color-mix(in srgb, var(--vp-c-brand) 8%, var(--vp-c-bg-soft));
+}
+
+.stat-num {
+  font-size: 28px;
+  font-weight: 800;
+  color: var(--vp-c-brand);
+  line-height: 1.2;
+}
+
+.stat-label {
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  margin-top: 6px;
+}
+
+/* ---- 快捷链接按钮 ---- */
+.quick-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 16px 0;
+}
+
+.quick-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  text-decoration: none !important;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  background: var(--vp-c-bg-soft);
+  transition: all 0.2s ease;
+}
+
+.quick-link:hover {
+  border-color: var(--vp-c-brand);
+  color: var(--vp-c-brand);
+  transform: translateY(-1px);
+}
+
+/* ---- 页面头部 ---- */
+.page-header {
+  margin-bottom: 8px;
+}
+
 /* ---- 响应式 ---- */
 @media (max-width: 640px) {
   .category-grid {
@@ -168,5 +234,11 @@
   .skill-header {
     flex-direction: column;
     align-items: flex-start;
+  }
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .quick-links {
+    flex-direction: column;
   }
 }
