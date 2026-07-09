@@ -1,17 +1,64 @@
-# 📰 AI 行业动态
+# 📰 AI 资讯
 
-> 聚合高质量 AI 资讯源，每日自动更新
+> 每天自动从多个 AI 资讯源聚合最新动态。
+
+## 📅 最近更新: 2026-07-09
+
+| # | 标题 | 来源 | 日期 |
+|---|------|------|------|
+| 1 | [Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Languag...](https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/) | MarkTechPost | 2026-07-09 |
+| 2 | [SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agen...](https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/) | MarkTechPost | 2026-07-08 |
+| 3 | [Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Mi...](https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/) | MarkTechPost | 2026-07-08 |
+| 4 | [Google AI Studio Adds &#8216;Import from GitHub&#8217; to Build Mod...](https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/) | MarkTechPost | 2026-07-08 |
+| 5 | [OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Mod...](https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/) | MarkTechPost | 2026-07-08 |
+| 6 | [NVIDIA&#8217;s Cosmos-Framework Tutorial: Designing a Colab-Friendl...](https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/) | MarkTechPost | 2026-07-08 |
+| 7 | [Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Cen...](https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/) | MarkTechPost | 2026-07-08 |
+| 8 | [NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...](https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/) | MarkTechPost | 2026-07-08 |
+| 9 | [Liquid AI Open-Sources Antidoom: A Final Token Preference Optimizat...](https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/) | MarkTechPost | 2026-07-07 |
+| 10 | [Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model w...](https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/) | MarkTechPost | 2026-07-07 |
+| 11 | [Tools vs. Subagents: Building Effective AI Agents Without Over-Engi...](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) | Machine Learning Mastery | 2026-07-07 |
+| 12 | [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) | Machine Learning Mastery | 2026-07-06 |
+| 13 | [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-07-02 |
+| 14 | [Context Window Management for Long-Running Agents: Strategies and T...](https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/) | Machine Learning Mastery | 2026-06-30 |
+| 15 | [Model Context Protocol Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/) | Machine Learning Mastery | 2026-06-29 |
+| 16 | [The AI Agent Tech Stack Explained](https://machinelearningmastery.com/the-ai-agent-tech-stack-explained/) | Machine Learning Mastery | 2026-06-26 |
+| 17 | [Agentic Workflow vs. Autonomous Agent: What’s the Difference?](https://machinelearningmastery.com/agentic-workflow-vs-autonomous-agent-whats-the-difference/) | Machine Learning Mastery | 2026-06-25 |
+| 18 | [Context Windows Are Not Memory: What AI Agent Developers Need to Un...](https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/) | Machine Learning Mastery | 2026-06-24 |
+| 19 | [Clustering Unstructured Text with LLM Embeddings and HDBSCAN](https://machinelearningmastery.com/clustering-unstructured-text-with-llm-embeddings-and-hdbscan/) | Machine Learning Mastery | 2026-06-23 |
+| 20 | [Building Browser-Using AI Agents in Python](https://machinelearningmastery.com/building-browser-using-ai-agents-in-python/) | Machine Learning Mastery | 2026-06-22 |
+| 21 | [Which Agent Causes Task Failures and When?Researchers from PSU and ...](https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/) | SyncedReview | 2025-08-14 |
+| 22 | [ByteDance Introduces Astra: A Dual-Model Architecture for Autonomou...](https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/) | SyncedReview | 2025-06-24 |
+| 23 | [MIT Researchers Unveil &#8220;SEAL&#8221;: A New Step Towards Self-...](https://syncedreview.com/2025/06/16/mit-researchers-unveil-seal-a-new-step-towards-self-improving-ai/) | SyncedReview | 2025-06-16 |
+| 24 | [Researchers from PSU and Duke introduce &#8220;Multi-Agent Systems ...](https://syncedreview.com/2025/06/16/researchers-from-psu-and-duke-introduce-multi-agent-systems-automated-failure-attribution/) | SyncedReview | 2025-06-16 |
+| 25 | [Adobe Research Unlocking Long-Term Memory in Video World Models wit...](https://syncedreview.com/2025/05/28/adobe-research-unlocking-long-term-memory-in-video-world-models-with-state-space-models/) | SyncedReview | 2025-05-28 |
+| 26 | [DeepSeek-V3 New Paper is coming! Unveiling the Secrets of Low-Cost ...](https://syncedreview.com/2025/05/15/deepseek-v3-new-paper-is-coming-unveiling-the-secrets-of-low-cost-large-model-training-through-hardware-aware-co-design/) | SyncedReview | 2025-05-15 |
+| 27 | [DeepSeek Unveils DeepSeek-Prover-V2: Advancing Neural Theorem Provi...](https://syncedreview.com/2025/04/30/deepseek-unveils-deepseek-prover-v2-advancing-neural-theorem-proving-with-recursive-proof-search-and-a-new-benchmark/) | SyncedReview | 2025-04-30 |
+| 28 | [Can GRPO be 10x Efficient? Kwai AI&#8217;s SRPO Suggests Yes with SRPO](https://syncedreview.com/2025/04/23/can-grpo-be-10x-efficient-kwai-ais-srpo-suggests-yes-with-srpo/) | SyncedReview | 2025-04-24 |
+| 29 | [Zhipu.AI&#8217;s Open-Source Power Play: Blazing-Fast GLM Models &#...](https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/) | SyncedReview | 2025-04-16 |
+| 30 | [DeepSeek Signals Next-Gen R2 Model, Unveils Novel Approach to Scali...](https://syncedreview.com/2025/04/11/deepseek-signals-next-gen-r2-model-unveils-novel-approach-to-scaling-inference-with-spct/) | SyncedReview | 2025-04-11 |
 
 ---
 
-## 资讯来源
+## 🗄️ 历史归档
 
-| 来源 | 简介 | 更新频率 |
-|------|------|---------|
-| Hugging Face Daily Papers | 社区每日热门论文精选 | 每日 |
-| MIT Technology Review - AI | 深度 AI 技术报道 | 每周 |
-| arXiv 最新 submissions | AI 各领域最新预印本 | 每日 |
-
----
-
-> ⚡ 资讯内容将由 GitHub Actions 每天自动抓取并更新到此页面。
+- [📰 2026-07-09](/news/2026-07-09)
+- [📰 2026-07-08](/news/2026-07-08)
+- [📰 2026-07-07](/news/2026-07-07)
+- [📰 2026-07-06](/news/2026-07-06)
+- [📰 2026-07-02](/news/2026-07-02)
+- [📰 2026-06-30](/news/2026-06-30)
+- [📰 2026-06-29](/news/2026-06-29)
+- [📰 2026-06-26](/news/2026-06-26)
+- [📰 2026-06-25](/news/2026-06-25)
+- [📰 2026-06-24](/news/2026-06-24)
+- [📰 2026-06-23](/news/2026-06-23)
+- [📰 2026-06-22](/news/2026-06-22)
+- [📰 2025-08-14](/news/2025-08-14)
+- [📰 2025-06-24](/news/2025-06-24)
+- [📰 2025-06-16](/news/2025-06-16)
+- [📰 2025-05-28](/news/2025-05-28)
+- [📰 2025-05-15](/news/2025-05-15)
+- [📰 2025-04-30](/news/2025-04-30)
+- [📰 2025-04-24](/news/2025-04-24)
+- [📰 2025-04-16](/news/2025-04-16)
+- [📰 2025-04-11](/news/2025-04-11)

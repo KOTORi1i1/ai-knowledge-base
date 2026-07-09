@@ -1,0 +1,62 @@
+# 每日自动更新工作流
+# 每天 UTC 时间 0:00（北京时间 8:00）自动运行
+# 抓取最新 AI 论文和资讯，自动更新网站内容
+
+name: 🤖 每日内容更新
+
+on:
+  # 定时运行：每天 UTC 0:00（北京时间 8:00）
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 允许手动触发（在 GitHub 网页上点按钮运行）
+  workflow_dispatch:
+
+# 权限设置：允许 Actions 推送代码
+permissions:
+  contents: write
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. 拉取代码
+      - name: 📥 拉取仓库代码
+        uses: actions/checkout@v4
+
+      # 2. 安装 Node.js
+      - name: 🔧 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 3. 安装依赖（目前只有 VitePress，后续如果有新依赖会自动安装）
+      - name: 📦 安装依赖
+        run: npm install
+
+      # 4. 抓取 arXiv 论文
+      - name: 📄 抓取 arXiv 论文
+        run: node scripts/fetch-papers.mjs
+
+      # 5. 抓取 AI 资讯
+      - name: 📰 抓取 AI 资讯
+        run: node scripts/fetch-news.mjs
+
+      # 6. 提交并推送更改
+      - name: 📤 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 添加生成的内容文件
+          git add papers/daily/ papers/data/ papers/index.md news/ -f
+
+          # 检查是否有更改
+          if git diff --cached --quiet; then
+            echo "没有新内容，跳过提交"
+          else
+            git commit -m "📅 每日自动更新 - $(date +'%Y-%m-%d')"
+            git push
+            echo "✅ 更新已推送"
+          fi

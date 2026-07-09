@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "preview": "vitepress preview"
+    "preview": "vitepress preview",
+    "fetch-papers": "node scripts/fetch-papers.mjs",
+    "fetch-news": "node scripts/fetch-news.mjs",
+    "fetch-all": "node scripts/fetch-papers.mjs && node scripts/fetch-news.mjs"
   },
   "keywords": [],
   "author": "",
