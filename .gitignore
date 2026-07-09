@@ -1,0 +1,10 @@
+# 依赖包（npm install 就能重新下载，不需要存档）
+node_modules/
+
+# 构建输出（每次构建都会重新生成）
+.vitepress/dist/
+.vitepress/cache/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
