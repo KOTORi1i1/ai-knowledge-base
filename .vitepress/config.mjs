@@ -9,6 +9,9 @@ export default defineConfig({
   description: 'AI 论文追踪 · 行业动态 · Skills 推荐',  // 网站简介（搜索引擎会显示）
   lang: 'zh-CN',                        // 网站语言：中文
 
+  // ===== 排除非内容文件 =====
+  srcExclude: ['CLAUDE.md', 'README.md'],
+
   // ===== 顶部导航栏 =====
   themeConfig: {
     nav: [

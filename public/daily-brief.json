@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-10",
+  "generated": "2026-07-10T07:56:43.070Z",
+  "headline": {
+    "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
+    "summary": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatib",
+    "why": "今日最重要的一条 AI 资讯，建议优先阅读",
+    "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+    "source": "MarkTechPost",
+    "category": "🛠 工具"
+  },
+  "trend": "🔥 模型方向最活跃（4 条），「Agent」是今日热词（3 次）",
+  "top3": [
+    {
+      "rank": 1,
+      "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
+      "summary": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatib",
+      "stars": 4.7,
+      "starsText": "★★★★★",
+      "category": "🛠 工具",
+      "categoryId": "tool",
+      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+      "source": "MarkTechPost",
+      "date": "2026-07-09"
+    },
+    {
+      "rank": 2,
+      "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+      "summary": "Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. I",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "🤖 Agent",
+      "categoryId": "agent",
+      "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+      "source": "MarkTechPost",
+      "date": "2026-07-09"
+    },
+    {
+      "rank": 3,
+      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+      "summary": "OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 p",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "🔥 模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+      "source": "MarkTechPost",
+      "date": "2026-07-09"
+    }
+  ],
+  "categories": {
+    "tool": {
+      "name": "🛠 工具",
+      "icon": "🛠",
+      "count": 2,
+      "top": "Google AI Studio Adds Import from GitHub to Build a Deployab"
+    },
+    "agent": {
+      "name": "🤖 Agent",
+      "icon": "🤖",
+      "count": 3,
+      "top": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multi"
+    },
+    "model": {
+      "name": "🔥 模型",
+      "icon": "🔥",
+      "count": 4,
+      "top": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Mod"
+    },
+    "paper": {
+      "name": "📄 论文",
+      "icon": "📄",
+      "count": 1,
+      "top": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-"
+    }
+  },
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Google AI Studio Adds Import from GitHub」",
+  "stats": {
+    "total": 10,
+    "avgRating": 4,
+    "topRated": 7
+  }
+}

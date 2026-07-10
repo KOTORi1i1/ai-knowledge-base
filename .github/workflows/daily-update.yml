@@ -43,14 +43,18 @@ jobs:
       - name: 📰 抓取 AI 资讯
         run: node scripts/fetch-news.mjs
 
-      # 6. 提交并推送更改
+      # 6. 生成每日简报（Daily Brief）
+      - name: 📋 生成每日简报
+        run: node scripts/generate-daily-brief.mjs
+
+      # 7. 提交并推送更改
       - name: 📤 提交更新
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # 添加生成的内容文件
-          git add papers/daily/ papers/data/ papers/index.md papers/weekly.md papers/search.md papers/tags/ news/ -f
+          git add papers/daily/ papers/data/ papers/index.md papers/weekly.md papers/search.md papers/tags/ news/ public/daily-brief.json -f
 
           # 检查是否有更改
           if git diff --cached --quiet; then
