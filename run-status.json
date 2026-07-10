@@ -2,27 +2,27 @@
   "total_count": 1,
   "workflow_runs": [
     {
-      "id": 29067366970,
+      "id": 29067624992,
       "name": "部署网站",
-      "node_id": "WFR_kwLOTT8TrM8AAAAGxIzSOg",
+      "node_id": "WFR_kwLOTT8TrM8AAAAGxJDCIA",
       "head_branch": "master",
-      "head_sha": "6d70e6b5da0815d7b756a89dac3ee519402fa3a7",
+      "head_sha": "921c9544a154d2fe1430b33e338c299e849be550",
       "path": ".github/workflows/deploy.yml",
-      "display_title": "部署网站",
-      "run_number": 5,
-      "event": "workflow_dispatch",
+      "display_title": "修复：SSR 兼容 — 搜索页脚本添加浏览器环境检测",
+      "run_number": 6,
+      "event": "push",
       "status": "completed",
       "conclusion": "failure",
       "workflow_id": 310390047,
-      "check_suite_id": 78639533348,
-      "check_suite_node_id": "CS_kwDOTT8TrM8AAAAST0gNJA",
-      "url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970",
-      "html_url": "https://github.com/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970",
+      "check_suite_id": 78640253025,
+      "check_suite_node_id": "CS_kwDOTT8TrM8AAAAST1MIYQ",
+      "url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992",
+      "html_url": "https://github.com/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992",
       "pull_requests": [
 
       ],
-      "created_at": "2026-07-10T03:41:08Z",
-      "updated_at": "2026-07-10T03:41:30Z",
+      "created_at": "2026-07-10T03:48:24Z",
+      "updated_at": "2026-07-10T03:48:47Z",
       "actor": {
         "login": "KOTORi1i1",
         "id": 283868949,
@@ -48,7 +48,7 @@
       "referenced_workflows": [
 
       ],
-      "run_started_at": "2026-07-10T03:41:08Z",
+      "run_started_at": "2026-07-10T03:48:24Z",
       "triggering_actor": {
         "login": "KOTORi1i1",
         "id": 283868949,
@@ -70,19 +70,19 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "jobs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970/jobs",
-      "logs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970/logs",
-      "check_suite_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/check-suites/78639533348",
-      "artifacts_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970/artifacts",
-      "cancel_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970/cancel",
-      "rerun_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067366970/rerun",
+      "jobs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992/jobs",
+      "logs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992/logs",
+      "check_suite_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/check-suites/78640253025",
+      "artifacts_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992/artifacts",
+      "cancel_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992/cancel",
+      "rerun_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29067624992/rerun",
       "previous_attempt_url": null,
       "workflow_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/workflows/310390047",
       "head_commit": {
-        "id": "6d70e6b5da0815d7b756a89dac3ee519402fa3a7",
-        "tree_id": "86828c58cb2d9bfc5272896c9f2aa45807e129f8",
-        "message": "修复：搜索页合并 script 标签 + 新增今日论文数据",
-        "timestamp": "2026-07-10T03:37:44Z",
+        "id": "921c9544a154d2fe1430b33e338c299e849be550",
+        "tree_id": "e3d372bd8d8f6c35a2d4fdcbd8ed5ece7549be62",
+        "message": "修复：SSR 兼容 — 搜索页脚本添加浏览器环境检测",
+        "timestamp": "2026-07-10T03:48:17Z",
         "author": {
           "name": "Reekooy",
           "email": "1528927697@qq.com"
