@@ -1,0 +1,264 @@
+﻿2026-07-10T03:32:44.3755679Z Current runner version: '2.335.1'
+2026-07-10T03:32:44.3789580Z ##[group]Runner Image Provisioner
+2026-07-10T03:32:44.3791179Z Hosted Compute Agent
+2026-07-10T03:32:44.3792116Z Version: 20260624.560
+2026-07-10T03:32:44.3793184Z Commit: 925d229a51159bc391ae97e54a2dd1fe20af789d
+2026-07-10T03:32:44.3794278Z Build Date: 2026-06-24T18:26:47Z
+2026-07-10T03:32:44.3795258Z Worker ID: {025fefdf-1ea0-4f32-b6ab-0db829d6123d}
+2026-07-10T03:32:44.3796432Z Azure Region: northcentralus
+2026-07-10T03:32:44.3797349Z ##[endgroup]
+2026-07-10T03:32:44.3799411Z ##[group]Operating System
+2026-07-10T03:32:44.3800572Z Ubuntu
+2026-07-10T03:32:44.3801362Z 24.04.4
+2026-07-10T03:32:44.3802249Z LTS
+2026-07-10T03:32:44.3803030Z ##[endgroup]
+2026-07-10T03:32:44.3803906Z ##[group]Runner Image
+2026-07-10T03:32:44.3804971Z Image: ubuntu-24.04
+2026-07-10T03:32:44.3805912Z Version: 20260705.232.1
+2026-07-10T03:32:44.3807947Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260705.232/images/ubuntu/Ubuntu2404-Readme.md
+2026-07-10T03:32:44.3810647Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260705.232
+2026-07-10T03:32:44.3812372Z ##[endgroup]
+2026-07-10T03:32:44.3814126Z ##[group]GITHUB_TOKEN Permissions
+2026-07-10T03:32:44.3817141Z Contents: read
+2026-07-10T03:32:44.3818029Z Metadata: read
+2026-07-10T03:32:44.3819006Z Packages: read
+2026-07-10T03:32:44.3820631Z ##[endgroup]
+2026-07-10T03:32:44.3824070Z Secret source: Actions
+2026-07-10T03:32:44.3825530Z Prepare workflow directory
+2026-07-10T03:32:44.4159263Z Prepare all required actions
+2026-07-10T03:32:44.4197698Z Getting action download info
+2026-07-10T03:32:44.6882696Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-07-10T03:32:44.7547932Z Download action repository 'actions/setup-node@v4' (SHA:49933ea5288caeca8642d1e84afbd3f7d6820020)
+2026-07-10T03:32:44.8404822Z Download action repository 'peaceiris/actions-gh-pages@v3' (SHA:373f7f263a76c20808c831209c920827a82a2847)
+2026-07-10T03:32:45.3599297Z Complete job name: build-and-deploy
+2026-07-10T03:32:45.4347684Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-07-10T03:32:45.4357043Z ##[group]Run actions/checkout@v4
+2026-07-10T03:32:45.4357781Z with:
+2026-07-10T03:32:45.4358279Z   repository: KOTORi1i1/ai-knowledge-base
+2026-07-10T03:32:45.4362705Z   token: ***
+2026-07-10T03:32:45.4363176Z   ssh-strict: true
+2026-07-10T03:32:45.4363650Z   ssh-user: git
+2026-07-10T03:32:45.4364123Z   persist-credentials: true
+2026-07-10T03:32:45.4364653Z   clean: true
+2026-07-10T03:32:45.4365136Z   sparse-checkout-cone-mode: true
+2026-07-10T03:32:45.4365693Z   fetch-depth: 1
+2026-07-10T03:32:45.4366148Z   fetch-tags: false
+2026-07-10T03:32:45.4366619Z   show-progress: true
+2026-07-10T03:32:45.4367135Z   lfs: false
+2026-07-10T03:32:45.4367621Z   submodules: false
+2026-07-10T03:32:45.4368093Z   set-safe-directory: true
+2026-07-10T03:32:45.4368809Z ##[endgroup]
+2026-07-10T03:32:45.5382388Z Syncing repository: KOTORi1i1/ai-knowledge-base
+2026-07-10T03:32:45.5384553Z ##[group]Getting Git version info
+2026-07-10T03:32:45.5385589Z Working directory is '/home/runner/work/ai-knowledge-base/ai-knowledge-base'
+2026-07-10T03:32:45.5386996Z [command]/usr/bin/git version
+2026-07-10T03:32:45.5409092Z git version 2.54.0
+2026-07-10T03:32:45.5429450Z ##[endgroup]
+2026-07-10T03:32:45.5445637Z Temporarily overriding HOME='/home/runner/work/_temp/ba069fc6-3ef6-4e25-96ca-7bb8365e0e47' before making global git config changes
+2026-07-10T03:32:45.5448502Z Adding repository directory to the temporary git global config as a safe directory
+2026-07-10T03:32:45.5451304Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/ai-knowledge-base/ai-knowledge-base
+2026-07-10T03:32:45.5514779Z Deleting the contents of '/home/runner/work/ai-knowledge-base/ai-knowledge-base'
+2026-07-10T03:32:45.5517264Z ##[group]Initializing the repository
+2026-07-10T03:32:45.5518611Z [command]/usr/bin/git init /home/runner/work/ai-knowledge-base/ai-knowledge-base
+2026-07-10T03:32:45.5605220Z hint: Using 'master' as the name for the initial branch. This default branch name
+2026-07-10T03:32:45.5606818Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+2026-07-10T03:32:45.5608156Z hint: to use in all of your new repositories, which will suppress this warning,
+2026-07-10T03:32:45.5609226Z hint: call:
+2026-07-10T03:32:45.5609678Z hint:
+2026-07-10T03:32:45.5611346Z hint: 	git config --global init.defaultBranch <name>
+2026-07-10T03:32:45.5612618Z hint:
+2026-07-10T03:32:45.5613641Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+2026-07-10T03:32:45.5615279Z hint: 'development'. The just-created branch can be renamed via this command:
+2026-07-10T03:32:45.5616576Z hint:
+2026-07-10T03:32:45.5617315Z hint: 	git branch -m <name>
+2026-07-10T03:32:45.5618229Z hint:
+2026-07-10T03:32:45.5619388Z hint: Disable this message with "git config set advice.defaultBranchName false"
+2026-07-10T03:32:45.5621997Z Initialized empty Git repository in /home/runner/work/ai-knowledge-base/ai-knowledge-base/.git/
+2026-07-10T03:32:45.5630482Z [command]/usr/bin/git remote add origin https://github.com/KOTORi1i1/ai-knowledge-base
+2026-07-10T03:32:45.5672829Z ##[endgroup]
+2026-07-10T03:32:45.5674372Z ##[group]Disabling automatic garbage collection
+2026-07-10T03:32:45.5676978Z [command]/usr/bin/git config --local gc.auto 0
+2026-07-10T03:32:45.5711215Z ##[endgroup]
+2026-07-10T03:32:45.5712842Z ##[group]Setting up auth
+2026-07-10T03:32:45.5717980Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-07-10T03:32:45.5756057Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-07-10T03:32:45.6118521Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-07-10T03:32:45.6160089Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-07-10T03:32:45.6414548Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-07-10T03:32:45.6452279Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-07-10T03:32:45.6688751Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+2026-07-10T03:32:45.6729192Z ##[endgroup]
+2026-07-10T03:32:45.6730784Z ##[group]Fetching the repository
+2026-07-10T03:32:45.6740832Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +71b2ce2a5ca728f42deb58551cb3b24970b91396:refs/remotes/origin/master
+2026-07-10T03:32:46.0231809Z From https://github.com/KOTORi1i1/ai-knowledge-base
+2026-07-10T03:32:46.0233151Z  * [new ref]         71b2ce2a5ca728f42deb58551cb3b24970b91396 -> origin/master
+2026-07-10T03:32:46.0263632Z ##[endgroup]
+2026-07-10T03:32:46.0264811Z ##[group]Determining the checkout info
+2026-07-10T03:32:46.0266291Z ##[endgroup]
+2026-07-10T03:32:46.0271935Z [command]/usr/bin/git sparse-checkout disable
+2026-07-10T03:32:46.0321590Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+2026-07-10T03:32:46.0355473Z ##[group]Checking out the ref
+2026-07-10T03:32:46.0360316Z [command]/usr/bin/git checkout --progress --force -B master refs/remotes/origin/master
+2026-07-10T03:32:46.0469173Z Reset branch 'master'
+2026-07-10T03:32:46.0471936Z branch 'master' set up to track 'origin/master'.
+2026-07-10T03:32:46.0479022Z ##[endgroup]
+2026-07-10T03:32:46.0531278Z [command]/usr/bin/git log -1 --format=%H
+2026-07-10T03:32:46.0560437Z 71b2ce2a5ca728f42deb58551cb3b24970b91396
+2026-07-10T03:32:46.0928771Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-07-10T03:32:46.0934707Z ##[group]Run actions/setup-node@v4
+2026-07-10T03:32:46.0935869Z with:
+2026-07-10T03:32:46.0936767Z   node-version: 20
+2026-07-10T03:32:46.0937713Z   cache: npm
+2026-07-10T03:32:46.0938616Z   always-auth: false
+2026-07-10T03:32:46.0939613Z   check-latest: false
+2026-07-10T03:32:46.0949450Z   token: ***
+2026-07-10T03:32:46.0950536Z ##[endgroup]
+2026-07-10T03:32:46.3911686Z Attempting to download 20...
+2026-07-10T03:32:46.4019270Z (node:2276) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-07-10T03:32:46.9558927Z (Use `node --trace-deprecation ...` to show where the warning was created)
+2026-07-10T03:32:46.9646361Z Acquiring 20.20.2 - x64 from https://github.com/actions/node-versions/releases/download/20.20.2-23521894959/node-20.20.2-linux-x64.tar.gz
+2026-07-10T03:32:47.3747301Z Extracting ...
+2026-07-10T03:32:47.3865291Z [command]/usr/bin/tar xz --strip 1 --warning=no-unknown-keyword --overwrite -C /home/runner/work/_temp/29c64805-d17f-4952-b54d-d27226bb30eb -f /home/runner/work/_temp/99c9aaab-fd10-44c5-adeb-a66c53b92471
+2026-07-10T03:32:48.4716999Z Adding to the cache ...
+2026-07-10T03:32:49.9700260Z ##[group]Environment details
+2026-07-10T03:32:50.1841425Z node: v20.20.2
+2026-07-10T03:32:50.1842047Z npm: 10.8.2
+2026-07-10T03:32:50.1842372Z yarn: 1.22.22
+2026-07-10T03:32:50.1843174Z ##[endgroup]
+2026-07-10T03:32:50.1859448Z [command]/opt/hostedtoolcache/node/20.20.2/x64/bin/npm config get cache
+2026-07-10T03:32:50.2899064Z /home/runner/.npm
+2026-07-10T03:32:50.4200087Z npm cache is not found
+2026-07-10T03:32:50.4394925Z ##[group]Run npm ci
+2026-07-10T03:32:50.4395219Z [36;1mnpm ci[0m
+2026-07-10T03:32:50.4530333Z shell: /usr/bin/bash -e {0}
+2026-07-10T03:32:50.4530647Z ##[endgroup]
+2026-07-10T03:32:53.7183614Z 
+2026-07-10T03:32:53.7192166Z added 129 packages, and audited 130 packages in 3s
+2026-07-10T03:32:53.7192671Z 
+2026-07-10T03:32:53.7192976Z 38 packages are looking for funding
+2026-07-10T03:32:53.7193491Z   run `npm fund` for details
+2026-07-10T03:32:53.7343778Z 
+2026-07-10T03:32:53.7344473Z 3 vulnerabilities (2 moderate, 1 high)
+2026-07-10T03:32:53.7345134Z 
+2026-07-10T03:32:53.7345872Z Some issues need review, and may require choosing
+2026-07-10T03:32:53.7346474Z a different dependency.
+2026-07-10T03:32:53.7346723Z 
+2026-07-10T03:32:53.7346934Z Run `npm audit` for details.
+2026-07-10T03:32:53.7550502Z ##[group]Run node scripts/fetch-papers.mjs || echo "⚠️ 论文抓取失败，使用已有数据"
+2026-07-10T03:32:53.7551054Z [36;1mnode scripts/fetch-papers.mjs || echo "⚠️ 论文抓取失败，使用已有数据"[0m
+2026-07-10T03:32:53.7551517Z [36;1mnode scripts/fetch-news.mjs || echo "⚠️ 资讯抓取失败，使用已有数据"[0m
+2026-07-10T03:32:53.7586809Z shell: /usr/bin/bash -e {0}
+2026-07-10T03:32:53.7587071Z ##[endgroup]
+2026-07-10T03:32:53.7945735Z 📄 开始获取 arXiv 论文...
+2026-07-10T03:32:53.7946000Z 
+2026-07-10T03:32:53.7950758Z   请求 URL: http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.CV+OR+cat:cs.LG+OR+cat:cs.MA+OR+cat:cs.NE+OR+cat:cs.IR&sortBy=submittedDate&sortOrder=descending&start=0&max_results=80
+2026-07-10T03:32:53.7951457Z 
+2026-07-10T03:32:54.0668963Z   获取到 80 篇论文
+2026-07-10T03:32:54.0669319Z 
+2026-07-10T03:32:54.0734464Z 🏷️  进行领域分类...
+2026-07-10T03:32:54.0734946Z 
+2026-07-10T03:32:54.1235074Z 📊 进行质量评分...
+2026-07-10T03:32:54.1235324Z 
+2026-07-10T03:32:54.1318777Z   质量分布: S=0 | A=0 | B=13 | C=48 | D=19
+2026-07-10T03:32:54.1319205Z 
+2026-07-10T03:32:54.1319462Z 🌐 生成中文摘要...
+2026-07-10T03:32:54.1319683Z 
+2026-07-10T03:32:54.1413264Z   ✅ papers/daily/2026-07-09.md (80 篇)
+2026-07-10T03:32:54.1433390Z   🔄 迁移历史论文数据...
+2026-07-10T03:32:54.1462141Z   📊 论文索引已更新 (总计 160 篇，新增 80 篇)
+2026-07-10T03:32:54.1473721Z   ✅ papers/index.md (分类卡片布局)
+2026-07-10T03:32:54.1479115Z   ✅ papers/tags/llm.md (50 篇)
+2026-07-10T03:32:54.1482606Z   ✅ papers/tags/cv.md (50 篇)
+2026-07-10T03:32:54.1485067Z   ✅ papers/tags/nlp.md (50 篇)
+2026-07-10T03:32:54.1488370Z   ✅ papers/tags/rl.md (50 篇)
+2026-07-10T03:32:54.1490779Z   ✅ papers/tags/multimodal.md (29 篇)
+2026-07-10T03:32:54.1493965Z   ✅ papers/tags/gnn.md (50 篇)
+2026-07-10T03:32:54.1497045Z   ✅ papers/tags/efficient.md (39 篇)
+2026-07-10T03:32:54.1500144Z   ✅ papers/tags/safety.md (50 篇)
+2026-07-10T03:32:54.1503693Z   ✅ papers/tags/generative.md (46 篇)
+2026-07-10T03:32:54.1514745Z   ✅ papers/weekly.md (本周 160 篇，精选 20 篇)
+2026-07-10T03:32:54.1522736Z   ✅ papers/search.md (160 篇索引 + Pagefind)
+2026-07-10T03:32:54.1523080Z 
+2026-07-10T03:32:54.1523491Z 🎉 阶段四全部完成：多维评分 + 自动分类 + 中文摘要 + 标签页 + 周报
+2026-07-10T03:32:54.1876127Z 📰 开始获取 AI 资讯...
+2026-07-10T03:32:54.1876372Z 
+2026-07-10T03:32:54.1880922Z   📡 抓取: MarkTechPost (https://www.marktechpost.com/feed/)
+2026-07-10T03:32:54.2448447Z   📡 抓取: SyncedReview (https://syncedreview.com/feed/)
+2026-07-10T03:32:54.2459717Z   📡 抓取: Machine Learning Mastery (https://machinelearningmastery.com/blog/feed/)
+2026-07-10T03:32:54.3402037Z     ✅ 获取 10 条
+2026-07-10T03:32:54.4254732Z     ✅ 获取 10 条
+2026-07-10T03:32:54.7247527Z     ✅ 获取 10 条
+2026-07-10T03:32:54.7248858Z   📡 抓取: Hugging Face Daily Papers
+2026-07-10T03:32:54.8874402Z     ✅ 获取 10 条
+2026-07-10T03:32:54.8949569Z 
+2026-07-10T03:32:54.8950303Z   📊 共获取 40 条独特资讯
+2026-07-10T03:32:54.8950496Z 
+2026-07-10T03:32:54.8956819Z   ✅ 生成: news/2026-07-10.md (10 条)
+2026-07-10T03:32:54.8959471Z   ✅ 生成: news/2026-07-09.md (6 条)
+2026-07-10T03:32:54.8961743Z   ✅ 生成: news/2026-07-08.md (4 条)
+2026-07-10T03:32:54.8963096Z   ✅ 生成: news/2026-07-07.md (1 条)
+2026-07-10T03:32:54.8965061Z   ✅ 生成: news/2026-07-06.md (1 条)
+2026-07-10T03:32:54.8967800Z   ✅ 生成: news/2026-07-02.md (1 条)
+2026-07-10T03:32:54.8969065Z   ✅ 生成: news/2026-06-30.md (1 条)
+2026-07-10T03:32:54.8970954Z   ✅ 生成: news/2026-06-29.md (1 条)
+2026-07-10T03:32:54.8972407Z   ✅ 生成: news/2026-06-26.md (1 条)
+2026-07-10T03:32:54.8974129Z   ✅ 生成: news/2026-06-25.md (1 条)
+2026-07-10T03:32:54.8976699Z   ✅ 生成: news/2026-06-24.md (1 条)
+2026-07-10T03:32:54.8977961Z   ✅ 生成: news/2026-06-23.md (1 条)
+2026-07-10T03:32:54.8981022Z   ✅ 生成: news/2026-06-22.md (1 条)
+2026-07-10T03:32:54.8981545Z   ✅ 生成: news/2025-08-14.md (1 条)
+2026-07-10T03:32:54.8982300Z   ✅ 生成: news/2025-06-24.md (1 条)
+2026-07-10T03:32:54.8983669Z   ✅ 生成: news/2025-06-16.md (2 条)
+2026-07-10T03:32:54.8995165Z   ✅ 生成: news/2025-05-28.md (1 条)
+2026-07-10T03:32:54.8996012Z   ✅ 生成: news/2025-05-15.md (1 条)
+2026-07-10T03:32:54.8998765Z   ✅ 生成: news/2025-04-30.md (1 条)
+2026-07-10T03:32:54.9000035Z   ✅ 生成: news/2025-04-24.md (1 条)
+2026-07-10T03:32:54.9001763Z   ✅ 生成: news/2025-04-16.md (1 条)
+2026-07-10T03:32:54.9002588Z   ✅ 生成: news/2025-04-11.md (1 条)
+2026-07-10T03:32:54.9008293Z   ✅ 更新: news/index.md
+2026-07-10T03:32:54.9099107Z ##[group]Run npm run build
+2026-07-10T03:32:54.9099568Z [36;1mnpm run build[0m
+2026-07-10T03:32:54.9135341Z shell: /usr/bin/bash -e {0}
+2026-07-10T03:32:54.9135605Z ##[endgroup]
+2026-07-10T03:32:55.0231455Z 
+2026-07-10T03:32:55.0232058Z > ai-knowledge-base@1.0.0 build
+2026-07-10T03:32:55.0232666Z > vitepress build && npx pagefind --site .vitepress/dist
+2026-07-10T03:32:55.0232944Z 
+2026-07-10T03:32:55.3166975Z 
+2026-07-10T03:32:55.3167953Z   [32m[1mvitepress[22m v1.6.4[39m
+2026-07-10T03:32:55.3168354Z 
+2026-07-10T03:32:55.3214372Z - building client + server bundles...
+2026-07-10T03:32:56.0275869Z [31mx[39m Build failed in 487ms
+2026-07-10T03:32:56.0277499Z [31m✖[0m building client + server bundles...
+2026-07-10T03:32:56.2882554Z [31mbuild error:[39m
+2026-07-10T03:32:56.2883663Z [31m[vite:vue] [plugin vite:vue] papers/search.md: Single file component can contain only one <script> element[39m
+2026-07-10T03:32:56.2884984Z file: [36m/home/runner/work/ai-knowledge-base/ai-knowledge-base/papers/search.md[39m
+2026-07-10T03:32:56.2886913Z [31m[vite:vue] [plugin vite:vue] papers/search.md: Single file component can contain only one <script> element[39m
+2026-07-10T03:32:56.2888282Z file: [36m/home/runner/work/ai-knowledge-base/ai-knowledge-base/papers/search.md[39m
+2026-07-10T03:32:56.2889616Z SyntaxError: [plugin vite:vue] papers/search.md: Single file component can contain only one <script> element
+2026-07-10T03:32:56.2891568Z     at createDuplicateBlockError (/home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:1954:15)
+2026-07-10T03:32:56.2893373Z     at /home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:1874:21
+2026-07-10T03:32:56.2894394Z     at Array.forEach (<anonymous>)
+2026-07-10T03:32:56.2895695Z     at Object.parse$1 [as parse] (/home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vue/compiler-sfc/dist/compiler-sfc.cjs.js:1832:16)
+2026-07-10T03:32:56.2897572Z     at createDescriptor (file:///home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vitejs/plugin-vue/dist/index.mjs:71:43)
+2026-07-10T03:32:56.2899723Z     at transformMain (file:///home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vitejs/plugin-vue/dist/index.mjs:2421:34)
+2026-07-10T03:32:56.2901797Z     at Object.transform (file:///home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/@vitejs/plugin-vue/dist/index.mjs:3053:16)
+2026-07-10T03:32:56.2903790Z     at file:///home/runner/work/ai-knowledge-base/ai-knowledge-base/node_modules/rollup/dist/es/shared/node-entry.js:23026:40
+2026-07-10T03:32:56.3093393Z ##[error]Process completed with exit code 1.
+2026-07-10T03:32:56.3231727Z Node 20 is being deprecated. This workflow is running with Node 24 by default. If you need to temporarily use Node 20, you can set the ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true environment variable. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+2026-07-10T03:32:56.3232908Z Post job cleanup.
+2026-07-10T03:32:56.4058131Z [command]/usr/bin/git version
+2026-07-10T03:32:56.4134012Z git version 2.54.0
+2026-07-10T03:32:56.4174638Z Temporarily overriding HOME='/home/runner/work/_temp/20ebd5d3-8c46-4c37-83f5-262ef9fc564c' before making global git config changes
+2026-07-10T03:32:56.4175642Z Adding repository directory to the temporary git global config as a safe directory
+2026-07-10T03:32:56.4180375Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/ai-knowledge-base/ai-knowledge-base
+2026-07-10T03:32:56.4219358Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+2026-07-10T03:32:56.4255103Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+2026-07-10T03:32:56.4513141Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+2026-07-10T03:32:56.4539759Z http.https://github.com/.extraheader
+2026-07-10T03:32:56.4551390Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+2026-07-10T03:32:56.4595087Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+2026-07-10T03:32:56.4867130Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+2026-07-10T03:32:56.4905423Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+2026-07-10T03:32:56.5324345Z Cleaning up orphan processes
+2026-07-10T03:32:56.5631028Z ##[warning]Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-node@v4. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/

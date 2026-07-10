@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-07-02 ~ 2026-07-09 · 从 80 篇中精选 Top 20
+> 2026-07-03 ~ 2026-07-10 · 从 160 篇中精选 Top 20
 
 ---
 
@@ -12,57 +12,57 @@ layout: page
 
 ### 🧠 大语言模型
 
+- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
 - ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
-- ⭐⭐⭐ [MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Mu...](https://arxiv.org/abs/2607.07673) — Hyunjae Kim
-- ⭐⭐⭐ [AA-ViT: Anatomically Aware Vision Transformer with Structural and F...](https://arxiv.org/abs/2607.07553) — Talha Meraj
+- ⭐⭐⭐ [Geometry and Gradient-based Partitioning for Panoramic Outdoor Reco...](https://arxiv.org/abs/2607.08769) — Weijian Chen
 
 ### 👁️ 计算机视觉
 
+- ⭐⭐⭐ [Geometry and Gradient-based Partitioning for Panoramic Outdoor Reco...](https://arxiv.org/abs/2607.08769) — Weijian Chen
 - ⭐⭐⭐ [MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Mu...](https://arxiv.org/abs/2607.07673) — Hyunjae Kim
-- ⭐⭐⭐ [AA-ViT: Anatomically Aware Vision Transformer with Structural and F...](https://arxiv.org/abs/2607.07553) — Talha Meraj
-- ⭐⭐⭐ [VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-...](https://arxiv.org/abs/2607.07416) — Zimu Zhang
+- ⭐⭐⭐ [LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction,...](https://arxiv.org/abs/2607.08770) — Cheng-De Fan
 
 ### 📝 自然语言处理
 
+- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
 - ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
-- ⭐⭐⭐ [AA-ViT: Anatomically Aware Vision Transformer with Structural and F...](https://arxiv.org/abs/2607.07553) — Talha Meraj
-- ⭐⭐⭐ [Selective Timestep Weighting and Advantage-Based Replay for Sample-...](https://arxiv.org/abs/2607.07693) — Eric Zhu
+- ⭐⭐⭐ [Geometry and Gradient-based Partitioning for Panoramic Outdoor Reco...](https://arxiv.org/abs/2607.08769) — Weijian Chen
 
 ### 🎮 强化学习
 
 - ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
-- ⭐⭐⭐ [VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-...](https://arxiv.org/abs/2607.07416) — Zimu Zhang
-- ⭐⭐⭐ [Selective Timestep Weighting and Advantage-Based Replay for Sample-...](https://arxiv.org/abs/2607.07693) — Eric Zhu
+- ⭐⭐⭐ [CAAD: Causality-Aware Multivariate Time Series Anomaly Detection vi...](https://arxiv.org/abs/2607.08555) — Xin Wang
+- ⭐⭐⭐ [LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction,...](https://arxiv.org/abs/2607.08770) — Cheng-De Fan
 
 ### 🔗 多模态
 
 - ⭐⭐⭐ [MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Mu...](https://arxiv.org/abs/2607.07673) — Hyunjae Kim
-- ⭐⭐ [Two-Stage Multi-Modal Fusion with Adaptive Alignment for Action Qua...](https://arxiv.org/abs/2607.07438) — Kanglei Zhou
-- ⭐⭐ [Accurate, Interdisciplinary and Transparent Structure-property Unde...](https://arxiv.org/abs/2607.07708) — Chen Tang
+- ⭐⭐⭐ [Cognitive-structured Multimodal Agent for Multimodal Understanding,...](https://arxiv.org/abs/2607.08497) — Feng Wang
+- ⭐⭐⭐ [ARDY: Autoregressive Diffusion with Hybrid Representation for Inter...](https://arxiv.org/abs/2607.08741) — Kaifeng Zhao
 
 ### 🕸️ 图神经网络
 
-- ⭐⭐⭐ [VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-...](https://arxiv.org/abs/2607.07416) — Zimu Zhang
-- ⭐⭐ [InductWave: Inductive Multi-Hop Logical Query Answering on Knowledg...](https://arxiv.org/abs/2607.07422) — Mayank Kharbanda
-- ⭐⭐ [Accurate, Interdisciplinary and Transparent Structure-property Unde...](https://arxiv.org/abs/2607.07708) — Chen Tang
+- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
+- ⭐⭐⭐ [EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling...](https://arxiv.org/abs/2607.08659) — Wenxiu Ding
+- ⭐⭐⭐ [CAAD: Causality-Aware Multivariate Time Series Anomaly Detection vi...](https://arxiv.org/abs/2607.08555) — Xin Wang
 
 ### ⚡ 高效模型
 
-- ⭐⭐ [Breaking Database Lock-in: Agentic Regeneration of High Performance...](https://arxiv.org/abs/2607.07696) — Victor Giannakouris
-- ⭐⭐ [Think Big, Search Small: Where Capacity Matters in Hierarchical Sea...](https://arxiv.org/abs/2607.07548) — Qinnan Cai
-- ⭐⭐ [Single-Rollout Asynchronous Optimization for Agentic Reinforcement ...](https://arxiv.org/abs/2607.07508) — Zhenyu Hou
+- ⭐⭐ [It Takes a MAESTRO To Prune Bad Experts](https://arxiv.org/abs/2607.08601) — Palaash Goel
+- ⭐⭐ [CT-CLIP Representations for Multimodal Lung Cancer Survival Prediction](https://arxiv.org/abs/2607.08503) — Sofie Allgöwer
+- ⭐⭐ [SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688) — Ruiqi Shen
 
 ### 🛡️ AI安全与对齐
 
-- ⭐⭐⭐ [VCDP: Variation-Conditioned Distributional Proxy Learning for Semi-...](https://arxiv.org/abs/2607.07416) — Zimu Zhang
-- ⭐⭐ [Transformer-based segmentation of prosodic boundaries in Brazilian ...](https://arxiv.org/abs/2607.07408) — Rodrigo de Freitas Lima
-- ⭐⭐ [Face-trace: Open-Set Attribution and Progressive Discovery of Synth...](https://arxiv.org/abs/2607.07545) — Alessia Infantino
+- ⭐⭐⭐ [Geometry and Gradient-based Partitioning for Panoramic Outdoor Reco...](https://arxiv.org/abs/2607.08769) — Weijian Chen
+- ⭐⭐⭐ [EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling...](https://arxiv.org/abs/2607.08659) — Wenxiu Ding
+- ⭐⭐⭐ [CAAD: Causality-Aware Multivariate Time Series Anomaly Detection vi...](https://arxiv.org/abs/2607.08555) — Xin Wang
 
 ### 🎨 生成式AI
 
+- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
 - ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
-- ⭐⭐⭐ [Selective Timestep Weighting and Advantage-Based Replay for Sample-...](https://arxiv.org/abs/2607.07693) — Eric Zhu
-- ⭐⭐ [SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent Framework for T...](https://arxiv.org/abs/2607.07467) — Songhan Wang
+- ⭐⭐⭐ [LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction,...](https://arxiv.org/abs/2607.08770) — Cheng-De Fan
 
 ---
 
@@ -70,26 +70,26 @@ layout: page
 
 | # | 领域 | 论文 | 评分 |
 |---|------|------|------|
-| 1 | 🧠 大语言模型 | [TimEE: End-to-end Time Series Classification via In-...](https://arxiv.org/abs/2607.07500) | ⭐⭐⭐ |
-| 2 | 🔗 多模态 | [MedPMC: A Systematic Framework for Scaling High-Fide...](https://arxiv.org/abs/2607.07673) | ⭐⭐⭐ |
-| 3 | 👁️ 计算机视觉 | [AA-ViT: Anatomically Aware Vision Transformer with S...](https://arxiv.org/abs/2607.07553) | ⭐⭐⭐ |
-| 4 | 👁️ 计算机视觉 | [VCDP: Variation-Conditioned Distributional Proxy Lea...](https://arxiv.org/abs/2607.07416) | ⭐⭐⭐ |
-| 5 | 🧠 大语言模型 | [From Noisy Traces to Root Causes: Structural Traject...](https://arxiv.org/abs/2607.07702) | ⭐⭐⭐ |
-| 6 | 🎮 强化学习 | [Selective Timestep Weighting and Advantage-Based Rep...](https://arxiv.org/abs/2607.07693) | ⭐⭐⭐ |
-| 7 | 🧠 大语言模型 | [SpaCellAgent: A Self-Evolving LLM-Based Multi-Agent ...](https://arxiv.org/abs/2607.07467) | ⭐⭐ |
-| 8 | 👁️ 计算机视觉 | [Two-Stage Multi-Modal Fusion with Adaptive Alignment...](https://arxiv.org/abs/2607.07438) | ⭐⭐ |
-| 9 | 🕸️ 图神经网络 | [InductWave: Inductive Multi-Hop Logical Query Answer...](https://arxiv.org/abs/2607.07422) | ⭐⭐ |
-| 10 | 🛡️ AI安全与对齐 | [Transformer-based segmentation of prosodic boundarie...](https://arxiv.org/abs/2607.07408) | ⭐⭐ |
-| 11 | 📝 自然语言处理 | [Accurate, Interdisciplinary and Transparent Structur...](https://arxiv.org/abs/2607.07708) | ⭐⭐ |
-| 12 | 📝 自然语言处理 | [Face-trace: Open-Set Attribution and Progressive Dis...](https://arxiv.org/abs/2607.07545) | ⭐⭐ |
-| 13 | 🛡️ AI安全与对齐 | [Discovering Geometric Biases in 3D Face Reconstructi...](https://arxiv.org/abs/2607.07486) | ⭐⭐ |
-| 14 | 🧠 大语言模型 | [SynthAVE: Scalable Synthetic Labeling for E-Commerce...](https://arxiv.org/abs/2607.07469) | ⭐⭐ |
-| 15 | 🧠 大语言模型 | [Co-LMLM: Continuous-Query Limited Memory Language Mo...](https://arxiv.org/abs/2607.07707) | ⭐⭐ |
-| 16 | 📝 自然语言处理 | [PeTeR: Post-Training Robustification of Probabilisti...](https://arxiv.org/abs/2607.07671) | ⭐⭐ |
-| 17 | 🎮 强化学习 | [An optimal control approach for neural network archi...](https://arxiv.org/abs/2607.07637) | ⭐⭐ |
-| 18 | 🕸️ 图神经网络 | [Asymmetric Focal Loss Improves Graph Neural Network ...](https://arxiv.org/abs/2607.07611) | ⭐⭐ |
-| 19 | 🧠 大语言模型 | [DiaLLM: An Investigation into the Robustness-Generat...](https://arxiv.org/abs/2607.07669) | ⭐⭐ |
-| 20 | 🧠 大语言模型 | [Breaking Database Lock-in: Agentic Regeneration of H...](https://arxiv.org/abs/2607.07696) | ⭐⭐ |
+| 1 | 🧠 大语言模型 | [UltraX: Refining Pre-Training Data at Scale with Ada...](https://arxiv.org/abs/2607.08646) | ⭐⭐⭐ |
+| 2 | 🧠 大语言模型 | [TimEE: End-to-end Time Series Classification via In-...](https://arxiv.org/abs/2607.07500) | ⭐⭐⭐ |
+| 3 | 🛡️ AI安全与对齐 | [Geometry and Gradient-based Partitioning for Panoram...](https://arxiv.org/abs/2607.08769) | ⭐⭐⭐ |
+| 4 | 🔗 多模态 | [MedPMC: A Systematic Framework for Scaling High-Fide...](https://arxiv.org/abs/2607.07673) | ⭐⭐⭐ |
+| 5 | 🕸️ 图神经网络 | [EdgeRefine: Privacy-Utility Balance for Graphs via J...](https://arxiv.org/abs/2607.08659) | ⭐⭐⭐ |
+| 6 | 🛡️ AI安全与对齐 | [CAAD: Causality-Aware Multivariate Time Series Anoma...](https://arxiv.org/abs/2607.08555) | ⭐⭐⭐ |
+| 7 | 👁️ 计算机视觉 | [LongE2V: Long-Horizon Event-based Video Reconstructi...](https://arxiv.org/abs/2607.08770) | ⭐⭐⭐ |
+| 8 | 👁️ 计算机视觉 | [Cognitive-structured Multimodal Agent for Multimodal...](https://arxiv.org/abs/2607.08497) | ⭐⭐⭐ |
+| 9 | 🎨 生成式AI | [ARDY: Autoregressive Diffusion with Hybrid Represent...](https://arxiv.org/abs/2607.08741) | ⭐⭐⭐ |
+| 10 | 👁️ 计算机视觉 | [Wat3R: Underwater 3D Geometry Learning without Annot...](https://arxiv.org/abs/2607.08772) | ⭐⭐⭐ |
+| 11 | 👁️ 计算机视觉 | [WaspMOT: A Benchmark for Long-Term Multi-Object Trac...](https://arxiv.org/abs/2607.08729) | ⭐⭐⭐ |
+| 12 | 🧠 大语言模型 | [Switch-Reasoner: Learn When to Think in Multitask Mi...](https://arxiv.org/abs/2607.08572) | ⭐⭐⭐ |
+| 13 | 👁️ 计算机视觉 | [AA-ViT: Anatomically Aware Vision Transformer with S...](https://arxiv.org/abs/2607.07553) | ⭐⭐⭐ |
+| 14 | 🧠 大语言模型 | [Towards Precision Therapy in Hepatocellular Carcinom...](https://arxiv.org/abs/2607.08602) | ⭐⭐⭐ |
+| 15 | 👁️ 计算机视觉 | [VocaDet: Sample-Driven Open-Vocabulary Object Detect...](https://arxiv.org/abs/2607.08541) | ⭐⭐⭐ |
+| 16 | 📝 自然语言处理 | [Do Transformations Reveal the Truth? Generative Resi...](https://arxiv.org/abs/2607.08674) | ⭐⭐⭐ |
+| 17 | 👁️ 计算机视觉 | [VCDP: Variation-Conditioned Distributional Proxy Lea...](https://arxiv.org/abs/2607.07416) | ⭐⭐⭐ |
+| 18 | 🧠 大语言模型 | [From Noisy Traces to Root Causes: Structural Traject...](https://arxiv.org/abs/2607.07702) | ⭐⭐⭐ |
+| 19 | 🎮 强化学习 | [Selective Timestep Weighting and Advantage-Based Rep...](https://arxiv.org/abs/2607.07693) | ⭐⭐⭐ |
+| 20 | 🧠 大语言模型 | [WebSwarm: Recursive Multi-Agent Orchestration for De...](https://arxiv.org/abs/2607.08662) | ⭐⭐ |
 
 ---
 
