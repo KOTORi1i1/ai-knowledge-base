@@ -922,9 +922,37 @@ function generateSearchPage(allPapers) {
   lines.push('layout: page');
   lines.push('---');
   lines.push('');
+  lines.push('<link href="/pagefind/pagefind-ui.css" rel="stylesheet">');
+  lines.push('');
   lines.push('# 🔍 论文搜索');
   lines.push('');
-  lines.push('> 使用 VitePress 内置搜索（`Ctrl+K`），或按领域浏览。');
+  lines.push('> 支持中英文全文搜索。输入关键词即可搜索论文标题、摘要和作者。');
+  lines.push('');
+  lines.push('---');
+  lines.push('');
+  lines.push('## 🔎 全文搜索');
+  lines.push('');
+  lines.push('<div id="search"></div>');
+  lines.push('');
+  lines.push('<script src="/pagefind/pagefind-ui.js"></script>');
+  lines.push('<script>');
+  lines.push('window.addEventListener("DOMContentLoaded", () => {');
+  lines.push('  new PagefindUI({');
+  lines.push('    element: "#search",');
+  lines.push('    showSubResults: false,');
+  lines.push('    showImages: false,');
+  lines.push('    translations: {');
+  lines.push('      placeholder: "搜索论文标题、摘要、作者...",');
+  lines.push('      clear_search: "清空",');
+  lines.push('      load_more: "加载更多",');
+  lines.push('      search_label: "搜索此网站",');
+  lines.push('      zero_results: "未找到匹配的论文，请尝试其他关键词"');
+  lines.push('    }');
+  lines.push('  });');
+  lines.push('});');
+  lines.push('</script>');
+  lines.push('');
+  lines.push('> 💡 **提示**：也可以按 `Ctrl+K`（Mac: `Cmd+K`）使用 VitePress 内置搜索。');
   lines.push('');
   lines.push('---');
   lines.push('');
@@ -953,7 +981,7 @@ function generateSearchPage(allPapers) {
   lines.push('</div>');
 
   writeFileSync(join(ROOT, 'papers', 'search.md'), lines.join('\n'), 'utf-8');
-  console.log(`  ✅ papers/search.md (${allPapers.length} 篇索引)`);
+  console.log(`  ✅ papers/search.md (${allPapers.length} 篇索引 + Pagefind)`);
 }
 
 // ============ 执行 ============

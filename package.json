@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "vitepress build && npx pagefind --site .vitepress/dist",
+    "build:only": "vitepress build",
+    "pagefind": "npx pagefind --site .vitepress/dist",
     "preview": "vitepress preview",
     "fetch-papers": "node scripts/fetch-papers.mjs",
     "fetch-news": "node scripts/fetch-news.mjs",
@@ -16,6 +18,8 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
+    "@pagefind/default-ui": "^1.5.2",
+    "pagefind": "^1.5.2",
     "vitepress": "^1.6.4"
   }
 }
