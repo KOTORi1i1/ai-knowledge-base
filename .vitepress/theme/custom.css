@@ -103,7 +103,7 @@
 
 .skill-usage code {
   font-size: 12px;
-  background: var(--vp-c-bg-mute);
+  background: var(--vp-c-bg-soft);
   padding: 2px 6px;
   border-radius: 4px;
 }
@@ -392,7 +392,7 @@
 }
 
 .brief-top3-item:hover {
-  background: var(--vp-c-bg-mute);
+  background: var(--vp-c-bg-soft);
 }
 
 .brief-top3-rank {
@@ -531,7 +531,7 @@
 
 /* ---- 骨架屏 ---- */
 .brief-skeleton-card .brief-header {
-  background: var(--vp-c-bg-mute);
+  background: var(--vp-c-bg-soft);
   color: var(--vp-c-text-1);
 }
 
@@ -541,7 +541,7 @@
 
 .skeleton-line {
   height: 14px;
-  background: var(--vp-c-bg-mute);
+  background: var(--vp-c-bg-soft);
   border-radius: 7px;
   margin-bottom: 12px;
   animation: skeleton-pulse 1.5s ease-in-out infinite;

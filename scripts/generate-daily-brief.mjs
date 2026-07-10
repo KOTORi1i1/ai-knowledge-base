@@ -48,7 +48,7 @@ const HF_DAILY_API = 'https://huggingface.co/api/daily_papers';
 const CATEGORY_RULES = [
   {
     id: 'model',
-    name: '🔥 模型',
+    name: '模型',
     icon: '🔥',
     keywords: [
       'gpt-', 'gpt ', 'claude', 'gemini', 'llama', 'deepseek', 'qwen', 'mistral', 'mixtral',
@@ -59,7 +59,7 @@ const CATEGORY_RULES = [
   },
   {
     id: 'agent',
-    name: '🤖 Agent',
+    name: 'Agent',
     icon: '🤖',
     keywords: [
       'agent', 'agentic', 'mcp', 'langgraph', 'crewai', 'autogpt', 'tool use',
@@ -69,7 +69,7 @@ const CATEGORY_RULES = [
   },
   {
     id: 'tool',
-    name: '🛠 工具',
+    name: '工具',
     icon: '🛠',
     keywords: [
       'cursor', 'claude code', 'codex', 'v0', 'bolt', 'continue', 'copilot',
@@ -79,7 +79,7 @@ const CATEGORY_RULES = [
   },
   {
     id: 'paper',
-    name: '📄 论文',
+    name: '论文',
     icon: '📄',
     keywords: [
       'arxiv', 'paper', 'benchmark', 'dataset', 'sota', 'state-of-the-art',
@@ -89,7 +89,7 @@ const CATEGORY_RULES = [
   },
   {
     id: 'tutorial',
-    name: '📚 教程',
+    name: '教程',
     icon: '📚',
     keywords: [
       'tutorial', 'guide', 'how-to', 'how to', 'learn', 'course', 'master',
@@ -293,7 +293,7 @@ function detectTrend(classifiedItems) {
   const catName = CATEGORY_RULES.find(r => r.id === topCat);
   const trendParts = [];
   if (catName && maxCount >= 3) {
-    trendParts.push(`${catName.name}方向最活跃（${maxCount} 条）`);
+    trendParts.push(`${catName.icon} ${catName.name}方向最活跃（${maxCount} 条）`);
   }
   if (topKW && topKWCount >= 3) {
     const kwName = topKW.charAt(0).toUpperCase() + topKW.slice(1);
@@ -388,7 +388,7 @@ async function generate() {
   const catEntries = Object.entries(catMap).sort((a, b) => b[1].count - a[1].count);
   const topCats = catEntries.slice(0, 2).map(([cid, info]) => {
     const catDef = CATEGORY_RULES.find(r => r.id === cid);
-    return catDef ? catDef.name : cid;
+    return catDef ? (catDef.icon + ' ' + catDef.name) : cid;
   }).join(' + ');
   const oneLiner = topCats
     ? `今天的主题是 ${topCats}${headline ? '，头条是「' + headline.title.slice(0, 40) + '」' : ''}`

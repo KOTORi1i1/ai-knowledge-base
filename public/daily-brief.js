@@ -166,12 +166,15 @@
 
   // ============ 初始化 ============
 
+  let rendered = false;
+
   async function init() {
     const container = document.getElementById('daily-brief');
     if (!container) return; // 不在首页，跳过
 
     const data = await fetchBrief();
     renderBrief(data);
+    rendered = true;
   }
 
   if (document.readyState === 'loading') {
@@ -179,4 +182,26 @@
   } else {
     init();
   }
+
+  // SPA 导航：VitePress 客户端路由切换时重新检查
+  window.addEventListener('popstate', () => {
+    setTimeout(() => {
+      const container = document.getElementById('daily-brief');
+      if (container && !rendered) {
+        init();
+      }
+    }, 200);
+  });
+
+  // MutationObserver：监听 DOM 中 daily-brief 元素出现
+  let observerTimer = null;
+  const observer = new MutationObserver(() => {
+    const container = document.getElementById('daily-brief');
+    if (container && !rendered) {
+      if (observerTimer) clearTimeout(observerTimer);
+      observerTimer = setTimeout(() => init(), 150);
+    }
+  });
+  observer.observe(document.body, { childList: true, subtree: true });
+  setTimeout(() => observer.disconnect(), 8000); // 8 秒后停止观察
 })();
