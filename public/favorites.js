@@ -230,9 +230,10 @@
    * 适配论文列表页（点击后通过 data 属性传递论文信息）
    */
   function injectBookmarkButtons() {
-    // 只在论文相关页面注入
+    // 只在论文相关页面注入（兼容 base 路径和根路径）
     const path = window.location.pathname;
-    if (!path.startsWith('/papers/') && path !== '/papers' && path !== '/papers/') return;
+    const papersPath = (window.__VP_SITE_DATA__ && window.__VP_SITE_DATA__.base || '') + 'papers';
+    if (!path.startsWith(papersPath)) return;
 
     // 查找论文表格行（index 页和 tag 页的表格格式）
     const rows = document.querySelectorAll('table tbody tr');

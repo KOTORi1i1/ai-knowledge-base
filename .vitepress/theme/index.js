@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import { withBase } from 'vitepress'
 import './custom.css'
 
 export default {
@@ -7,7 +8,7 @@ export default {
     // 收藏系统：在浏览器端加载
     if (typeof window !== 'undefined') {
       const script = document.createElement('script')
-      script.src = '/favorites.js'
+      script.src = withBase('/favorites.js')
       script.defer = true
       document.head.appendChild(script)
     }

@@ -21,55 +21,55 @@ layout: page
 ## 🏷️ 按领域浏览
 
 <div class="category-grid">
-<a href="/papers/tags/llm" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/llm" class="category-card">
 <div class="category-icon">🧠</div>
 <div class="category-title">大语言模型</div>
 <div class="category-desc">今日 62 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/cv" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/cv" class="category-card">
 <div class="category-icon">👁️</div>
 <div class="category-title">计算机视觉</div>
 <div class="category-desc">今日 35 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/nlp" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/nlp" class="category-card">
 <div class="category-icon">📝</div>
 <div class="category-title">自然语言处理</div>
 <div class="category-desc">今日 42 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/rl" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/rl" class="category-card">
 <div class="category-icon">🎮</div>
 <div class="category-title">强化学习</div>
 <div class="category-desc">今日 41 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/multimodal" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/multimodal" class="category-card">
 <div class="category-icon">🔗</div>
 <div class="category-title">多模态</div>
 <div class="category-desc">今日 17 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/gnn" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/gnn" class="category-card">
 <div class="category-icon">🕸️</div>
 <div class="category-title">图神经网络</div>
 <div class="category-desc">今日 26 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/efficient" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/efficient" class="category-card">
 <div class="category-icon">⚡</div>
 <div class="category-title">高效模型</div>
 <div class="category-desc">今日 23 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/safety" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/safety" class="category-card">
 <div class="category-icon">🛡️</div>
 <div class="category-title">AI安全与对齐</div>
 <div class="category-desc">今日 27 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/generative" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/generative" class="category-card">
 <div class="category-icon">🎨</div>
 <div class="category-title">生成式AI</div>
 <div class="category-desc">今日 21 篇</div>
@@ -119,8 +119,8 @@ layout: page
 ## 📂 每日归档
 
 <div style="display:flex;flex-wrap:wrap;gap:8px">
-<a href="/papers/daily/2026-07-09" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-09</a>
-<a href="/papers/daily/2026-07-08" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-08</a>
+<a href="/ai-knowledge-base/papers/daily/2026-07-09" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-09</a>
+<a href="/ai-knowledge-base/papers/daily/2026-07-08" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-08</a>
 </div>
 
 ---
@@ -128,7 +128,7 @@ layout: page
 ## 📌 快捷入口
 
 <div class="quick-links">
-<a href="/papers/weekly" class="quick-link">🔥 本周热门</a>
-<a href="/papers/search" class="quick-link">🔍 论文搜索</a>
-<a href="/news/" class="quick-link">📰 AI 资讯</a>
+<a href="/ai-knowledge-base/papers/weekly" class="quick-link">🔥 本周热门</a>
+<a href="/ai-knowledge-base/papers/search" class="quick-link">🔍 论文搜索</a>
+<a href="/ai-knowledge-base/news/" class="quick-link">📰 AI 资讯</a>
 </div>

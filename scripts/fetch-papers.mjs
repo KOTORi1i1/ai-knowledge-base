@@ -19,6 +19,9 @@ import { fileURLToPath } from 'node:url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
 
+// ============ 部署路径（需与 .vitepress/config.mjs 的 base 保持一致）============
+const BASE = '/ai-knowledge-base/';
+
 // ============ 配置 ============
 
 const ARXIV_CATEGORIES = [
@@ -730,7 +733,7 @@ function generatePapersIndex(latestPapers) {
   DOMAIN_CLASSIFIER.forEach(d => {
     const count = latestPapers.filter(p => p.domains.some(pd => pd.id === d.id)).length;
     if (count > 0) {
-      lines.push(`<a href="/papers/tags/${d.id}" class="category-card">`);
+      lines.push(`<a href="${BASE}papers/tags/${d.id}" class="category-card">`);
       lines.push(`<div class="category-icon">${d.icon}</div>`);
       lines.push(`<div class="category-title">${d.name}</div>`);
       lines.push(`<div class="category-desc">今日 ${count} 篇</div>`);
@@ -771,7 +774,7 @@ function generatePapersIndex(latestPapers) {
     lines.push('<div style="display:flex;flex-wrap:wrap;gap:8px">');
     files.forEach(f => {
       const d = f.replace('.md', '');
-      lines.push(`<a href="/papers/daily/${d}" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 ${d}</a>`);
+      lines.push(`<a href="${BASE}papers/daily/${d}" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 ${d}</a>`);
     });
     lines.push('</div>');
   }
@@ -782,9 +785,9 @@ function generatePapersIndex(latestPapers) {
   lines.push('## 📌 快捷入口');
   lines.push('');
   lines.push('<div class="quick-links">');
-  lines.push('<a href="/papers/weekly" class="quick-link">🔥 本周热门</a>');
-  lines.push('<a href="/papers/search" class="quick-link">🔍 论文搜索</a>');
-  lines.push('<a href="/news/" class="quick-link">📰 AI 资讯</a>');
+  lines.push('<a href="' + BASE + 'papers/weekly" class="quick-link">🔥 本周热门</a>');
+  lines.push('<a href="' + BASE + 'papers/search" class="quick-link">🔍 论文搜索</a>');
+  lines.push('<a href="' + BASE + 'news/" class="quick-link">📰 AI 资讯</a>');
   lines.push('</div>');
 
   writeFileSync(join(ROOT, 'papers', 'index.md'), lines.join('\n'), 'utf-8');
@@ -922,7 +925,7 @@ function generateSearchPage(allPapers) {
   lines.push('layout: page');
   lines.push('---');
   lines.push('');
-  lines.push('<link href="/pagefind/pagefind-ui.css" rel="stylesheet">');
+  lines.push('<link href="' + BASE + 'pagefind/pagefind-ui.css" rel="stylesheet">');
   lines.push('');
   lines.push('# 🔍 论文搜索');
   lines.push('');
@@ -938,7 +941,7 @@ function generateSearchPage(allPapers) {
   lines.push('(function(){');
   lines.push('  if(typeof document==="undefined")return;');
   lines.push('  var s=document.createElement("script");');
-  lines.push('  s.src="/pagefind/pagefind-ui.js";');
+  lines.push('  s.src="' + BASE + 'pagefind/pagefind-ui.js";');
   lines.push('  s.onload=function(){');
   lines.push('    new PagefindUI({');
   lines.push('      element: "#search",');
@@ -976,7 +979,7 @@ function generateSearchPage(allPapers) {
   lines.push('<div class="category-grid">');
   DOMAIN_CLASSIFIER.forEach(d => {
     const count = allPapers.filter(p => p.domains && p.domains.some(pd => pd.id === d.id)).length;
-    lines.push(`<a href="/papers/tags/${d.id}" class="category-card">`);
+    lines.push('<a href="' + BASE + 'papers/tags/' + d.id + '" class="category-card">');
     lines.push(`<div class="category-icon">${d.icon}</div>`);
     lines.push(`<div class="category-title">${d.name}</div>`);
     lines.push(`<div class="category-desc">${count} 篇论文</div>`);

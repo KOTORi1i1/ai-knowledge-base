@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<link href="/ai-knowledge-base/pagefind/pagefind-ui.css" rel="stylesheet">
 
 # 🔍 论文搜索
 
@@ -18,7 +18,7 @@ layout: page
 (function(){
   if(typeof document==="undefined")return;
   var s=document.createElement("script");
-  s.src="/pagefind/pagefind-ui.js";
+  s.src="/ai-knowledge-base/pagefind/pagefind-ui.js";
   s.onload=function(){
     new PagefindUI({
       element: "#search",
@@ -54,55 +54,55 @@ layout: page
 ## 🏷️ 按领域浏览
 
 <div class="category-grid">
-<a href="/papers/tags/llm" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/llm" class="category-card">
 <div class="category-icon">🧠</div>
 <div class="category-title">大语言模型</div>
 <div class="category-desc">118 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/cv" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/cv" class="category-card">
 <div class="category-icon">👁️</div>
 <div class="category-title">计算机视觉</div>
 <div class="category-desc">66 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/nlp" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/nlp" class="category-card">
 <div class="category-icon">📝</div>
 <div class="category-title">自然语言处理</div>
 <div class="category-desc">87 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/rl" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/rl" class="category-card">
 <div class="category-icon">🎮</div>
 <div class="category-title">强化学习</div>
 <div class="category-desc">85 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/multimodal" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/multimodal" class="category-card">
 <div class="category-icon">🔗</div>
 <div class="category-title">多模态</div>
 <div class="category-desc">29 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/gnn" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/gnn" class="category-card">
 <div class="category-icon">🕸️</div>
 <div class="category-title">图神经网络</div>
 <div class="category-desc">63 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/efficient" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/efficient" class="category-card">
 <div class="category-icon">⚡</div>
 <div class="category-title">高效模型</div>
 <div class="category-desc">39 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/safety" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/safety" class="category-card">
 <div class="category-icon">🛡️</div>
 <div class="category-title">AI安全与对齐</div>
 <div class="category-desc">53 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
-<a href="/papers/tags/generative" class="category-card">
+<a href="/ai-knowledge-base/papers/tags/generative" class="category-card">
 <div class="category-icon">🎨</div>
 <div class="category-title">生成式AI</div>
 <div class="category-desc">46 篇论文</div>

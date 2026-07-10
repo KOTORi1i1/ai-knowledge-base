@@ -50,7 +50,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # 添加生成的内容文件
-          git add papers/daily/ papers/data/ papers/index.md news/ -f
+          git add papers/daily/ papers/data/ papers/index.md papers/weekly.md papers/search.md papers/tags/ news/ -f
 
           # 检查是否有更改
           if git diff --cached --quiet; then

@@ -259,6 +259,11 @@ function generateNewsIndex(latestNews) {
   const top50 = latestNews.slice(0, 50);
 
   const lines = [];
+  lines.push('---');
+  lines.push('layout: page');
+  lines.push('title: 📰 AI 资讯');
+  lines.push('---');
+  lines.push('');
   lines.push('# 📰 AI 资讯');
   lines.push('');
   lines.push('> 每天自动从多个 AI 资讯源聚合最新动态。');

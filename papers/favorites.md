@@ -10,8 +10,8 @@ layout: page
 
 <div style="display:flex;gap:12px;margin:16px 0;flex-wrap:wrap">
   <button onclick="window.__fav_import()" style="padding:8px 18px;border:1px solid var(--vp-c-divider);border-radius:8px;background:var(--vp-c-bg-soft);color:var(--vp-c-text-1);cursor:pointer;font-size:14px;font-weight:600">📥 导入备份</button>
-  <a href="/papers/" style="padding:8px 18px;border:1px solid var(--vp-c-divider);border-radius:8px;background:var(--vp-c-bg-soft);color:var(--vp-c-text-1);text-decoration:none;font-size:14px;font-weight:600">📄 浏览论文</a>
-  <a href="/papers/search" style="padding:8px 18px;border:1px solid var(--vp-c-divider);border-radius:8px;background:var(--vp-c-bg-soft);color:var(--vp-c-text-1);text-decoration:none;font-size:14px;font-weight:600">🔍 搜索论文</a>
+  <a href="/ai-knowledge-base/papers/" style="padding:8px 18px;border:1px solid var(--vp-c-divider);border-radius:8px;background:var(--vp-c-bg-soft);color:var(--vp-c-text-1);text-decoration:none;font-size:14px;font-weight:600">📄 浏览论文</a>
+  <a href="/ai-knowledge-base/papers/search" style="padding:8px 18px;border:1px solid var(--vp-c-divider);border-radius:8px;background:var(--vp-c-bg-soft);color:var(--vp-c-text-1);text-decoration:none;font-size:14px;font-weight:600">🔍 搜索论文</a>
 </div>
 
 ---
