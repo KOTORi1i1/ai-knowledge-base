@@ -16,6 +16,7 @@ layout: page
 
 <script>
 (function(){
+  if(typeof document==="undefined")return;
   var s=document.createElement("script");
   s.src="/pagefind/pagefind-ui.js";
   s.onload=function(){

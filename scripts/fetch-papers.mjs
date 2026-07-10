@@ -936,6 +936,7 @@ function generateSearchPage(allPapers) {
   lines.push('');
   lines.push('<script>');
   lines.push('(function(){');
+  lines.push('  if(typeof document==="undefined")return;');
   lines.push('  var s=document.createElement("script");');
   lines.push('  s.src="/pagefind/pagefind-ui.js";');
   lines.push('  s.onload=function(){');

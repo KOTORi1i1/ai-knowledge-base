@@ -1,0 +1,33 @@
+﻿2026-07-10T03:41:12.6909518Z Current runner version: '2.335.1'
+2026-07-10T03:41:12.6944333Z ##[group]Runner Image Provisioner
+2026-07-10T03:41:12.6945584Z Hosted Compute Agent
+2026-07-10T03:41:12.6946671Z Version: 20260624.560
+2026-07-10T03:41:12.6947648Z Commit: 925d229a51159bc391ae97e54a2dd1fe20af789d
+2026-07-10T03:41:12.6948896Z Build Date: 2026-06-24T18:26:47Z
+2026-07-10T03:41:12.6950110Z Worker ID: {52a52cb5-afe6-4197-a417-f2ad0019c89c}
+2026-07-10T03:41:12.6951506Z Azure Region: eastus
+2026-07-10T03:41:12.6952452Z ##[endgroup]
+2026-07-10T03:41:12.6954656Z ##[group]Operating System
+2026-07-10T03:41:12.6955725Z Ubuntu
+2026-07-10T03:41:12.6956664Z 24.04.4
+2026-07-10T03:41:12.6957466Z LTS
+2026-07-10T03:41:12.6958307Z ##[endgroup]
+2026-07-10T03:41:12.6959178Z ##[group]Runner Image
+2026-07-10T03:41:12.6960223Z Image: ubuntu-24.04
+2026-07-10T03:41:12.6961177Z Version: 20260705.232.1
+2026-07-10T03:41:12.6963218Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260705.232/images/ubuntu/Ubuntu2404-Readme.md
+2026-07-10T03:41:12.6966120Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260705.232
+2026-07-10T03:41:12.6967855Z ##[endgroup]
+2026-07-10T03:41:12.6970327Z ##[group]GITHUB_TOKEN Permissions
+2026-07-10T03:41:12.6973454Z Contents: read
+2026-07-10T03:41:12.6974496Z Metadata: read
+2026-07-10T03:41:12.6975410Z Packages: read
+2026-07-10T03:41:12.6976229Z ##[endgroup]
+2026-07-10T03:41:12.6979222Z Secret source: Actions
+2026-07-10T03:41:12.6980766Z Prepare workflow directory
+2026-07-10T03:41:12.7452388Z Prepare all required actions
+2026-07-10T03:41:12.7508520Z Getting action download info
+2026-07-10T03:41:12.9397666Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+2026-07-10T03:41:13.0190081Z Download action repository 'actions/setup-node@v4' (SHA:49933ea5288caeca8642d1e84afbd3f7d6820020)
+2026-07-10T03:41:13.1026249Z Download action repository 'peaceiris/actions-gh-pages@v3' (SHA:373f7f263a76c20808c831209c920827a82a2847)
+2026-07-10T03:41:13.3486029Z Complete job name: build-and-deploy
