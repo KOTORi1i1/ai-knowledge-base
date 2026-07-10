@@ -2,27 +2,27 @@
   "total_count": 2,
   "workflow_runs": [
     {
-      "id": 29068092132,
+      "id": 29068496521,
       "name": "部署网站",
-      "node_id": "WFR_kwLOTT8TrM8AAAAGxJfi5A",
+      "node_id": "WFR_kwLOTT8TrM8AAAAGxJ4OiQ",
       "head_branch": "master",
-      "head_sha": "d839baeeced39c9631af721496c0c74578186082",
+      "head_sha": "0ca0f52f428ece841df3bcbf3613819637f399ff",
       "path": ".github/workflows/deploy.yml",
-      "display_title": "修复：工作流添加 contents write 权限 + Pages 改为 gh-pages 分支部署",
-      "run_number": 7,
+      "display_title": "修复：恢复 actions/deploy-pages 方式部署 + Node 22",
+      "run_number": 8,
       "event": "push",
       "status": "completed",
       "conclusion": "success",
       "workflow_id": 310390047,
-      "check_suite_id": 78641571344,
-      "check_suite_node_id": "CS_kwDOTT8TrM8AAAAST2cmEA",
-      "url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132",
-      "html_url": "https://github.com/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132",
+      "check_suite_id": 78642711056,
+      "check_suite_node_id": "CS_kwDOTT8TrM8AAAAST3iKEA",
+      "url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521",
+      "html_url": "https://github.com/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521",
       "pull_requests": [
 
       ],
-      "created_at": "2026-07-10T04:01:32Z",
-      "updated_at": "2026-07-10T04:02:00Z",
+      "created_at": "2026-07-10T04:12:10Z",
+      "updated_at": "2026-07-10T04:12:44Z",
       "actor": {
         "login": "KOTORi1i1",
         "id": 283868949,
@@ -48,7 +48,7 @@
       "referenced_workflows": [
 
       ],
-      "run_started_at": "2026-07-10T04:01:32Z",
+      "run_started_at": "2026-07-10T04:12:10Z",
       "triggering_actor": {
         "login": "KOTORi1i1",
         "id": 283868949,
@@ -70,19 +70,19 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "jobs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132/jobs",
-      "logs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132/logs",
-      "check_suite_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/check-suites/78641571344",
-      "artifacts_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132/artifacts",
-      "cancel_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132/cancel",
-      "rerun_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068092132/rerun",
+      "jobs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521/jobs",
+      "logs_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521/logs",
+      "check_suite_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/check-suites/78642711056",
+      "artifacts_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521/artifacts",
+      "cancel_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521/cancel",
+      "rerun_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/runs/29068496521/rerun",
       "previous_attempt_url": null,
       "workflow_url": "https://api.github.com/repos/KOTORi1i1/ai-knowledge-base/actions/workflows/310390047",
       "head_commit": {
-        "id": "d839baeeced39c9631af721496c0c74578186082",
-        "tree_id": "350f778bc1920a9fff4b6a4bb92542be3820b44b",
-        "message": "修复：工作流添加 contents write 权限 + Pages 改为 gh-pages 分支部署",
-        "timestamp": "2026-07-10T04:01:25Z",
+        "id": "0ca0f52f428ece841df3bcbf3613819637f399ff",
+        "tree_id": "e52849504da7c62250e6da3968e6b806da4e6af9",
+        "message": "修复：恢复 actions/deploy-pages 方式部署 + Node 22",
+        "timestamp": "2026-07-10T04:12:02Z",
         "author": {
           "name": "Reekooy",
           "email": "1528927697@qq.com"

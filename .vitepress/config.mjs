@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // ===== 部署路径（GitHub Pages 子目录）=====
+  base: '/ai-knowledge-base/',
+
   // ===== 基本信息 =====
   title: 'AI Knowledge Base',           // 网站标题（显示在浏览器标签页）
   description: 'AI 论文追踪 · 行业动态 · Skills 推荐',  // 网站简介（搜索引擎会显示）
