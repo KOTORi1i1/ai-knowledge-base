@@ -1,0 +1,68 @@
+# GitHub Actions 自动部署工作流
+# 每次推送代码时自动构建并部署到 GitHub Pages
+
+name: 部署网站
+
+on:
+  push:
+    branches: [master]
+  # 每天 UTC 0:00（北京时间 8:00）自动运行
+  schedule:
+    - cron: '0 0 * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 权限
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 确保只有一个部署在运行
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      # 1. 检出代码
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      # 2. 安装 Node.js
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      # 3. 安装依赖
+      - name: 安装依赖
+        run: npm ci
+
+      # 4. 抓取最新论文和资讯
+      - name: 抓取最新数据
+        run: |
+          node scripts/fetch-papers.mjs || echo "⚠️ 论文抓取失败，使用已有数据"
+          node scripts/fetch-news.mjs || echo "⚠️ 资讯抓取失败，使用已有数据"
+
+      # 5. 构建网站（含 Pagefind 索引）
+      - name: 构建网站
+        run: npm run build
+
+      # 6. 上传构建产物
+      - name: 上传到 GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .vitepress/dist
+
+      # 7. 部署
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
