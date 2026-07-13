@@ -40,6 +40,7 @@ jobs:
         run: |
           node scripts/fetch-papers.mjs || echo "⚠️ 论文抓取失败"
           node scripts/fetch-news.mjs || echo "⚠️ 资讯抓取失败"
+          node scripts/generate-daily-brief.mjs || echo "⚠️ 简报生成失败"
 
       - name: 构建网站
         run: npm run build
