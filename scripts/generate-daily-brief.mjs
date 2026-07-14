@@ -230,30 +230,43 @@ async function fetchRSS(source) {
 
 async function fetchHuggingFaceDaily() {
   console.log('  📡 HuggingFace Daily Papers...');
-  try {
-    const response = await fetch(HF_DAILY_API, {
-      headers: { 'User-Agent': 'AI-Knowledge-Base/1.0' },
-      signal: AbortSignal.timeout(15000),
-    });
+  const MAX_RETRIES = 3;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const response = await fetch(HF_DAILY_API, {
+        headers: { 'User-Agent': 'AI-Knowledge-Base/1.0' },
+        signal: AbortSignal.timeout(20000),
+      });
 
-    if (!response.ok) return [];
-    const papers = await response.json();
+      if (!response.ok) {
+        console.log(`    ⚠️ HTTP ${response.status}, 尝试 ${attempt}/${MAX_RETRIES}`);
+        if (attempt < MAX_RETRIES) { await sleep(2000); continue; }
+        return [];
+      }
+      const papers = await response.json();
 
-    const items = papers.slice(0, 15).map(paper => ({
-      title: paper.title || 'Untitled',
-      link: paper.paper?.url || `https://huggingface.co/papers/${paper.paper?.id}`,
-      description: (paper.paper?.summary || '').slice(0, 300),
-      date: new Date().toISOString().substring(0, 10),
-      source: 'HuggingFace Daily',
-      upvotes: paper.upvotes || 0,
-    }));
+      const items = papers.slice(0, 15).map(paper => ({
+        title: paper.title || 'Untitled',
+        link: paper.paper?.url || `https://huggingface.co/papers/${paper.paper?.id}`,
+        description: (paper.paper?.summary || '').slice(0, 300),
+        date: new Date().toISOString().substring(0, 10),
+        source: 'HuggingFace Daily',
+        upvotes: paper.upvotes || 0,
+      }));
 
-    console.log(`    ✅ ${items.length} 条`);
-    return items;
-  } catch (err) {
-    console.log(`    ❌ ${err.message}`);
-    return [];
+      console.log(`    ✅ ${items.length} 条`);
+      return items;
+    } catch (err) {
+      console.log(`    ⚠️ 尝试 ${attempt}/${MAX_RETRIES}: ${err.message}`);
+      if (attempt < MAX_RETRIES) { await sleep(2000); }
+    }
   }
+  console.log(`    ⚠️ HF Daily 暂时不可用，将仅使用 RSS 数据`);
+  return [];
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 // ============ 趋势检测 ============

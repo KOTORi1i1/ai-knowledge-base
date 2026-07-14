@@ -4,7 +4,8 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: '0 0 * * *'
+    # 比 daily-update 晚 15 分钟，等数据更新完再部署
+    - cron: '15 0 * * *'
   workflow_dispatch:
 
 permissions:

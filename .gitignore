@@ -8,3 +8,17 @@ node_modules/
 # 系统垃圾文件
 .DS_Store
 Thumbs.db
+
+# 调试文件 / CI 日志（绝对不能提交）
+job-log*.txt
+job-logs/
+job-logs*/
+branches.json
+gh-pages-contents.json
+job-detail.json
+job.json
+pages-builds.json
+pages-latest.json
+pages-status.json
+run-status.json
+wf-list.json

@@ -1,8 +1,0 @@
-2026-07-10T03:41:10.5760000Z Evaluating build-and-deploy.if
-2026-07-10T03:41:10.5760000Z Evaluating: success()
-2026-07-10T03:41:10.5760000Z Result: true
-2026-07-10T03:41:11.0400000Z Job is about to start running on the hosted runner: GitHub Actions 1000000004
-2026-07-10T03:41:11.0400000Z Job is waiting for a hosted runner to come online.
-2026-07-10T03:41:11.0380000Z Requested labels: ubuntu-latest
-2026-07-10T03:41:11.0380000Z Job defined at: KOTORi1i1/ai-knowledge-base/.github/workflows/deploy.yml@refs/heads/master
-2026-07-10T03:41:11.0380000Z Waiting for a runner to pick up this job...

@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-07-03 ~ 2026-07-10 · 从 160 篇中精选 Top 20
+> 2026-07-07 ~ 2026-07-14 · 从 240 篇中精选 Top 20
 
 ---
 
@@ -32,7 +32,7 @@ layout: page
 
 - ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
 - ⭐⭐⭐ [CAAD: Causality-Aware Multivariate Time Series Anomaly Detection vi...](https://arxiv.org/abs/2607.08555) — Xin Wang
-- ⭐⭐⭐ [LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction,...](https://arxiv.org/abs/2607.08770) — Cheng-De Fan
+- ⭐⭐⭐ [STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Seq...](https://arxiv.org/abs/2607.09385) — Victor J. B. Jung
 
 ### 🔗 多模态
 
@@ -48,9 +48,9 @@ layout: page
 
 ### ⚡ 高效模型
 
-- ⭐⭐ [It Takes a MAESTRO To Prune Bad Experts](https://arxiv.org/abs/2607.08601) — Palaash Goel
-- ⭐⭐ [CT-CLIP Representations for Multimodal Lung Cancer Survival Prediction](https://arxiv.org/abs/2607.08503) — Sofie Allgöwer
-- ⭐⭐ [SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688) — Ruiqi Shen
+- ⭐⭐⭐ [STEEL: Sparsity-Aware Fused Attention for Energy-Efficient Long-Seq...](https://arxiv.org/abs/2607.09385) — Victor J. B. Jung
+- ⭐⭐⭐ [GatedLinear: Adaptive Routing of Complementary Linear Bases for Tim...](https://arxiv.org/abs/2607.09537) — Qitai Tan
+- ⭐⭐⭐ [Parameter-Efficient Vision-Language Adaptation with Continuous Meta...](https://arxiv.org/abs/2607.09443) — Anil Osman Tur
 
 ### 🛡️ AI安全与对齐
 
@@ -76,20 +76,20 @@ layout: page
 | 4 | 🔗 多模态 | [MedPMC: A Systematic Framework for Scaling High-Fide...](https://arxiv.org/abs/2607.07673) | ⭐⭐⭐ |
 | 5 | 🕸️ 图神经网络 | [EdgeRefine: Privacy-Utility Balance for Graphs via J...](https://arxiv.org/abs/2607.08659) | ⭐⭐⭐ |
 | 6 | 🛡️ AI安全与对齐 | [CAAD: Causality-Aware Multivariate Time Series Anoma...](https://arxiv.org/abs/2607.08555) | ⭐⭐⭐ |
-| 7 | 👁️ 计算机视觉 | [LongE2V: Long-Horizon Event-based Video Reconstructi...](https://arxiv.org/abs/2607.08770) | ⭐⭐⭐ |
-| 8 | 👁️ 计算机视觉 | [Cognitive-structured Multimodal Agent for Multimodal...](https://arxiv.org/abs/2607.08497) | ⭐⭐⭐ |
-| 9 | 🎨 生成式AI | [ARDY: Autoregressive Diffusion with Hybrid Represent...](https://arxiv.org/abs/2607.08741) | ⭐⭐⭐ |
-| 10 | 👁️ 计算机视觉 | [Wat3R: Underwater 3D Geometry Learning without Annot...](https://arxiv.org/abs/2607.08772) | ⭐⭐⭐ |
-| 11 | 👁️ 计算机视觉 | [WaspMOT: A Benchmark for Long-Term Multi-Object Trac...](https://arxiv.org/abs/2607.08729) | ⭐⭐⭐ |
-| 12 | 🧠 大语言模型 | [Switch-Reasoner: Learn When to Think in Multitask Mi...](https://arxiv.org/abs/2607.08572) | ⭐⭐⭐ |
-| 13 | 👁️ 计算机视觉 | [AA-ViT: Anatomically Aware Vision Transformer with S...](https://arxiv.org/abs/2607.07553) | ⭐⭐⭐ |
-| 14 | 🧠 大语言模型 | [Towards Precision Therapy in Hepatocellular Carcinom...](https://arxiv.org/abs/2607.08602) | ⭐⭐⭐ |
-| 15 | 👁️ 计算机视觉 | [VocaDet: Sample-Driven Open-Vocabulary Object Detect...](https://arxiv.org/abs/2607.08541) | ⭐⭐⭐ |
-| 16 | 📝 自然语言处理 | [Do Transformations Reveal the Truth? Generative Resi...](https://arxiv.org/abs/2607.08674) | ⭐⭐⭐ |
-| 17 | 👁️ 计算机视觉 | [VCDP: Variation-Conditioned Distributional Proxy Lea...](https://arxiv.org/abs/2607.07416) | ⭐⭐⭐ |
-| 18 | 🧠 大语言模型 | [From Noisy Traces to Root Causes: Structural Traject...](https://arxiv.org/abs/2607.07702) | ⭐⭐⭐ |
-| 19 | 🎮 强化学习 | [Selective Timestep Weighting and Advantage-Based Rep...](https://arxiv.org/abs/2607.07693) | ⭐⭐⭐ |
-| 20 | 🧠 大语言模型 | [WebSwarm: Recursive Multi-Agent Orchestration for De...](https://arxiv.org/abs/2607.08662) | ⭐⭐ |
+| 7 | 🧠 大语言模型 | [STEEL: Sparsity-Aware Fused Attention for Energy-Eff...](https://arxiv.org/abs/2607.09385) | ⭐⭐⭐ |
+| 8 | 👁️ 计算机视觉 | [LongE2V: Long-Horizon Event-based Video Reconstructi...](https://arxiv.org/abs/2607.08770) | ⭐⭐⭐ |
+| 9 | 👁️ 计算机视觉 | [Cognitive-structured Multimodal Agent for Multimodal...](https://arxiv.org/abs/2607.08497) | ⭐⭐⭐ |
+| 10 | 🎨 生成式AI | [ARDY: Autoregressive Diffusion with Hybrid Represent...](https://arxiv.org/abs/2607.08741) | ⭐⭐⭐ |
+| 11 | 🎮 强化学习 | [PanoWorld: Real-World Panoramic Generation](https://arxiv.org/abs/2607.09661) | ⭐⭐⭐ |
+| 12 | 👁️ 计算机视觉 | [Wat3R: Underwater 3D Geometry Learning without Annot...](https://arxiv.org/abs/2607.08772) | ⭐⭐⭐ |
+| 13 | 👁️ 计算机视觉 | [WaspMOT: A Benchmark for Long-Term Multi-Object Trac...](https://arxiv.org/abs/2607.08729) | ⭐⭐⭐ |
+| 14 | 🧠 大语言模型 | [Switch-Reasoner: Learn When to Think in Multitask Mi...](https://arxiv.org/abs/2607.08572) | ⭐⭐⭐ |
+| 15 | 👁️ 计算机视觉 | [AA-ViT: Anatomically Aware Vision Transformer with S...](https://arxiv.org/abs/2607.07553) | ⭐⭐⭐ |
+| 16 | 🕸️ 图神经网络 | [GatedLinear: Adaptive Routing of Complementary Linea...](https://arxiv.org/abs/2607.09537) | ⭐⭐⭐ |
+| 17 | 🧠 大语言模型 | [Towards Precision Therapy in Hepatocellular Carcinom...](https://arxiv.org/abs/2607.08602) | ⭐⭐⭐ |
+| 18 | 👁️ 计算机视觉 | [VocaDet: Sample-Driven Open-Vocabulary Object Detect...](https://arxiv.org/abs/2607.08541) | ⭐⭐⭐ |
+| 19 | ⚡ 高效模型 | [Parameter-Efficient Vision-Language Adaptation with ...](https://arxiv.org/abs/2607.09443) | ⭐⭐⭐ |
+| 20 | 📝 自然语言处理 | [Do Transformations Reveal the Truth? Generative Resi...](https://arxiv.org/abs/2607.08674) | ⭐⭐⭐ |
 
 ---
 

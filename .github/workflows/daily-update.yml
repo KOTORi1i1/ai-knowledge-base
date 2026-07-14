@@ -6,6 +6,7 @@ name: 🤖 每日内容更新
 
 on:
   # 定时运行：每天 UTC 0:00（北京时间 8:00）
+  # deploy.yml 在 UTC 0:15 运行，确保数据先更新再部署
   schedule:
     - cron: '0 0 * * *'
 
@@ -29,7 +30,7 @@ jobs:
       - name: 🔧 安装 Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       # 3. 安装依赖（目前只有 VitePress，后续如果有新依赖会自动安装）
       - name: 📦 安装依赖

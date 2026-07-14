@@ -1,83 +1,83 @@
 {
-  "date": "2026-07-10",
-  "generated": "2026-07-10T08:28:44.968Z",
+  "date": "2026-07-14",
+  "generated": "2026-07-14T00:49:34.006Z",
   "headline": {
-    "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
-    "summary": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatib",
+    "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
+    "summary": "In this tutorial, we explore NVIDIA tile-based GPU programming with TileGym, building a Colab workflow that runs across ",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+    "link": "https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/",
     "source": "MarkTechPost",
     "category": "工具"
   },
-  "trend": "🔥 模型方向最活跃（4 条），「Agent」是今日热词（3 次）",
+  "trend": "🤖 Agent方向最活跃（3 条），「Agent」是今日热词（6 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
-      "summary": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatib",
-      "stars": 4.7,
-      "starsText": "★★★★★",
+      "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
+      "summary": "In this tutorial, we explore NVIDIA tile-based GPU programming with TileGym, building a Colab workflow that runs across ",
+      "stars": 4,
+      "starsText": "★★★★☆",
       "category": "工具",
       "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
+      "link": "https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/",
       "source": "MarkTechPost",
-      "date": "2026-07-09"
+      "date": "2026-07-12"
     },
     {
       "rank": 2,
-      "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
-      "summary": "Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. I",
-      "stars": 4,
+      "title": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
+      "summary": "In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an i",
+      "stars": 3.5,
       "starsText": "★★★★☆",
       "category": "Agent",
       "categoryId": "agent",
-      "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+      "link": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
       "source": "MarkTechPost",
-      "date": "2026-07-09"
+      "date": "2026-07-13"
     },
     {
       "rank": 3,
-      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
-      "summary": "OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 p",
-      "stars": 4,
+      "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
+      "summary": "Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses tho",
+      "stars": 3.5,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+      "link": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/",
       "source": "MarkTechPost",
-      "date": "2026-07-09"
+      "date": "2026-07-13"
     }
   ],
   "categories": {
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 2,
-      "top": "Google AI Studio Adds Import from GitHub to Build a Deployab"
+      "count": 1,
+      "top": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From "
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
       "count": 3,
-      "top": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multi"
+      "top": "Building a VideoAgent-Style Multi-Agent System: Intent Parsi"
     },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 4,
-      "top": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Mod"
+      "count": 3,
+      "top": "Stanford Researchers Introduce TRACE: A Capability-Targeted "
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
       "count": 1,
-      "top": "Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-"
+      "top": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simula"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Google AI Studio Adds Import from GitHub」",
+  "oneLiner": "今天的主题是 🤖 Agent + 🔥 模型，头条是「A Coding Guide to NVIDIA’s Tile-Based GP」",
   "stats": {
-    "total": 10,
-    "avgRating": 4,
-    "topRated": 7
+    "total": 8,
+    "avgRating": 3.5,
+    "topRated": 1
   }
 }

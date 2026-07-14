@@ -138,35 +138,45 @@ async function fetchRSS(source) {
 async function fetchHuggingFaceDaily() {
   console.log(`  📡 抓取: Hugging Face Daily Papers`);
 
-  try {
-    const response = await fetch(HF_DAILY_API, {
-      headers: { 'User-Agent': 'AI-Knowledge-Base/1.0' },
-      signal: AbortSignal.timeout(15000),
-    });
+  const MAX_RETRIES = 3;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const response = await fetch(HF_DAILY_API, {
+        headers: { 'User-Agent': 'AI-Knowledge-Base/1.0' },
+        signal: AbortSignal.timeout(20000),
+      });
 
-    if (!response.ok) {
-      console.log(`    ⚠️ HTTP ${response.status}，跳过`);
-      return [];
+      if (!response.ok) {
+        console.log(`    ⚠️ HTTP ${response.status}, 尝试 ${attempt}/${MAX_RETRIES}`);
+        if (attempt < MAX_RETRIES) { await sleep(2000); continue; }
+        return [];
+      }
+
+      const papers = await response.json();
+      const items = papers.slice(0, 10).map(paper => ({
+        title: paper.title || 'Untitled',
+        link: paper.paper?.url || `https://huggingface.co/papers/${paper.paper?.id}`,
+        description: (paper.paper?.summary || '').slice(0, 300),
+        date: new Date().toISOString().substring(0, 10),
+        source: 'HuggingFace Daily',
+        category: '社区热门论文',
+        lang: 'en',
+        upvotes: paper.upvotes || 0,
+      }));
+
+      console.log(`    ✅ 获取 ${items.length} 条`);
+      return items;
+    } catch (err) {
+      console.log(`    ⚠️ 尝试 ${attempt}/${MAX_RETRIES}: ${err.message}`);
+      if (attempt < MAX_RETRIES) { await sleep(2000); }
     }
-
-    const papers = await response.json();
-    const items = papers.slice(0, 10).map(paper => ({
-      title: paper.title || 'Untitled',
-      link: paper.paper?.url || `https://huggingface.co/papers/${paper.paper?.id}`,
-      description: (paper.paper?.summary || '').slice(0, 300),
-      date: new Date().toISOString().substring(0, 10),
-      source: 'HuggingFace Daily',
-      category: '社区热门论文',
-      lang: 'en',
-      upvotes: paper.upvotes || 0,
-    }));
-
-    console.log(`    ✅ 获取 ${items.length} 条`);
-    return items;
-  } catch (err) {
-    console.log(`    ❌ 失败: ${err.message}`);
-    return [];
   }
+  console.log(`    ⚠️ HF Daily 暂时不可用，将仅使用 RSS 数据`);
+  return [];
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 async function fetchAllNews() {

@@ -1,21 +1,26 @@
+---
+layout: page
+title: 📰 AI 资讯
+---
+
 # 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-07-09
+## 📅 最近更新: 2026-07-14
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Languag...](https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0/) | MarkTechPost | 2026-07-09 |
-| 2 | [SpaceXAI Releases Grok 4.5, a Cursor-Trained Model for Coding, Agen...](https://www.marktechpost.com/2026/07/08/spacexai-releases-grok-4-5/) | MarkTechPost | 2026-07-08 |
-| 3 | [Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Mi...](https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/) | MarkTechPost | 2026-07-08 |
-| 4 | [Google AI Studio Adds &#8216;Import from GitHub&#8217; to Build Mod...](https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/) | MarkTechPost | 2026-07-08 |
-| 5 | [OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Mod...](https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/) | MarkTechPost | 2026-07-08 |
-| 6 | [NVIDIA&#8217;s Cosmos-Framework Tutorial: Designing a Colab-Friendl...](https://www.marktechpost.com/2026/07/08/nvidias-cosmos-framework-tutorial-designing-a-colab-friendly-miniature-of-cosmos-3-world-models-with-omnimodal-mixture-of-transformers/) | MarkTechPost | 2026-07-08 |
-| 7 | [Ant Group’s Robbyant Open-Sources LingBot-Vision: A 1B Boundary-Cen...](https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception/) | MarkTechPost | 2026-07-08 |
-| 8 | [NVIDIA Releases Audex (Nemotron-Labs-Audex-30B-A3B): A Unified Audi...](https://www.marktechpost.com/2026/07/07/nvidia-releases-audex-nemotron-labs-audex-30b-a3b-a-unified-audio-text-llm-that-preserves-the-text-intelligence-of-its-backbone/) | MarkTechPost | 2026-07-08 |
-| 9 | [Liquid AI Open-Sources Antidoom: A Final Token Preference Optimizat...](https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/) | MarkTechPost | 2026-07-07 |
-| 10 | [Tencent Releases Hy3: An Open 295B Mixture-of-Experts (MoE) Model w...](https://www.marktechpost.com/2026/07/06/tencent-releases-hy3-open-295b-moe-model/) | MarkTechPost | 2026-07-07 |
+| 1 | [Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Be...](https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/) | MarkTechPost | 2026-07-13 |
+| 2 | [Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Gra...](https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/) | MarkTechPost | 2026-07-13 |
+| 3 | [Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic...](https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/) | MarkTechPost | 2026-07-13 |
+| 4 | [Prime Intellect Releases Verifiers v1: Composable Tasksets, Harness...](https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/) | MarkTechPost | 2026-07-13 |
+| 5 | [Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol...](https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/) | MarkTechPost | 2026-07-13 |
+| 6 | [Guide to Loop Engineering: How &#8216;autoresearch&#8217; and &#821...](https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/) | MarkTechPost | 2026-07-12 |
+| 7 | [Mira Murati&#8217;s Thinking Machines Lab Makes The Technical Case ...](https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/) | MarkTechPost | 2026-07-12 |
+| 8 | [A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile ...](https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/) | MarkTechPost | 2026-07-12 |
+| 9 | [Ant Group&#8217;s Robbyant Unveils LingBot-VA 2.0: A Causal Video-A...](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) | MarkTechPost | 2026-07-11 |
+| 10 | [Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer...](https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/) | MarkTechPost | 2026-07-10 |
 | 11 | [Tools vs. Subagents: Building Effective AI Agents Without Over-Engi...](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) | Machine Learning Mastery | 2026-07-07 |
 | 12 | [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) | Machine Learning Mastery | 2026-07-06 |
 | 13 | [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-07-02 |
@@ -41,6 +46,10 @@
 
 ## 🗄️ 历史归档
 
+- [📰 2026-07-13](/news/2026-07-13)
+- [📰 2026-07-12](/news/2026-07-12)
+- [📰 2026-07-11](/news/2026-07-11)
+- [📰 2026-07-10](/news/2026-07-10)
 - [📰 2026-07-09](/news/2026-07-09)
 - [📰 2026-07-08](/news/2026-07-08)
 - [📰 2026-07-07](/news/2026-07-07)
