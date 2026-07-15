@@ -7,20 +7,20 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-07-14
+## 📅 最近更新: 2026-07-15
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simulation Be...](https://www.marktechpost.com/2026/07/13/skyfall-ai-releases-morpheus-a-persistent-enterprise-simulation-benchmark-that-makes-continual-reinforcement-learning-necessary-under-structured-non-stationarity/) | MarkTechPost | 2026-07-13 |
-| 2 | [Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Gra...](https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/) | MarkTechPost | 2026-07-13 |
-| 3 | [Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic...](https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/) | MarkTechPost | 2026-07-13 |
-| 4 | [Prime Intellect Releases Verifiers v1: Composable Tasksets, Harness...](https://www.marktechpost.com/2026/07/13/prime-intellect-releases-verifiers-v1/) | MarkTechPost | 2026-07-13 |
-| 5 | [Meet NeuroVFM: A New Neuroimaging Foundation Model Trained With Vol...](https://www.marktechpost.com/2026/07/12/meet-neurovfm-a-new-neuroimaging-foundation-model-trained-with-vol-jepa-on-uncurated-clinical-mri-and-ct-volumes/) | MarkTechPost | 2026-07-13 |
-| 6 | [Guide to Loop Engineering: How &#8216;autoresearch&#8217; and &#821...](https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/) | MarkTechPost | 2026-07-12 |
-| 7 | [Mira Murati&#8217;s Thinking Machines Lab Makes The Technical Case ...](https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/) | MarkTechPost | 2026-07-12 |
-| 8 | [A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile ...](https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/) | MarkTechPost | 2026-07-12 |
-| 9 | [Ant Group&#8217;s Robbyant Unveils LingBot-VA 2.0: A Causal Video-A...](https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0/) | MarkTechPost | 2026-07-11 |
-| 10 | [Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer...](https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/) | MarkTechPost | 2026-07-10 |
+| 1 | [Multi-Agent LLMs Fail to Explore Each Other](https://huggingface.co/papers/2607.11250) | HuggingFace Daily | 2026-07-15 |
+| 2 | [Evidence-Backed Video Question Answering](https://huggingface.co/papers/2607.11862) | HuggingFace Daily | 2026-07-15 |
+| 3 | [MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning](https://huggingface.co/papers/2607.11736) | HuggingFace Daily | 2026-07-15 |
+| 4 | [A Theory of Contrastive Learning with Natural Images](https://huggingface.co/papers/2607.07470) | HuggingFace Daily | 2026-07-15 |
+| 5 | [Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundatio...](https://huggingface.co/papers/2607.11643) | HuggingFace Daily | 2026-07-15 |
+| 6 | [EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulat...](https://huggingface.co/papers/2607.09701) | HuggingFace Daily | 2026-07-15 |
+| 7 | [Latent-Identity Tuning in Text-to-Image Personalization Models](https://huggingface.co/papers/2607.11885) | HuggingFace Daily | 2026-07-15 |
+| 8 | [Proxy Exploration and Reusable Guidance: A Modular LLM Post-Trainin...](https://huggingface.co/papers/2607.11505) | HuggingFace Daily | 2026-07-15 |
+| 9 | [CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Se...](https://huggingface.co/papers/2607.09362) | HuggingFace Daily | 2026-07-15 |
+| 10 | [Metacognition in LLMs: Foundations, Progress, and Opportunities](https://huggingface.co/papers/2607.11881) | HuggingFace Daily | 2026-07-15 |
 | 11 | [Tools vs. Subagents: Building Effective AI Agents Without Over-Engi...](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) | Machine Learning Mastery | 2026-07-07 |
 | 12 | [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) | Machine Learning Mastery | 2026-07-06 |
 | 13 | [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-07-02 |
@@ -46,6 +46,7 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-07-15](/news/2026-07-15)
 - [📰 2026-07-13](/news/2026-07-13)
 - [📰 2026-07-12](/news/2026-07-12)
 - [📰 2026-07-11](/news/2026-07-11)

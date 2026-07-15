@@ -1,83 +1,89 @@
 {
-  "date": "2026-07-14",
-  "generated": "2026-07-14T00:49:34.006Z",
+  "date": "2026-07-15",
+  "generated": "2026-07-15T01:51:01.677Z",
   "headline": {
-    "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
-    "summary": "In this tutorial, we explore NVIDIA tile-based GPU programming with TileGym, building a Colab workflow that runs across ",
-    "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/",
-    "source": "MarkTechPost",
-    "category": "工具"
+    "title": "Multi-Agent LLMs Fail to Explore Each Other",
+    "summary": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language mod",
+    "why": "今天值得关注的重要动态",
+    "link": "https://huggingface.co/papers/2607.11250",
+    "source": "HuggingFace Daily",
+    "category": "模型"
   },
-  "trend": "🤖 Agent方向最活跃（3 条），「Agent」是今日热词（6 次）",
+  "trend": "🔥 模型方向最活跃（6 条），「Agent」是今日热词（3 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention",
-      "summary": "In this tutorial, we explore NVIDIA tile-based GPU programming with TileGym, building a Colab workflow that runs across ",
-      "stars": 4,
-      "starsText": "★★★★☆",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/",
-      "source": "MarkTechPost",
-      "date": "2026-07-12"
-    },
-    {
-      "rank": 2,
-      "title": "Building a VideoAgent-Style Multi-Agent System: Intent Parsing, Graph Planning, and Tool Routing for Video Editing Tasks",
-      "summary": "In this tutorial, we reconstruct the VideoAgent workflow as a runnable, API-key-free multi-agent pipeline. We build an i",
-      "stars": 3.5,
-      "starsText": "★★★★☆",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://www.marktechpost.com/2026/07/13/building-a-videoagent-style-multi-agent-system-intent-parsing-graph-planning-and-tool-routing-for-video-editing-tasks/",
-      "source": "MarkTechPost",
-      "date": "2026-07-13"
-    },
-    {
-      "rank": 3,
-      "title": "Stanford Researchers Introduce TRACE: A Capability-Targeted Agentic Training System That Turns Recurrent Agent Failures Into Synthetic RL Environment",
-      "summary": "Agentic LLMs keep failing the same way because they lack specific, reusable capabilities. Stanford's TRACE diagnoses tho",
-      "stars": 3.5,
+      "title": "Multi-Agent LLMs Fail to Explore Each Other",
+      "summary": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language mod",
+      "stars": 3.8,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/07/13/stanford-researchers-introduce-trace/",
-      "source": "MarkTechPost",
-      "date": "2026-07-13"
+      "link": "https://huggingface.co/papers/2607.11250",
+      "source": "HuggingFace Daily",
+      "date": "2026-07-15"
+    },
+    {
+      "rank": 2,
+      "title": "Evidence-Backed Video Question Answering",
+      "summary": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, pr",
+      "stars": 3.8,
+      "starsText": "★★★★☆",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://huggingface.co/papers/2607.11862",
+      "source": "HuggingFace Daily",
+      "date": "2026-07-15"
+    },
+    {
+      "rank": 3,
+      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
+      "summary": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet exi",
+      "stars": 3.8,
+      "starsText": "★★★★☆",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://huggingface.co/papers/2607.11736",
+      "source": "HuggingFace Daily",
+      "date": "2026-07-15"
     }
   ],
   "categories": {
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 1,
-      "top": "A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From "
-    },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 3,
-      "top": "Building a VideoAgent-Style Multi-Agent System: Intent Parsi"
-    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 3,
-      "top": "Stanford Researchers Introduce TRACE: A Capability-Targeted "
+      "count": 6,
+      "top": "Multi-Agent LLMs Fail to Explore Each Other"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
+      "count": 3,
+      "top": "A Theory of Contrastive Learning with Natural Images"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 4,
+      "top": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Ma"
+    },
+    "other": {
+      "name": "other",
+      "icon": "📋",
       "count": 1,
-      "top": "Skyfall AI Releases MORPHEUS: A Persistent Enterprise Simula"
+      "top": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Pr"
+    },
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 1,
+      "top": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi"
     }
   },
-  "oneLiner": "今天的主题是 🤖 Agent + 🔥 模型，头条是「A Coding Guide to NVIDIA’s Tile-Based GP」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Multi-Agent LLMs Fail to Explore Each Ot」",
   "stats": {
-    "total": 8,
-    "avgRating": 3.5,
-    "topRated": 1
+    "total": 15,
+    "avgRating": 3.8,
+    "topRated": 0
   }
 }
