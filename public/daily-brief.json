@@ -1,89 +1,89 @@
 {
-  "date": "2026-07-15",
-  "generated": "2026-07-15T01:51:01.677Z",
+  "date": "2026-07-18",
+  "generated": "2026-07-18T01:53:59.074Z",
   "headline": {
-    "title": "Multi-Agent LLMs Fail to Explore Each Other",
-    "summary": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language mod",
-    "why": "今天值得关注的重要动态",
-    "link": "https://huggingface.co/papers/2607.11250",
+    "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+    "summary": "We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit tes",
+    "why": "今日最重要的一条 AI 资讯，建议优先阅读",
+    "link": "https://huggingface.co/papers/2607.12227",
     "source": "HuggingFace Daily",
     "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（6 条），「Agent」是今日热词（3 次）",
+  "trend": "🔥 模型方向最活跃（10 条），「Reasoning」是今日热词（4 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Multi-Agent LLMs Fail to Explore Each Other",
-      "summary": "Exploration is essential for reliable autonomy in multi-agent systems, yet it remains unclear whether large language mod",
-      "stars": 3.8,
+      "title": "Rethinking the Evaluation of Harness Evolution for Agents",
+      "summary": "We revisit the evaluation of automatic harness evolution for LLM agents. Existing harness evolution methods use unit tes",
+      "stars": 4.3,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://huggingface.co/papers/2607.11250",
+      "link": "https://huggingface.co/papers/2607.12227",
       "source": "HuggingFace Daily",
-      "date": "2026-07-15"
+      "date": "2026-07-18"
     },
     {
       "rank": 2,
-      "title": "Evidence-Backed Video Question Answering",
-      "summary": "Current Video Large Language Models (Video LLMs) excel in question answering (QA) but largely operate as black boxes, pr",
-      "stars": 3.8,
+      "title": "AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling",
+      "summary": "Recent generalizable 3D Gaussian Splatting models have advanced long-sequence novel view synthesis (NVS), but at the cos",
+      "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2607.11862",
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://huggingface.co/papers/2607.10995",
       "source": "HuggingFace Daily",
-      "date": "2026-07-15"
+      "date": "2026-07-18"
     },
     {
       "rank": 3,
-      "title": "MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning",
-      "summary": "Language models are increasingly used for moral decision-making across diverse linguistic and cultural contexts, yet exi",
-      "stars": 3.8,
+      "title": "UniVR: Thinking in Visual Space for Unified Visual Reasoning",
+      "summary": "Learning broad world knowledge directly from raw visual data is a fundamental capability of intelligence. We introduce U",
+      "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2607.11736",
+      "category": "教程",
+      "categoryId": "tutorial",
+      "link": "https://huggingface.co/papers/2607.12800",
       "source": "HuggingFace Daily",
-      "date": "2026-07-15"
+      "date": "2026-07-18"
     }
   ],
   "categories": {
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 6,
-      "top": "Multi-Agent LLMs Fail to Explore Each Other"
-    },
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 3,
-      "top": "A Theory of Contrastive Learning with Natural Images"
+      "count": 10,
+      "top": "Rethinking the Evaluation of Harness Evolution for Agents"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 4,
-      "top": "EgoSteer: A Full-Stack System Towards Steerable Dexterous Ma"
+      "count": 2,
+      "top": "AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Lon"
     },
-    "other": {
-      "name": "other",
-      "icon": "📋",
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
       "count": 1,
-      "top": "CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Pr"
+      "top": "UniVR: Thinking in Visual Space for Unified Visual Reasoning"
+    },
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
+      "count": 1,
+      "top": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario G"
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
       "count": 1,
-      "top": "ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi"
+      "top": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GP"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Multi-Agent LLMs Fail to Explore Each Ot」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Rethinking the Evaluation of Harness Evo」",
   "stats": {
     "total": 15,
-    "avgRating": 3.8,
-    "topRated": 0
+    "avgRating": 3.9,
+    "topRated": 3
   }
 }

@@ -11,11 +11,11 @@ layout: page
 <div class="stats-grid">
 <div class="stat-card"><div class="stat-num">30</div><div class="stat-label">今日论文</div></div>
 <div class="stat-card highlight"><div class="stat-num">0</div><div class="stat-label">高质量(≥A级)</div></div>
-<div class="stat-card"><div class="stat-num">55</div><div class="stat-label">大语言模型</div></div>
-<div class="stat-card"><div class="stat-num">55</div><div class="stat-label">自然语言处理</div></div>
-<div class="stat-card"><div class="stat-num">45</div><div class="stat-label">强化学习</div></div>
-<div class="stat-card"><div class="stat-num">45</div><div class="stat-label">计算机视觉</div></div>
-<div class="stat-card"><div class="stat-num">30</div><div class="stat-label">AI安全与对齐</div></div>
+<div class="stat-card"><div class="stat-num">50</div><div class="stat-label">强化学习</div></div>
+<div class="stat-card"><div class="stat-num">48</div><div class="stat-label">大语言模型</div></div>
+<div class="stat-card"><div class="stat-num">41</div><div class="stat-label">计算机视觉</div></div>
+<div class="stat-card"><div class="stat-num">40</div><div class="stat-label">自然语言处理</div></div>
+<div class="stat-card"><div class="stat-num">35</div><div class="stat-label">AI安全与对齐</div></div>
 </div>
 
 ## 🏷️ 按领域浏览
@@ -24,101 +24,102 @@ layout: page
 <a href="/ai-knowledge-base/papers/tags/llm" class="category-card">
 <div class="category-icon">🧠</div>
 <div class="category-title">大语言模型</div>
-<div class="category-desc">今日 55 篇</div>
+<div class="category-desc">今日 48 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/cv" class="category-card">
 <div class="category-icon">👁️</div>
 <div class="category-title">计算机视觉</div>
-<div class="category-desc">今日 45 篇</div>
+<div class="category-desc">今日 41 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/nlp" class="category-card">
 <div class="category-icon">📝</div>
 <div class="category-title">自然语言处理</div>
-<div class="category-desc">今日 55 篇</div>
+<div class="category-desc">今日 40 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/rl" class="category-card">
 <div class="category-icon">🎮</div>
 <div class="category-title">强化学习</div>
-<div class="category-desc">今日 45 篇</div>
+<div class="category-desc">今日 50 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/multimodal" class="category-card">
 <div class="category-icon">🔗</div>
 <div class="category-title">多模态</div>
-<div class="category-desc">今日 23 篇</div>
+<div class="category-desc">今日 22 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/gnn" class="category-card">
 <div class="category-icon">🕸️</div>
 <div class="category-title">图神经网络</div>
-<div class="category-desc">今日 25 篇</div>
+<div class="category-desc">今日 27 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/efficient" class="category-card">
 <div class="category-icon">⚡</div>
 <div class="category-title">高效模型</div>
-<div class="category-desc">今日 21 篇</div>
+<div class="category-desc">今日 19 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/safety" class="category-card">
 <div class="category-icon">🛡️</div>
 <div class="category-title">AI安全与对齐</div>
-<div class="category-desc">今日 30 篇</div>
+<div class="category-desc">今日 35 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/generative" class="category-card">
 <div class="category-icon">🎨</div>
 <div class="category-title">生成式AI</div>
-<div class="category-desc">今日 23 篇</div>
+<div class="category-desc">今日 18 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 </div>
 
 ## 📋 今日精选
 
-> 最近更新: **2026-07-15** · 30 篇
+> 最近更新: **2026-07-18** · 30 篇
 
 | # | 领域 | 论文 | 作者 | 评分 |
 |---|------|------|------|------|
-| 1 | 🔗 多模态 | [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) | Ziyi Wang et al. | ⭐⭐⭐ |
-| 2 | 🎨 生成式AI | [Hallo4D: Multi-Modal Hallucination Mitigation for Co...](https://arxiv.org/abs/2607.12752) | Hongbo Wang et al. | ⭐⭐⭐ |
-| 3 | 👁️ 计算机视觉 | [UniMedSeg: Unified In-Context Learning for Multi-Par...](https://arxiv.org/abs/2607.12896) | Yunzhou Li et al. | ⭐⭐⭐ |
-| 4 | 👁️ 计算机视觉 | [MBTI: A Multi-Branch Efficient Fine-Tuning Framework...](https://arxiv.org/abs/2607.12782) | Mingzhen Xu et al. | ⭐⭐⭐ |
-| 5 | 👁️ 计算机视觉 | [What Would You Click? Personalized Video Thumbnail G...](https://arxiv.org/abs/2607.12882) | Zhiyu He et al. | ⭐⭐⭐ |
-| 6 | 🔗 多模态 | [AVSCap: Orchestrating Audio-Visual Synergy for Omni-...](https://arxiv.org/abs/2607.12820) | Yanghai Wang et al. | ⭐⭐⭐ |
-| 7 | 🧠 大语言模型 | [Do We Really Need Multimodal Emotion Language Models...](https://arxiv.org/abs/2607.12787) | Kaiwen Zheng et al. | ⭐⭐⭐ |
-| 8 | 👁️ 计算机视觉 | [ExtraGS: Enhancing Endoscopic View Extrapolation via...](https://arxiv.org/abs/2607.12785) | Cheng-Tai Hsieh et al. | ⭐⭐⭐ |
-| 9 | 🧠 大语言模型 | [Contrastive-Collapsed Loss for Flexible and Geometri...](https://arxiv.org/abs/2607.12916) | Blanca Cano-Camarero et al. | ⭐⭐⭐ |
-| 10 | 👁️ 计算机视觉 | [Inhibited Self-Attention: Sharpening Focus in Vision...](https://arxiv.org/abs/2607.12881) | Peter R. D. van der Wal et al. | ⭐⭐⭐ |
-| 11 | 🛡️ AI安全与对齐 | [LARAD: Layout-Aware Road Anomaly Detection via Spati...](https://arxiv.org/abs/2607.12858) | Shiyi Mu et al. | ⭐⭐⭐ |
-| 12 | 🧠 大语言模型 | [Knowledgeless Language Models: Suppressing Parametri...](https://arxiv.org/abs/2607.12831) | Roi Cohen et al. | ⭐⭐⭐ |
-| 13 | 🔗 多模态 | [Breaking Déjà Vu: Independent Auditing of Visual Pla...](https://arxiv.org/abs/2607.12818) | Sania Waheed et al. | ⭐⭐⭐ |
-| 14 | 🧠 大语言模型 | [CoRe: A Comprehensive Framework for Cross-Image Comp...](https://arxiv.org/abs/2607.12786) | Lin Peng et al. | ⭐⭐⭐ |
-| 15 | 🧠 大语言模型 | [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hype...](https://arxiv.org/abs/2607.12764) | Jiashi Lin et al. | ⭐⭐⭐ |
-| 16 | 🧠 大语言模型 | [VisCo: Leveraging Large Language Models as Intrinsic...](https://arxiv.org/abs/2607.12756) | Yupeng Zheng et al. | ⭐⭐⭐ |
-| 17 | 👁️ 计算机视觉 | [RFMSR: Residual Flow Matching for Image Super-Resolu...](https://arxiv.org/abs/2607.12753) | Shuwei Huang et al. | ⭐⭐⭐ |
-| 18 | 🎮 强化学习 | [Directional Constraints for Efficient Exploration in...](https://arxiv.org/abs/2607.12784) | Paolo Magliano et al. | ⭐⭐ |
-| 19 | 🧠 大语言模型 | [Less Experts, Faster Decoding: Cost-Aware Speculativ...](https://arxiv.org/abs/2607.12696) | Jincheng Xie et al. | ⭐⭐ |
-| 20 | 🕸️ 图神经网络 | [ReflectVLN: Training Vision-Language Navigation Agen...](https://arxiv.org/abs/2607.12680) | Jiahang Wang et al. | ⭐⭐ |
-| 21 | 📝 自然语言处理 | [MemOps: Benchmarking Lifecycle Memory Operations in ...](https://arxiv.org/abs/2607.12893) | Xixuan Hao et al. | ⭐⭐ |
-| 22 | 🛡️ AI安全与对齐 | [Statistical Non-linear Reconstruction Loss for Image...](https://arxiv.org/abs/2607.12866) | Nguyen Minh Tri et al. | ⭐⭐ |
-| 23 | 🕸️ 图神经网络 | [PixelLoop: Shortcut Topological Navigation with Pixe...](https://arxiv.org/abs/2607.12811) | Sarthak Chittawar et al. | ⭐⭐ |
-| 24 | 🎮 强化学习 | [From Critic to Confidence: PPO for Language-Based Qu...](https://arxiv.org/abs/2607.12687) | Mehak Dhaliwal et al. | ⭐⭐ |
-| 25 | 🔗 多模态 | [Text-Aided Multi-Modal Panoptic Symbol Spotting for ...](https://arxiv.org/abs/2607.12678) | Yan Gong et al. | ⭐⭐ |
-| 26 | 🎮 强化学习 | [Real-time fall detection based on vision for low-pow...](https://arxiv.org/abs/2607.12909) | Wenjun Xia et al. | ⭐⭐ |
-| 27 | 📝 自然语言处理 | [MetaInfer: A Knowledge Only LLM Inference Engine Gen...](https://arxiv.org/abs/2607.12875) | Zhenwen Miao et al. | ⭐⭐ |
-| 28 | 🧠 大语言模型 | [Accelerating Masked Diffusion Large Language Models:...](https://arxiv.org/abs/2607.12829) | Daehoon Gwak et al. | ⭐⭐ |
-| 29 | 👁️ 计算机视觉 | [UniVR: Thinking in Visual Space for Unified Visual R...](https://arxiv.org/abs/2607.12800) | Zhongwei Ren et al. | ⭐⭐ |
-| 30 | 🧠 大语言模型 | [Open-KNEAD: Knowledge-grounded Nutrition Estimation ...](https://arxiv.org/abs/2607.12911) | Bruce Coburn et al. | ⭐⭐ |
+| 1 | 🧠 大语言模型 | [Towards Hierarchical Structure Understanding of News...](https://arxiv.org/abs/2607.15082) | William Mocaër et al. | ⭐⭐⭐ |
+| 2 | 🎨 生成式AI | [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) | Zezhong Qian et al. | ⭐⭐⭐ |
+| 3 | 🧠 大语言模型 | [ARMOR++: Agentic Orchestration of a Multi-Domain Pri...](https://arxiv.org/abs/2607.15246) | Christos Korgialas et al. | ⭐⭐⭐ |
+| 4 | 🧠 大语言模型 | [NIFA: Nonlinear IMC enhanced FPGA for efficient ML i...](https://arxiv.org/abs/2607.15123) | Jiajun Hu et al. | ⭐⭐⭐ |
+| 5 | 🎮 强化学习 | [MeanFlowNFT: Bringing Forward-Process RL to Average-...](https://arxiv.org/abs/2607.15273) | Yushi Huang et al. | ⭐⭐⭐ |
+| 6 | 🛡️ AI安全与对齐 | [HoloGeo: Mitigating Landmark Bias in Geo-localizatio...](https://arxiv.org/abs/2607.15255) | Pengcheng Zhou et al. | ⭐⭐⭐ |
+| 7 | 🧠 大语言模型 | [Symbal: Detecting Systematic Misalignments in Model-...](https://arxiv.org/abs/2607.15216) | Maya Varma et al. | ⭐⭐⭐ |
+| 8 | 🧠 大语言模型 | [Beyond Single Expert: Harmonizing Diverse Visual Pri...](https://arxiv.org/abs/2607.15054) | Xiao Lin et al. | ⭐⭐⭐ |
+| 9 | 👁️ 计算机视觉 | [SUFLECA: Scaling Up Feature Learning for CAD-to-imag...](https://arxiv.org/abs/2607.15058) | Saad Ejaz et al. | ⭐⭐⭐ |
+| 10 | 👁️ 计算机视觉 | [Weakly-Supervised RGB-D Salient Object Detection via...](https://arxiv.org/abs/2607.15041) | Wenqi Si et al. | ⭐⭐⭐ |
+| 11 | 🔗 多模态 | [RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275) | Yunfan Jiang et al. | ⭐⭐⭐ |
+| 12 | 👁️ 计算机视觉 | [Motion-Conditioned Multi-View Fusion for Myocardial ...](https://arxiv.org/abs/2607.15268) | Guang Yang et al. | ⭐⭐⭐ |
+| 13 | 🧠 大语言模型 | [Rubrics on Trial: Evolving Rubrics from a Single Que...](https://arxiv.org/abs/2607.15092) | Haocheng Yang et al. | ⭐⭐⭐ |
+| 14 | 📝 自然语言处理 | [Scaling Behavior Foundation Model for Humanoid Robots](https://arxiv.org/abs/2607.15163) | Weishuai Zeng et al. | ⭐⭐ |
+| 15 | 🕸️ 图神经网络 | [QuReC: All-in-One Image Restoration with Query-Speci...](https://arxiv.org/abs/2607.15097) | Shen Zhou et al. | ⭐⭐ |
+| 16 | 🕸️ 图神经网络 | [BrainPilot: Automating Brain Discovery with Agentic ...](https://arxiv.org/abs/2607.15079) | Haoxuan Li et al. | ⭐⭐ |
+| 17 | 👁️ 计算机视觉 | [Online Neural Space Time Memory for Dynamic Novel Vi...](https://arxiv.org/abs/2607.15271) | Baback Elmieh et al. | ⭐⭐ |
+| 18 | 🔗 多模态 | [SceneBind: Binding What and Where Across Vision, Aud...](https://arxiv.org/abs/2607.15265) | Mingfei Chen et al. | ⭐⭐ |
+| 19 | 👁️ 计算机视觉 | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction...](https://arxiv.org/abs/2607.15211) | Ziren Gong et al. | ⭐⭐ |
+| 20 | 🕸️ 图神经网络 | [DAPGNet: Dynamic Adaptive Physics-Guided Graph Diffu...](https://arxiv.org/abs/2607.15128) | Pengkun Wang et al. | ⭐⭐ |
+| 21 | ⚡ 高效模型 | [Parameter-efficient Prompt Tuning of Vision Foundati...](https://arxiv.org/abs/2607.15047) | Javad Khoramdel et al. | ⭐⭐ |
+| 22 | 🎮 强化学习 | [Decoding Market Emotion from Blockchain Activity: A ...](https://arxiv.org/abs/2607.15258) | Arthur G. Bubolz et al. | ⭐⭐ |
+| 23 | 🎮 强化学习 | [DriftWorld: Fast World Modeling through Drifting](https://arxiv.org/abs/2607.15065) | Susie Lu et al. | ⭐⭐ |
+| 24 | 👁️ 计算机视觉 | [CRISP: Constrained Refinement via Iterative Squeezin...](https://arxiv.org/abs/2607.15231) | Yizhou Fang et al. | ⭐⭐ |
+| 25 | 🎮 强化学习 | [Structural-Semantic Reciprocal Learning for Unsuperv...](https://arxiv.org/abs/2607.15220) | Moyao Tian et al. | ⭐⭐ |
+| 26 | 🧠 大语言模型 | [When Words Are Safe But Actions Kill: Probing Physic...](https://arxiv.org/abs/2607.15218) | Weimeng Wang et al. | ⭐⭐ |
+| 27 | 🧠 大语言模型 | [Digital Pantheon: Simulating and Auditing Coalition ...](https://arxiv.org/abs/2607.15095) | Dylan Van Mulders et al. | ⭐⭐ |
+| 28 | 🎮 强化学习 | [SMC-ES: Automated synthesis of formally verified con...](https://arxiv.org/abs/2607.15003) | Riccardo Curcio et al. | ⭐⭐ |
+| 29 | 🎮 强化学习 | [Language Identification via Compositional Data Analy...](https://arxiv.org/abs/2607.15238) | Paul-Andrei Pogăcean et al. | ⭐⭐ |
+| 30 | 🎮 强化学习 | [RoGS: Adaptive Meshgrid Gaussian for Large-Scale Roa...](https://arxiv.org/abs/2607.15048) | Tianchen Deng et al. | ⭐⭐ |
 
 ---
 
 ## 📂 每日归档
 
 <div style="display:flex;flex-wrap:wrap;gap:8px">
+<a href="/ai-knowledge-base/papers/daily/2026-07-16" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-16</a>
 <a href="/ai-knowledge-base/papers/daily/2026-07-14" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-14</a>
 <a href="/ai-knowledge-base/papers/daily/2026-07-10" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-10</a>
 <a href="/ai-knowledge-base/papers/daily/2026-07-09" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-09</a>

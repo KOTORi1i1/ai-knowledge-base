@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-07-08 ~ 2026-07-15 · 从 320 篇中精选 Top 20
+> 2026-07-11 ~ 2026-07-18 · 从 160 篇中精选 Top 20
 
 ---
 
@@ -12,57 +12,57 @@ layout: page
 
 ### 🧠 大语言模型
 
-- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
-- ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
+- ⭐⭐⭐ [Towards Hierarchical Structure Understanding of Newspaper Images](https://arxiv.org/abs/2607.15082) — William Mocaër
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
+- ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
 
 ### 👁️ 计算机视觉
 
+- ⭐⭐⭐ [Towards Hierarchical Structure Understanding of Newspaper Images](https://arxiv.org/abs/2607.15082) — William Mocaër
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
 - ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
-- ⭐⭐⭐ [UniMedSeg: Unified In-Context Learning for Multi-Paradigm 2D/3D Med...](https://arxiv.org/abs/2607.12896) — Yunzhou Li
 
 ### 📝 自然语言处理
 
-- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
-- ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
+- ⭐⭐⭐ [Towards Hierarchical Structure Understanding of Newspaper Images](https://arxiv.org/abs/2607.15082) — William Mocaër
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
+- ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
 
 ### 🎮 强化学习
 
-- ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
-- ⭐⭐⭐ [CAAD: Causality-Aware Multivariate Time Series Anomaly Detection vi...](https://arxiv.org/abs/2607.08555) — Xin Wang
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
+- ⭐⭐⭐ [ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for ...](https://arxiv.org/abs/2607.15246) — Christos Korgialas
 
 ### 🔗 多模态
 
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
 - ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
-- ⭐⭐⭐ [MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Mu...](https://arxiv.org/abs/2607.07673) — Hyunjae Kim
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
 
 ### 🕸️ 图神经网络
 
-- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
 - ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
-- ⭐⭐⭐ [EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling...](https://arxiv.org/abs/2607.08659) — Wenxiu Ding
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
+- ⭐⭐⭐ [ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for ...](https://arxiv.org/abs/2607.15246) — Christos Korgialas
 
 ### ⚡ 高效模型
 
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
 - ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
-- ⭐⭐⭐ [MBTI: A Multi-Branch Efficient Fine-Tuning Framework for Hyperspect...](https://arxiv.org/abs/2607.12782) — Mingzhen Xu
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
 
 ### 🛡️ AI安全与对齐
 
+- ⭐⭐⭐ [Towards Hierarchical Structure Understanding of Newspaper Images](https://arxiv.org/abs/2607.15082) — William Mocaër
 - ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
-- ⭐⭐⭐ [Geometry and Gradient-based Partitioning for Panoramic Outdoor Reco...](https://arxiv.org/abs/2607.08769) — Weijian Chen
-- ⭐⭐⭐ [EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling...](https://arxiv.org/abs/2607.08659) — Wenxiu Ding
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
 
 ### 🎨 生成式AI
 
-- ⭐⭐⭐ [UltraX: Refining Pre-Training Data at Scale with Adaptive Programma...](https://arxiv.org/abs/2607.08646) — Xinlong Zhao
-- ⭐⭐⭐ [TimEE: End-to-end Time Series Classification via In-Context Learning](https://arxiv.org/abs/2607.07500) — Jaris Küken
 - ⭐⭐⭐ [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) — Ziyi Wang
+- ⭐⭐⭐ [Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio...](https://arxiv.org/abs/2607.12752) — Hongbo Wang
+- ⭐⭐⭐ [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) — Zezhong Qian
 
 ---
 
@@ -70,26 +70,26 @@ layout: page
 
 | # | 领域 | 论文 | 评分 |
 |---|------|------|------|
-| 1 | 🧠 大语言模型 | [UltraX: Refining Pre-Training Data at Scale with Ada...](https://arxiv.org/abs/2607.08646) | ⭐⭐⭐ |
-| 2 | 🧠 大语言模型 | [TimEE: End-to-end Time Series Classification via In-...](https://arxiv.org/abs/2607.07500) | ⭐⭐⭐ |
-| 3 | 🔗 多模态 | [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) | ⭐⭐⭐ |
-| 4 | 🎨 生成式AI | [Hallo4D: Multi-Modal Hallucination Mitigation for Co...](https://arxiv.org/abs/2607.12752) | ⭐⭐⭐ |
+| 1 | 🧠 大语言模型 | [Towards Hierarchical Structure Understanding of News...](https://arxiv.org/abs/2607.15082) | ⭐⭐⭐ |
+| 2 | 🔗 多模态 | [Hy-Embodied-VLM-1.0: Efficient Physical-World Agents](https://arxiv.org/abs/2607.12894) | ⭐⭐⭐ |
+| 3 | 🎨 生成式AI | [Hallo4D: Multi-Modal Hallucination Mitigation for Co...](https://arxiv.org/abs/2607.12752) | ⭐⭐⭐ |
+| 4 | 🎨 生成式AI | [Hierarchical Denoising For Multi-Step Visual Reasoning](https://arxiv.org/abs/2607.15278) | ⭐⭐⭐ |
 | 5 | 👁️ 计算机视觉 | [UniMedSeg: Unified In-Context Learning for Multi-Par...](https://arxiv.org/abs/2607.12896) | ⭐⭐⭐ |
 | 6 | 👁️ 计算机视觉 | [MBTI: A Multi-Branch Efficient Fine-Tuning Framework...](https://arxiv.org/abs/2607.12782) | ⭐⭐⭐ |
-| 7 | 🛡️ AI安全与对齐 | [Geometry and Gradient-based Partitioning for Panoram...](https://arxiv.org/abs/2607.08769) | ⭐⭐⭐ |
-| 8 | 🔗 多模态 | [MedPMC: A Systematic Framework for Scaling High-Fide...](https://arxiv.org/abs/2607.07673) | ⭐⭐⭐ |
-| 9 | 🕸️ 图神经网络 | [EdgeRefine: Privacy-Utility Balance for Graphs via J...](https://arxiv.org/abs/2607.08659) | ⭐⭐⭐ |
-| 10 | 🛡️ AI安全与对齐 | [CAAD: Causality-Aware Multivariate Time Series Anoma...](https://arxiv.org/abs/2607.08555) | ⭐⭐⭐ |
-| 11 | 👁️ 计算机视觉 | [What Would You Click? Personalized Video Thumbnail G...](https://arxiv.org/abs/2607.12882) | ⭐⭐⭐ |
-| 12 | 🔗 多模态 | [AVSCap: Orchestrating Audio-Visual Synergy for Omni-...](https://arxiv.org/abs/2607.12820) | ⭐⭐⭐ |
-| 13 | 🧠 大语言模型 | [STEEL: Sparsity-Aware Fused Attention for Energy-Eff...](https://arxiv.org/abs/2607.09385) | ⭐⭐⭐ |
-| 14 | 👁️ 计算机视觉 | [LongE2V: Long-Horizon Event-based Video Reconstructi...](https://arxiv.org/abs/2607.08770) | ⭐⭐⭐ |
-| 15 | 👁️ 计算机视觉 | [Cognitive-structured Multimodal Agent for Multimodal...](https://arxiv.org/abs/2607.08497) | ⭐⭐⭐ |
-| 16 | 🧠 大语言模型 | [Do We Really Need Multimodal Emotion Language Models...](https://arxiv.org/abs/2607.12787) | ⭐⭐⭐ |
-| 17 | 👁️ 计算机视觉 | [ExtraGS: Enhancing Endoscopic View Extrapolation via...](https://arxiv.org/abs/2607.12785) | ⭐⭐⭐ |
-| 18 | 🎨 生成式AI | [ARDY: Autoregressive Diffusion with Hybrid Represent...](https://arxiv.org/abs/2607.08741) | ⭐⭐⭐ |
-| 19 | 🎮 强化学习 | [PanoWorld: Real-World Panoramic Generation](https://arxiv.org/abs/2607.09661) | ⭐⭐⭐ |
-| 20 | 👁️ 计算机视觉 | [Wat3R: Underwater 3D Geometry Learning without Annot...](https://arxiv.org/abs/2607.08772) | ⭐⭐⭐ |
+| 7 | 🧠 大语言模型 | [ARMOR++: Agentic Orchestration of a Multi-Domain Pri...](https://arxiv.org/abs/2607.15246) | ⭐⭐⭐ |
+| 8 | 🧠 大语言模型 | [NIFA: Nonlinear IMC enhanced FPGA for efficient ML i...](https://arxiv.org/abs/2607.15123) | ⭐⭐⭐ |
+| 9 | 👁️ 计算机视觉 | [What Would You Click? Personalized Video Thumbnail G...](https://arxiv.org/abs/2607.12882) | ⭐⭐⭐ |
+| 10 | 🔗 多模态 | [AVSCap: Orchestrating Audio-Visual Synergy for Omni-...](https://arxiv.org/abs/2607.12820) | ⭐⭐⭐ |
+| 11 | 🎮 强化学习 | [MeanFlowNFT: Bringing Forward-Process RL to Average-...](https://arxiv.org/abs/2607.15273) | ⭐⭐⭐ |
+| 12 | 🧠 大语言模型 | [Do We Really Need Multimodal Emotion Language Models...](https://arxiv.org/abs/2607.12787) | ⭐⭐⭐ |
+| 13 | 👁️ 计算机视觉 | [ExtraGS: Enhancing Endoscopic View Extrapolation via...](https://arxiv.org/abs/2607.12785) | ⭐⭐⭐ |
+| 14 | 🛡️ AI安全与对齐 | [HoloGeo: Mitigating Landmark Bias in Geo-localizatio...](https://arxiv.org/abs/2607.15255) | ⭐⭐⭐ |
+| 15 | 🧠 大语言模型 | [Symbal: Detecting Systematic Misalignments in Model-...](https://arxiv.org/abs/2607.15216) | ⭐⭐⭐ |
+| 16 | 🧠 大语言模型 | [Beyond Single Expert: Harmonizing Diverse Visual Pri...](https://arxiv.org/abs/2607.15054) | ⭐⭐⭐ |
+| 17 | 👁️ 计算机视觉 | [SUFLECA: Scaling Up Feature Learning for CAD-to-imag...](https://arxiv.org/abs/2607.15058) | ⭐⭐⭐ |
+| 18 | 👁️ 计算机视觉 | [Weakly-Supervised RGB-D Salient Object Detection via...](https://arxiv.org/abs/2607.15041) | ⭐⭐⭐ |
+| 19 | 🧠 大语言模型 | [Contrastive-Collapsed Loss for Flexible and Geometri...](https://arxiv.org/abs/2607.12916) | ⭐⭐⭐ |
+| 20 | 👁️ 计算机视觉 | [Inhibited Self-Attention: Sharpening Focus in Vision...](https://arxiv.org/abs/2607.12881) | ⭐⭐⭐ |
 
 ---
 

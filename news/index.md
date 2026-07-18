@@ -7,20 +7,20 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-07-15
+## 📅 最近更新: 2026-07-18
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Multi-Agent LLMs Fail to Explore Each Other](https://huggingface.co/papers/2607.11250) | HuggingFace Daily | 2026-07-15 |
-| 2 | [Evidence-Backed Video Question Answering](https://huggingface.co/papers/2607.11862) | HuggingFace Daily | 2026-07-15 |
-| 3 | [MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning](https://huggingface.co/papers/2607.11736) | HuggingFace Daily | 2026-07-15 |
-| 4 | [A Theory of Contrastive Learning with Natural Images](https://huggingface.co/papers/2607.07470) | HuggingFace Daily | 2026-07-15 |
-| 5 | [Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundatio...](https://huggingface.co/papers/2607.11643) | HuggingFace Daily | 2026-07-15 |
-| 6 | [EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulat...](https://huggingface.co/papers/2607.09701) | HuggingFace Daily | 2026-07-15 |
-| 7 | [Latent-Identity Tuning in Text-to-Image Personalization Models](https://huggingface.co/papers/2607.11885) | HuggingFace Daily | 2026-07-15 |
-| 8 | [Proxy Exploration and Reusable Guidance: A Modular LLM Post-Trainin...](https://huggingface.co/papers/2607.11505) | HuggingFace Daily | 2026-07-15 |
-| 9 | [CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Se...](https://huggingface.co/papers/2607.09362) | HuggingFace Daily | 2026-07-15 |
-| 10 | [Metacognition in LLMs: Foundations, Progress, and Opportunities](https://huggingface.co/papers/2607.11881) | HuggingFace Daily | 2026-07-15 |
+| 1 | [On Locality and Length Generalization in Visual Reasoning](https://huggingface.co/papers/2607.09061) | HuggingFace Daily | 2026-07-18 |
+| 2 | [Rethinking the Evaluation of Harness Evolution for Agents](https://huggingface.co/papers/2607.12227) | HuggingFace Daily | 2026-07-18 |
+| 3 | [Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generati...](https://huggingface.co/papers/2607.14387) | HuggingFace Daily | 2026-07-18 |
+| 4 | [Hierarchical Denoising For Multi-Step Visual Reasoning](https://huggingface.co/papers/2607.15278) | HuggingFace Daily | 2026-07-18 |
+| 5 | [RxBrain: Embodied Cognition Foundation Model with Joint Language-Vi...](https://huggingface.co/papers/2607.14187) | HuggingFace Daily | 2026-07-18 |
+| 6 | [Token Time Continuous Diffusion for Language Modeling](https://huggingface.co/papers/2607.14106) | HuggingFace Daily | 2026-07-18 |
+| 7 | [SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment](https://huggingface.co/papers/2607.15058) | HuggingFace Daily | 2026-07-18 |
+| 8 | [AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Seque...](https://huggingface.co/papers/2607.10995) | HuggingFace Daily | 2026-07-18 |
+| 9 | [LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget](https://huggingface.co/papers/2607.14952) | HuggingFace Daily | 2026-07-18 |
+| 10 | [VIABench: A Comprehensive Video Benchmark Collected from Blind Indi...](https://huggingface.co/papers/2607.14660) | HuggingFace Daily | 2026-07-18 |
 | 11 | [Tools vs. Subagents: Building Effective AI Agents Without Over-Engi...](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) | Machine Learning Mastery | 2026-07-07 |
 | 12 | [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) | Machine Learning Mastery | 2026-07-06 |
 | 13 | [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-07-02 |
@@ -46,6 +46,7 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-07-18](/news/2026-07-18)
 - [📰 2026-07-15](/news/2026-07-15)
 - [📰 2026-07-13](/news/2026-07-13)
 - [📰 2026-07-12](/news/2026-07-12)
