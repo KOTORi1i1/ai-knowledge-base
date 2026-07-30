@@ -1,89 +1,95 @@
 {
-  "date": "2026-07-28",
-  "generated": "2026-07-28T01:58:03.633Z",
+  "date": "2026-07-30",
+  "generated": "2026-07-30T01:51:42.716Z",
   "headline": {
-    "title": "Interactive Training 2: Auditable Control Plane for Live Model Training",
-    "summary": "Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific co",
+    "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+    "summary": "Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2607.18314",
-    "source": "HuggingFace Daily",
-    "category": "论文"
+    "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+    "source": "MarkTechPost",
+    "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（12 次）",
+  "trend": "「Code」是今日热词（6 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Interactive Training 2: Auditable Control Plane for Live Model Training",
-      "summary": "Experiment trackers show how training is progressing, but changing a live run still usually requires trainer-specific co",
-      "stars": 4.5,
+      "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "summary": "Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5",
+      "stars": 4.7,
       "starsText": "★★★★★",
-      "category": "论文",
-      "categoryId": "paper",
-      "link": "https://huggingface.co/papers/2607.18314",
-      "source": "HuggingFace Daily",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+      "source": "MarkTechPost",
       "date": "2026-07-28"
     },
     {
       "rank": 2,
-      "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-      "summary": "In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill",
-      "stars": 4,
+      "title": "Parallel Decoding Distillation for Fast Image and Video Generation",
+      "summary": "Generation in video diffusion or flow models is computationally expensive due to the slow and iterative sampling process",
+      "stars": 4.1,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-      "source": "MarkTechPost",
-      "date": "2026-07-27"
+      "link": "https://huggingface.co/papers/2607.26004",
+      "source": "HuggingFace Daily",
+      "date": "2026-07-30"
     },
     {
       "rank": 3,
-      "title": "Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Image, Video, Audio and Robot Action Prediction",
-      "summary": "Black Forest Labs (BFL) has released FLUX 3, a multimodal foundation model that learns from images, videos and audio ins",
+      "title": "Reinforcement Learning for Code Optimization",
+      "summary": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and rew",
       "stars": 4,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/",
-      "source": "MarkTechPost",
-      "date": "2026-07-26"
+      "category": "教程",
+      "categoryId": "tutorial",
+      "link": "https://huggingface.co/papers/2607.25970",
+      "source": "HuggingFace Daily",
+      "date": "2026-07-30"
     }
   ],
   "categories": {
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 2,
-      "top": "Interactive Training 2: Auditable Control Plane for Live Mod"
-    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 9,
-      "top": "Designing Skill-Driven Financial Analysis Agents with Claude"
+      "count": 4,
+      "top": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Paramet"
     },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 6,
-      "top": "StateAct: Program State, before Pixels, for Long-Horizon Com"
-    },
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 5,
-      "top": "ID-V2V: Identity-Preserving Video Restylization"
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 2,
+      "top": "Reinforcement Learning for Code Optimization"
     },
     "other": {
       "name": "other",
       "icon": "📋",
-      "count": 1,
-      "top": "Multimodal Speaker Verification as a Threat to Speaker Anony"
+      "count": 5,
+      "top": "Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-35"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 4,
+      "top": "Explicit Layer Modeling for Video Object Insertion and Layer"
+    },
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
+      "count": 3,
+      "top": "Human-in-the-Loop Signature Bootstrapping for UAV Hyperspect"
+    },
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 3,
+      "top": "Agent Retrieval Bench: Evaluating Repository Context Retriev"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Interactive Training 2: Auditable Contro」",
+  "oneLiner": "今天的主题是 other + 🔥 模型，头条是「Microsoft AI Releases MAI-Cyber-1-Flash:」",
   "stats": {
-    "total": 23,
-    "avgRating": 3.8,
-    "topRated": 3
+    "total": 21,
+    "avgRating": 3.9,
+    "topRated": 7
   }
 }

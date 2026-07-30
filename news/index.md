@@ -7,40 +7,40 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-07-28
+## 📅 最近更新: 2026-07-30
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [StateAct: Program State, before Pixels, for Long-Horizon Computer-U...](https://huggingface.co/papers/2607.22798) | HuggingFace Daily | 2026-07-28 |
-| 2 | [ID-V2V: Identity-Preserving Video Restylization](https://huggingface.co/papers/2607.22830) | HuggingFace Daily | 2026-07-28 |
-| 3 | [Interactive Training 2: Auditable Control Plane for Live Model Trai...](https://huggingface.co/papers/2607.18314) | HuggingFace Daily | 2026-07-28 |
-| 4 | [O-VAD: Industrial Video Anomaly Detection through Object-Centric Tr...](https://huggingface.co/papers/2607.18142) | HuggingFace Daily | 2026-07-28 |
-| 5 | [Multimodal Speaker Verification as a Threat to Speaker Anonymization](https://huggingface.co/papers/2607.19636) | HuggingFace Daily | 2026-07-28 |
-| 6 | [Spectral Prior for Reducing Exposure Bias in Diffusion Models](https://huggingface.co/papers/2607.22091) | HuggingFace Daily | 2026-07-28 |
-| 7 | [Three-Body Scattering for Generative Modeling](https://huggingface.co/papers/2607.18198) | HuggingFace Daily | 2026-07-28 |
-| 8 | [DataPrep-Bench: Benchmarking LLMs as Training Data Preparators](https://huggingface.co/papers/2607.20465) | HuggingFace Daily | 2026-07-28 |
-| 9 | [Multi-Head Latent Control: A Unified Interface for LLM Agent Decisi...](https://huggingface.co/papers/2607.14277) | HuggingFace Daily | 2026-07-28 |
-| 10 | [Agentic Context Management: Solving Agent Memory and Cost by Treati...](https://huggingface.co/papers/2607.21503) | HuggingFace Daily | 2026-07-28 |
-| 11 | [Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distr...](https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/) | MarkTechPost | 2026-07-27 |
-| 12 | [Designing Skill-Driven Financial Analysis Agents with Claude, Pytho...](https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/) | MarkTechPost | 2026-07-27 |
-| 13 | [Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search ...](https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/) | MarkTechPost | 2026-07-27 |
-| 14 | [Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Imag...](https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/) | MarkTechPost | 2026-07-26 |
-| 15 | [KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Train...](https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/) | MarkTechPost | 2026-07-26 |
-| 16 | [Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Mod...](https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/) | MarkTechPost | 2026-07-26 |
-| 17 | [FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecul...](https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/) | MarkTechPost | 2026-07-26 |
-| 18 | [Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86....](https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/) | MarkTechPost | 2026-07-26 |
-| 19 | [Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World M...](https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/) | MarkTechPost | 2026-07-25 |
-| 20 | [Designing High-Performance GPU Kernels with TileLang: Tensor-Core G...](https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/) | MarkTechPost | 2026-07-25 |
-| 21 | [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) | Machine Learning Mastery | 2026-07-15 |
-| 22 | [LLM Evaluation Frameworks Compared: How to Actually Measure What Yo...](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) | Machine Learning Mastery | 2026-07-14 |
-| 23 | [Building AI Agents? Here Are Some Anti-Patterns to Avoid.](https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/) | Machine Learning Mastery | 2026-07-13 |
-| 24 | [Choosing the Right AI Agent Memory Strategy: A Decision-Tree Approach](https://machinelearningmastery.com/choosing-the-right-ai-agent-memory-strategy-a-decision-tree-approach/) | Machine Learning Mastery | 2026-07-10 |
-| 25 | [LLM Orchestration Frameworks Compared: LangChain vs. LlamaIndex vs....](https://machinelearningmastery.com/llm-orchestration-frameworks-compared-langchain-vs-llamaindex-vs-raw-api-calls/) | Machine Learning Mastery | 2026-07-09 |
-| 26 | [Tools vs. Subagents: Building Effective AI Agents Without Over-Engi...](https://machinelearningmastery.com/tools-vs-subagents-building-effective-ai-agents-without-over-engineering/) | Machine Learning Mastery | 2026-07-07 |
-| 27 | [The Complete Guide to Tool Selection in AI Agents](https://machinelearningmastery.com/the-complete-guide-to-tool-selection-in-ai-agents/) | Machine Learning Mastery | 2026-07-06 |
-| 28 | [Context vs. Memory Engineering in Agentic AI Systems](https://machinelearningmastery.com/context-vs-memory-engineering-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-07-02 |
-| 29 | [Context Window Management for Long-Running Agents: Strategies and T...](https://machinelearningmastery.com/context-window-management-for-long-running-agents-strategies-and-tradeoffs/) | Machine Learning Mastery | 2026-06-30 |
-| 30 | [Model Context Protocol Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/) | Machine Learning Mastery | 2026-06-29 |
+| 1 | [Explicit Layer Modeling for Video Object Insertion and Layer Decomp...](https://huggingface.co/papers/2607.25802) | HuggingFace Daily | 2026-07-30 |
+| 2 | [Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM...](https://huggingface.co/papers/2607.25310) | HuggingFace Daily | 2026-07-30 |
+| 3 | [How Fast Can Reward Models Score? A Systems Study of C++ and PyTorc...](https://huggingface.co/papers/2607.19712) | HuggingFace Daily | 2026-07-30 |
+| 4 | [Uncovering Latent Reasoning Strategies in Language Models](https://huggingface.co/papers/2607.17674) | HuggingFace Daily | 2026-07-30 |
+| 5 | [Reinforcement Learning for Code Optimization](https://huggingface.co/papers/2607.25970) | HuggingFace Daily | 2026-07-30 |
+| 6 | [OPERA: Offline Policy-guided Expert Routing and Adaptation for Univ...](https://huggingface.co/papers/2607.25108) | HuggingFace Daily | 2026-07-30 |
+| 7 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for ...](https://huggingface.co/papers/2607.24882) | HuggingFace Daily | 2026-07-30 |
+| 8 | [Projection Pursuit CPCANet for Domain Generalization](https://huggingface.co/papers/2607.22117) | HuggingFace Daily | 2026-07-30 |
+| 9 | [Edge-Aware Thermal Infrared UAV Swarm Tracking](https://huggingface.co/papers/2607.12544) | HuggingFace Daily | 2026-07-30 |
+| 10 | [GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatom...](https://huggingface.co/papers/2607.22135) | HuggingFace Daily | 2026-07-30 |
+| 11 | [Prompt Engineering vs Loop Engineering vs Graph Engineering: What C...](https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/) | MarkTechPost | 2026-07-29 |
+| 12 | [Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bid...](https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/) | MarkTechPost | 2026-07-29 |
+| 13 | [Building Non-Interactive Agentic Coding Workflows with Moonshot AI’...](https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/) | MarkTechPost | 2026-07-28 |
+| 14 | [Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-C...](https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/) | MarkTechPost | 2026-07-28 |
+| 15 | [Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cybe...](https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/) | MarkTechPost | 2026-07-28 |
+| 16 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenA...](https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/) | MarkTechPost | 2026-07-28 |
+| 17 | [Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distr...](https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/) | MarkTechPost | 2026-07-27 |
+| 18 | [Designing Skill-Driven Financial Analysis Agents with Claude, Pytho...](https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/) | MarkTechPost | 2026-07-27 |
+| 19 | [Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search ...](https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/) | MarkTechPost | 2026-07-27 |
+| 20 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
+| 21 | [Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Imag...](https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/) | MarkTechPost | 2026-07-26 |
+| 22 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
+| 23 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
+| 24 | [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) | Machine Learning Mastery | 2026-07-21 |
+| 25 | [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) | Machine Learning Mastery | 2026-07-20 |
+| 26 | [Agentic AI Security: Defending Against Prompt Injection and Tool Mi...](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) | Machine Learning Mastery | 2026-07-17 |
+| 27 | [Run a Local AI Model with Ollama in 15 Minutes](https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/) | Machine Learning Mastery | 2026-07-16 |
+| 28 | [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) | Machine Learning Mastery | 2026-07-15 |
+| 29 | [LLM Evaluation Frameworks Compared: How to Actually Measure What Yo...](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) | Machine Learning Mastery | 2026-07-14 |
+| 30 | [Building AI Agents? Here Are Some Anti-Patterns to Avoid.](https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/) | Machine Learning Mastery | 2026-07-13 |
 | 31 | [Which Agent Causes Task Failures and When?Researchers from PSU and ...](https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/) | SyncedReview | 2025-08-14 |
 | 32 | [ByteDance Introduces Astra: A Dual-Model Architecture for Autonomou...](https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/) | SyncedReview | 2025-06-24 |
 | 33 | [MIT Researchers Unveil &#8220;SEAL&#8221;: A New Step Towards Self-...](https://syncedreview.com/2025/06/16/mit-researchers-unveil-seal-a-new-step-towards-self-improving-ai/) | SyncedReview | 2025-06-16 |
@@ -56,11 +56,19 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-07-30](/news/2026-07-30)
+- [📰 2026-07-29](/news/2026-07-29)
 - [📰 2026-07-28](/news/2026-07-28)
 - [📰 2026-07-27](/news/2026-07-27)
 - [📰 2026-07-26](/news/2026-07-26)
 - [📰 2026-07-25](/news/2026-07-25)
+- [📰 2026-07-24](/news/2026-07-24)
+- [📰 2026-07-23](/news/2026-07-23)
+- [📰 2026-07-21](/news/2026-07-21)
+- [📰 2026-07-20](/news/2026-07-20)
 - [📰 2026-07-18](/news/2026-07-18)
+- [📰 2026-07-17](/news/2026-07-17)
+- [📰 2026-07-16](/news/2026-07-16)
 - [📰 2026-07-15](/news/2026-07-15)
 - [📰 2026-07-14](/news/2026-07-14)
 - [📰 2026-07-13](/news/2026-07-13)
@@ -78,11 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-06-25](/news/2026-06-25)
 - [📰 2026-06-24](/news/2026-06-24)
 - [📰 2026-06-23](/news/2026-06-23)
-- [📰 2026-06-22](/news/2026-06-22)
-- [📰 2025-08-14](/news/2025-08-14)
-- [📰 2025-06-24](/news/2025-06-24)
-- [📰 2025-06-16](/news/2025-06-16)
-- [📰 2025-05-28](/news/2025-05-28)
-- [📰 2025-05-15](/news/2025-05-15)
-- [📰 2025-04-30](/news/2025-04-30)
-- [📰 2025-04-24](/news/2025-04-24)
