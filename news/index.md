@@ -7,31 +7,31 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-07-30
+## 📅 最近更新: 2026-08-04
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Explicit Layer Modeling for Video Object Insertion and Layer Decomp...](https://huggingface.co/papers/2607.25802) | HuggingFace Daily | 2026-07-30 |
-| 2 | [Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM...](https://huggingface.co/papers/2607.25310) | HuggingFace Daily | 2026-07-30 |
-| 3 | [How Fast Can Reward Models Score? A Systems Study of C++ and PyTorc...](https://huggingface.co/papers/2607.19712) | HuggingFace Daily | 2026-07-30 |
-| 4 | [Uncovering Latent Reasoning Strategies in Language Models](https://huggingface.co/papers/2607.17674) | HuggingFace Daily | 2026-07-30 |
-| 5 | [Reinforcement Learning for Code Optimization](https://huggingface.co/papers/2607.25970) | HuggingFace Daily | 2026-07-30 |
-| 6 | [OPERA: Offline Policy-guided Expert Routing and Adaptation for Univ...](https://huggingface.co/papers/2607.25108) | HuggingFace Daily | 2026-07-30 |
-| 7 | [Agent Retrieval Bench: Evaluating Repository Context Retrieval for ...](https://huggingface.co/papers/2607.24882) | HuggingFace Daily | 2026-07-30 |
-| 8 | [Projection Pursuit CPCANet for Domain Generalization](https://huggingface.co/papers/2607.22117) | HuggingFace Daily | 2026-07-30 |
-| 9 | [Edge-Aware Thermal Infrared UAV Swarm Tracking](https://huggingface.co/papers/2607.12544) | HuggingFace Daily | 2026-07-30 |
-| 10 | [GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatom...](https://huggingface.co/papers/2607.22135) | HuggingFace Daily | 2026-07-30 |
-| 11 | [Prompt Engineering vs Loop Engineering vs Graph Engineering: What C...](https://www.marktechpost.com/2026/07/29/prompt-engineering-vs-loop-engineering-vs-graph-engineering-what-changes-at-each-layer/) | MarkTechPost | 2026-07-29 |
-| 12 | [Liquid AI Releases LFM2.5-Encoder-230M and LFM2.5-Encoder-350M: Bid...](https://www.marktechpost.com/2026/07/29/liquid-ai-releases-lfm2-5-encoder-230m-and-lfm2-5-encoder-350m-bidirectional-encoders-that-stay-fast-at-8k-context-on-cpu/) | MarkTechPost | 2026-07-29 |
-| 13 | [Building Non-Interactive Agentic Coding Workflows with Moonshot AI’...](https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/) | MarkTechPost | 2026-07-28 |
-| 14 | [Fireworks AI Releases Fireworks Nexus: A Drop-In Routing and Cost-C...](https://www.marktechpost.com/2026/07/28/fireworks-ai-releases-fireworks-nexus-a-drop-in-routing-and-cost-control-layer-that-moves-routine-coding-work-to-open-weight-models/) | MarkTechPost | 2026-07-28 |
-| 15 | [Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cybe...](https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/) | MarkTechPost | 2026-07-28 |
-| 16 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp and OpenA...](https://www.marktechpost.com/2026/07/28/deploying-a-1-bit-bonsai-27b-model-with-prismml-llama-cpp-and-openai-compatible-local-inference-workflows/) | MarkTechPost | 2026-07-28 |
-| 17 | [Kimi AI and kvcache-ai Open Sources &#8216;AgentENV&#8217;: A Distr...](https://www.marktechpost.com/2026/07/27/kimi-ai-and-kvcache-ai-open-sources-agentenv/) | MarkTechPost | 2026-07-27 |
-| 18 | [Designing Skill-Driven Financial Analysis Agents with Claude, Pytho...](https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/) | MarkTechPost | 2026-07-27 |
-| 19 | [Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search ...](https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/) | MarkTechPost | 2026-07-27 |
-| 20 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
-| 21 | [Black Forest Labs Releases FLUX 3: A Multimodal Flow Model for Imag...](https://www.marktechpost.com/2026/07/26/black-forest-labs-releases-flux-3-a-multimodal-flow-model-for-image-video-audio-and-robot-action-prediction/) | MarkTechPost | 2026-07-26 |
+| 1 | [Weak-to-Strong On-Policy Distillation](https://huggingface.co/papers/2607.26246) | HuggingFace Daily | 2026-08-04 |
+| 2 | [Constitutional Midtraining: Content Presence Drives Alignment Gains](https://huggingface.co/papers/2607.26654) | HuggingFace Daily | 2026-08-04 |
+| 3 | [EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents](https://huggingface.co/papers/2607.28229) | HuggingFace Daily | 2026-08-04 |
+| 4 | [Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as ...](https://huggingface.co/papers/2607.27851) | HuggingFace Daily | 2026-08-04 |
+| 5 | [SAF-OPD: Stable Advantage Fusion for On-Policy Distillation](https://huggingface.co/papers/2607.29209) | HuggingFace Daily | 2026-08-04 |
+| 6 | [RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time ...](https://huggingface.co/papers/2607.26991) | HuggingFace Daily | 2026-08-04 |
+| 7 | [Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Cre...](https://huggingface.co/papers/2607.27888) | HuggingFace Daily | 2026-08-04 |
+| 8 | [SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Ve...](https://huggingface.co/papers/2607.25388) | HuggingFace Daily | 2026-08-04 |
+| 9 | [In the Driver's Seat: A Multi-Company Study on the Reality of Auton...](https://huggingface.co/papers/2607.15820) | HuggingFace Daily | 2026-08-04 |
+| 10 | [Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark](https://huggingface.co/papers/2607.29684) | HuggingFace Daily | 2026-08-04 |
+| 11 | [Evaluating Multimodal Vision Models with Moonshot PerceptionBench U...](https://www.marktechpost.com/2026/08/03/evaluating-multimodal-vision-models-with-moonshot-perceptionbench-using-robust-data-loading-and-automated-judging/) | MarkTechPost | 2026-08-03 |
+| 12 | [How to Secure AI Agents, MCP Servers, and LLM Apps in Production](https://www.marktechpost.com/2026/08/03/how-to-secure-ai-agents-mcp-servers-and-llm-apps-in-production/) | MarkTechPost | 2026-08-03 |
+| 13 | [Alibaba Qwen Releases Qwen3.8-Max: A 2.4 Trillion Parameter MoE Mod...](https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/) | MarkTechPost | 2026-08-03 |
+| 14 | [Cogent AI Team Releases VR-1: A Frontier Cyber Reasoning Model That...](https://www.marktechpost.com/2026/08/03/ogent-ai-team-releases-vr-1/) | MarkTechPost | 2026-08-03 |
+| 15 | [Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7...](https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/) | MarkTechPost | 2026-08-03 |
+| 16 | [A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Image...](https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/) | MarkTechPost | 2026-08-02 |
+| 17 | [Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Act...](https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/) | MarkTechPost | 2026-08-02 |
+| 18 | [NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Lea...](https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/) | MarkTechPost | 2026-08-02 |
+| 19 | [End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, A...](https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/) | MarkTechPost | 2026-08-02 |
+| 20 | [AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts ...](https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/) | MarkTechPost | 2026-08-01 |
+| 21 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
 | 22 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
 | 23 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
 | 24 | [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) | Machine Learning Mastery | 2026-07-21 |
@@ -56,6 +56,10 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-04](/news/2026-08-04)
+- [📰 2026-08-03](/news/2026-08-03)
+- [📰 2026-08-02](/news/2026-08-02)
+- [📰 2026-08-01](/news/2026-08-01)
 - [📰 2026-07-30](/news/2026-07-30)
 - [📰 2026-07-29](/news/2026-07-29)
 - [📰 2026-07-28](/news/2026-07-28)
@@ -82,7 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-02](/news/2026-07-02)
 - [📰 2026-06-30](/news/2026-06-30)
 - [📰 2026-06-29](/news/2026-06-29)
-- [📰 2026-06-26](/news/2026-06-26)
-- [📰 2026-06-25](/news/2026-06-25)
-- [📰 2026-06-24](/news/2026-06-24)
-- [📰 2026-06-23](/news/2026-06-23)
