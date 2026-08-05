@@ -11,11 +11,11 @@ layout: page
 <div class="stats-grid">
 <div class="stat-card"><div class="stat-num">30</div><div class="stat-label">今日论文</div></div>
 <div class="stat-card highlight"><div class="stat-num">0</div><div class="stat-label">高质量(≥A级)</div></div>
-<div class="stat-card"><div class="stat-num">63</div><div class="stat-label">大语言模型</div></div>
-<div class="stat-card"><div class="stat-num">50</div><div class="stat-label">自然语言处理</div></div>
-<div class="stat-card"><div class="stat-num">41</div><div class="stat-label">强化学习</div></div>
-<div class="stat-card"><div class="stat-num">32</div><div class="stat-label">图神经网络</div></div>
-<div class="stat-card"><div class="stat-num">30</div><div class="stat-label">计算机视觉</div></div>
+<div class="stat-card"><div class="stat-num">52</div><div class="stat-label">大语言模型</div></div>
+<div class="stat-card"><div class="stat-num">49</div><div class="stat-label">强化学习</div></div>
+<div class="stat-card"><div class="stat-num">45</div><div class="stat-label">自然语言处理</div></div>
+<div class="stat-card"><div class="stat-num">35</div><div class="stat-label">计算机视觉</div></div>
+<div class="stat-card"><div class="stat-num">26</div><div class="stat-label">图神经网络</div></div>
 </div>
 
 ## 🏷️ 按领域浏览
@@ -24,25 +24,25 @@ layout: page
 <a href="/ai-knowledge-base/papers/tags/llm" class="category-card">
 <div class="category-icon">🧠</div>
 <div class="category-title">大语言模型</div>
-<div class="category-desc">今日 63 篇</div>
+<div class="category-desc">今日 52 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/cv" class="category-card">
 <div class="category-icon">👁️</div>
 <div class="category-title">计算机视觉</div>
-<div class="category-desc">今日 30 篇</div>
+<div class="category-desc">今日 35 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/nlp" class="category-card">
 <div class="category-icon">📝</div>
 <div class="category-title">自然语言处理</div>
-<div class="category-desc">今日 50 篇</div>
+<div class="category-desc">今日 45 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/rl" class="category-card">
 <div class="category-icon">🎮</div>
 <div class="category-title">强化学习</div>
-<div class="category-desc">今日 41 篇</div>
+<div class="category-desc">今日 49 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/multimodal" class="category-card">
@@ -54,71 +54,72 @@ layout: page
 <a href="/ai-knowledge-base/papers/tags/gnn" class="category-card">
 <div class="category-icon">🕸️</div>
 <div class="category-title">图神经网络</div>
-<div class="category-desc">今日 32 篇</div>
+<div class="category-desc">今日 26 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/efficient" class="category-card">
 <div class="category-icon">⚡</div>
 <div class="category-title">高效模型</div>
-<div class="category-desc">今日 26 篇</div>
+<div class="category-desc">今日 23 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/safety" class="category-card">
 <div class="category-icon">🛡️</div>
 <div class="category-title">AI安全与对齐</div>
-<div class="category-desc">今日 27 篇</div>
+<div class="category-desc">今日 24 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/generative" class="category-card">
 <div class="category-icon">🎨</div>
 <div class="category-title">生成式AI</div>
-<div class="category-desc">今日 15 篇</div>
+<div class="category-desc">今日 17 篇</div>
 <div class="category-count">浏览 →</div>
 </a>
 </div>
 
 ## 📋 今日精选
 
-> 最近更新: **2026-08-04** · 30 篇
+> 最近更新: **2026-08-05** · 30 篇
 
 | # | 领域 | 论文 | 作者 | 评分 |
 |---|------|------|------|------|
-| 1 | 🧠 大语言模型 | [Gaokerena: A Small Persian Medical Language Model Fa...](https://arxiv.org/abs/2608.00932) | Mehrdad Ghassabi et al. | ⭐⭐⭐ |
-| 2 | 🎮 强化学习 | [Credit the Right Box: Marginal Contribution Assignme...](https://arxiv.org/abs/2608.01055) | Xinheng Han et al. | ⭐⭐⭐ |
-| 3 | ⚡ 高效模型 | [WAM-Diff2: Hierarchical AR-to-Diffusion Distillation...](https://arxiv.org/abs/2608.01035) | Zhihao Zhu et al. | ⭐⭐⭐ |
-| 4 | 👁️ 计算机视觉 | [Struct-GStream: Towards Efficient Free-Viewpoint Vid...](https://arxiv.org/abs/2608.01053) | Han Jiao et al. | ⭐⭐⭐ |
-| 5 | 🎮 强化学习 | [Using Lower-Bound Representations for Trajectory Sim...](https://arxiv.org/abs/2608.01039) | Liwei Deng et al. | ⭐⭐⭐ |
-| 6 | 🛡️ AI安全与对齐 | [xMICD: Explainable Representation of Multiple ICD Codes](https://arxiv.org/abs/2608.00935) | Pat Vatiwutipong et al. | ⭐⭐⭐ |
-| 7 | 👁️ 计算机视觉 | [One Query, Many Scales: Sparse Mixture-of-Experts fo...](https://arxiv.org/abs/2608.01060) | Ruijie Fan et al. | ⭐⭐⭐ |
-| 8 | 👁️ 计算机视觉 | [Beyond Gene Reconstruction: Learning Cell Representa...](https://arxiv.org/abs/2608.00985) | Jiaqi Xiong et al. | ⭐⭐⭐ |
-| 9 | 👁️ 计算机视觉 | [Extended KAFR: A kinematic-adaptive paradigm for the...](https://arxiv.org/abs/2608.01058) | Huu Phong Nguyen et al. | ⭐⭐ |
-| 10 | ⚡ 高效模型 | [Stress-Relief Annealing: Polynomial-Time Simulation-...](https://arxiv.org/abs/2608.01024) | Xiangjie Luo et al. | ⭐⭐ |
-| 11 | 🧠 大语言模型 | [MedUPS: Towards Diagnostic Assistance in Uncommon Me...](https://arxiv.org/abs/2608.01012) | Ofir Ben Shoham et al. | ⭐⭐ |
-| 12 | 🔗 多模态 | [Entity-Faithful Repair of Synthetic Supervision for ...](https://arxiv.org/abs/2608.00994) | Zhiyue Liu et al. | ⭐⭐ |
-| 13 | 🧠 大语言模型 | [MonitorVLM-v2: A Deployed Vision-Language Framework ...](https://arxiv.org/abs/2608.00975) | Jiang Wu et al. | ⭐⭐ |
-| 14 | 🕸️ 图神经网络 | [Interpretable machine learning for predicting splitt...](https://arxiv.org/abs/2608.00956) | Jianglei Xing et al. | ⭐⭐ |
-| 15 | 🧠 大语言模型 | [FinHardBench: Can LLMs Generate Latency-Aware Hardwa...](https://arxiv.org/abs/2608.00909) | Weimin Fu et al. | ⭐⭐ |
-| 16 | 🧠 大语言模型 | [Toward Fine-Grained Forgetting:Attribute Unlearning ...](https://arxiv.org/abs/2608.01008) | Junkai Lin et al. | ⭐⭐ |
-| 17 | 🎮 强化学习 | [Search-GRT: Guided Retrieval Training of Search Agen...](https://arxiv.org/abs/2608.00974) | Aounon Kumar et al. | ⭐⭐ |
-| 18 | 🧠 大语言模型 | [TrajWiki: Source-Grounded Memory Trajectories for Lo...](https://arxiv.org/abs/2608.00967) | Jingyu Sun et al. | ⭐⭐ |
-| 19 | 👁️ 计算机视觉 | [Look Up and Look Back: Hidden Attention and Latent O...](https://arxiv.org/abs/2608.00925) | Zhuang Xiong et al. | ⭐⭐ |
-| 20 | 🎮 强化学习 | [Logit-Origin Centering for Singleton Test-Time Adapt...](https://arxiv.org/abs/2608.01074) | Mayank Sharma et al. | ⭐⭐ |
-| 21 | 🎮 强化学习 | [FactorJEPA: Factorizing Monolithic Futures into Layo...](https://arxiv.org/abs/2608.01049) | Kapil Wanaskar et al. | ⭐⭐ |
-| 22 | 🧠 大语言模型 | [Practical Online KV Cache Compaction for LLM Agents:...](https://arxiv.org/abs/2608.00902) | Yujian Liu et al. | ⭐⭐ |
-| 23 | 🧠 大语言模型 | [DeBERTa-Sentinel: Toward Transparent and Trustworthy...](https://arxiv.org/abs/2608.01046) | Muhammad Yousaf Rehman et al. | ⭐⭐ |
-| 24 | 🎮 强化学习 | [Neuro-Evolved Heuristics for Variable Gapped Common ...](https://arxiv.org/abs/2608.00888) | Marko Djukanović et al. | ⭐⭐ |
-| 25 | 🕸️ 图神经网络 | [KING: Embodiment-Aware Kinematic Graph Neural Networ...](https://arxiv.org/abs/2608.01015) | Taku Okawara et al. | ⭐⭐ |
-| 26 | 🎮 强化学习 | [PROGRESS: Coverage-guided RL to Train Search-augment...](https://arxiv.org/abs/2608.00969) | Sudipta Paul et al. | ⭐⭐ |
-| 27 | 🧠 大语言模型 | [CADIR: A Cross-Backend Editable Intermediate Represe...](https://arxiv.org/abs/2608.00891) | Yu Liu et al. | ⭐⭐ |
-| 28 | ⚡ 高效模型 | [Caliber: Cross-Architecture Extraction-Cost Control ...](https://arxiv.org/abs/2608.01023) | Chi Wang et al. | ⭐⭐ |
-| 29 | 🛡️ AI安全与对齐 | [Understanding and Overcoming Cross-modal Fusion Bias...](https://arxiv.org/abs/2608.00986) | Kaifang Long et al. | ⭐⭐ |
-| 30 | 👁️ 计算机视觉 | [Location-Aware Fine-Grained Representation Learning ...](https://arxiv.org/abs/2608.00976) | Myeongkyun Kang et al. | ⭐⭐ |
+| 1 | 🧠 大语言模型 | [SlimVLM: Sensitivity-aware Dynamic Structured Prunin...](https://arxiv.org/abs/2608.03580) | Yaozhi Wen et al. | ⭐⭐⭐ |
+| 2 | 🎨 生成式AI | [MDLMPE: Distribution Aware Positional Encoding for M...](https://arxiv.org/abs/2608.03769) | Tong Ling et al. | ⭐⭐⭐ |
+| 3 | 👁️ 计算机视觉 | [Towards Reliable and Reproducible Fetal Brain Biomet...](https://arxiv.org/abs/2608.03724) | Francesca Maccarone et al. | ⭐⭐⭐ |
+| 4 | 🛡️ AI安全与对齐 | [Keep the Needle, Prune the Haystack: Defect-Preservi...](https://arxiv.org/abs/2608.03681) | Yanning Hou et al. | ⭐⭐⭐ |
+| 5 | 👁️ 计算机视觉 | [XiDepth: a Lightweight and Efficient Network for Sel...](https://arxiv.org/abs/2608.03666) | Elena Izzo et al. | ⭐⭐⭐ |
+| 6 | 🧠 大语言模型 | [Failure-Informed Image Self-Augmentation for Multimo...](https://arxiv.org/abs/2608.03733) | Chunyang Jiang et al. | ⭐⭐⭐ |
+| 7 | 🎮 强化学习 | [FOUND-AF: Benchmarking ECG Foundation Models for Atr...](https://arxiv.org/abs/2608.03597) | Amirhossein Taleshinosrati et al. | ⭐⭐⭐ |
+| 8 | 🔗 多模态 | [TDVR: Joint Text Disambiguation and Viewpoint Reason...](https://arxiv.org/abs/2608.03763) | Qingxi Du et al. | ⭐⭐⭐ |
+| 9 | 👁️ 计算机视觉 | [MultiCompose: Multi-Concept Personalized Composition...](https://arxiv.org/abs/2608.03708) | Ruirui Zhang et al. | ⭐⭐⭐ |
+| 10 | 🧠 大语言模型 | [DiagChain: A Diagnostic Benchmark for Evaluating LLM...](https://arxiv.org/abs/2608.03591) | Xuyang Liu et al. | ⭐⭐⭐ |
+| 11 | ⚡ 高效模型 | [PhyAI: Real-Time Physical AI at the Edge, Scalable R...](https://arxiv.org/abs/2608.03682) | Chenghua Wang et al. | ⭐⭐ |
+| 12 | 🎮 强化学习 | [Group Perspective Matters: Regulating Debate Relatio...](https://arxiv.org/abs/2608.03648) | Hao Wu et al. | ⭐⭐ |
+| 13 | 🧠 大语言模型 | [When Teachers Mislead: Spurious-Signal-Aware On-Poli...](https://arxiv.org/abs/2608.03632) | Yinuo Jiang et al. | ⭐⭐ |
+| 14 | ⚡ 高效模型 | [FraQ: Efficient Coordinate-Space Recompression for F...](https://arxiv.org/abs/2608.03605) | Shenghui Li et al. | ⭐⭐ |
+| 15 | 🕸️ 图神经网络 | [Learning and Clustering on Temporal Graphs: Principl...](https://arxiv.org/abs/2608.03696) | Nelson Aloysio Reis de Almeida Passos et al. | ⭐⭐ |
+| 16 | 🎮 强化学习 | [SITA: Semantic Interest Tokens for Target-Aware Comp...](https://arxiv.org/abs/2608.03692) | Rui Zhou et al. | ⭐⭐ |
+| 17 | 📝 自然语言处理 | [Language-Specialized Multi-Teacher On-Policy Distill...](https://arxiv.org/abs/2608.03610) | Yuan Xie et al. | ⭐⭐ |
+| 18 | 🔗 多模态 | [LiLa-WAM: Lightweight Latent Reasoning World-Action ...](https://arxiv.org/abs/2608.03701) | Fan Yang et al. | ⭐⭐ |
+| 19 | 👁️ 计算机视觉 | [Morphology-Aware Implicit Super-Resolution Network f...](https://arxiv.org/abs/2608.03664) | Jiaming Liang et al. | ⭐⭐ |
+| 20 | 🧠 大语言模型 | [MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble](https://arxiv.org/abs/2608.03636) | Haoze Lv et al. | ⭐⭐ |
+| 21 | ⚡ 高效模型 | [LoopMTP: A looped transformer guided by latent multi...](https://arxiv.org/abs/2608.03624) | Behzad Shomali et al. | ⭐⭐ |
+| 22 | 🧠 大语言模型 | [Taming the Implicit: Dual-Channel Risk-Aware Reinfor...](https://arxiv.org/abs/2608.03660) | Yibei Liu et al. | ⭐⭐ |
+| 23 | 🔗 多模态 | [Rethinking Modality Reliability in Multimodal Sentim...](https://arxiv.org/abs/2608.03611) | Chunlei Meng et al. | ⭐⭐ |
+| 24 | 📝 自然语言处理 | [Design-Time Optimization of Deep Neural Networks for...](https://arxiv.org/abs/2608.03589) | Jakob Schubert et al. | ⭐⭐ |
+| 25 | 📝 自然语言处理 | [GDPevo: Evaluating Agent Self-Evolution on Real Busi...](https://arxiv.org/abs/2608.03764) | Leijun Zhou et al. | ⭐⭐ |
+| 26 | 🎨 生成式AI | [Pattern over Pixels: Measuring Pattern Completion Bi...](https://arxiv.org/abs/2608.03691) | Khai-Nguyen Nguyen et al. | ⭐⭐ |
+| 27 | 🧠 大语言模型 | [AutoSND: From Execution Evidence to Structural Polic...](https://arxiv.org/abs/2608.03653) | Zhijing Hu et al. | ⭐⭐ |
+| 28 | 🛡️ AI安全与对齐 | [Unequal Verdicts: Investigating Gender Bias in LLM-B...](https://arxiv.org/abs/2608.03627) | Razieh Chalehchaleh et al. | ⭐⭐ |
+| 29 | 👁️ 计算机视觉 | [POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation ...](https://arxiv.org/abs/2608.03630) | Jiawen Zhu et al. | ⭐⭐ |
+| 30 | 🕸️ 图神经网络 | [LAEF: A Lead-Agnostic ECG Foundation Model Towards P...](https://arxiv.org/abs/2608.03690) | Edoardo Coppola et al. | ⭐⭐ |
 
 ---
 
 ## 📂 每日归档
 
 <div style="display:flex;flex-wrap:wrap;gap:8px">
+<a href="/ai-knowledge-base/papers/daily/2026-08-04" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-08-04</a>
 <a href="/ai-knowledge-base/papers/daily/2026-08-02" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-08-02</a>
 <a href="/ai-knowledge-base/papers/daily/2026-08-01" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-08-01</a>
 <a href="/ai-knowledge-base/papers/daily/2026-07-29" style="font-size:13px;padding:6px 12px;border:1px solid var(--vp-c-divider);border-radius:20px;text-decoration:none">📅 2026-07-29</a>

@@ -1,95 +1,83 @@
 {
-  "date": "2026-08-04",
-  "generated": "2026-08-04T01:55:57.795Z",
+  "date": "2026-08-05",
+  "generated": "2026-08-05T01:55:34.281Z",
   "headline": {
-    "title": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
-    "summary": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU The post Think",
+    "title": "To Add Is Machine, To Delete Is Human: Measuring and Mitigating Deletion Avoidance in LLM Code Editing",
+    "summary": "Large language models increasingly write and repair production code, yet evidence is mounting that their test-passing pa",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
-    "source": "MarkTechPost",
+    "link": "https://huggingface.co/papers/2607.28887",
+    "source": "HuggingFace Daily",
     "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（3 次）",
+  "trend": "🔥 模型方向最活跃（7 条），「Agent」是今日热词（4 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
-      "summary": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU The post Think",
-      "stars": 4.5,
-      "starsText": "★★★★★",
+      "title": "To Add Is Machine, To Delete Is Human: Measuring and Mitigating Deletion Avoidance in LLM Code Editing",
+      "summary": "Large language models increasingly write and repair production code, yet evidence is mounting that their test-passing pa",
+      "stars": 4,
+      "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
-      "source": "MarkTechPost",
-      "date": "2026-08-02"
+      "link": "https://huggingface.co/papers/2607.28887",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-05"
     },
     {
       "rank": 2,
-      "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
-      "summary": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, c",
-      "stars": 4.3,
+      "title": "Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging",
+      "summary": "On-policy distillation, in which a teacher corrects samples that the student itself generates, presupposes that the two ",
+      "stars": 3.8,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
-      "source": "MarkTechPost",
-      "date": "2026-08-03"
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://huggingface.co/papers/2608.03316",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-05"
     },
     {
       "rank": 3,
-      "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
-      "summary": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through traine",
-      "stars": 4.2,
+      "title": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis",
+      "summary": "Single-image feed-forward 3D Gaussian Splatting (3DGS) aims to directly generate a renderable 3D scene representation fr",
+      "stars": 3.8,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
-      "source": "MarkTechPost",
-      "date": "2026-08-02"
+      "category": "论文",
+      "categoryId": "paper",
+      "link": "https://huggingface.co/papers/2608.02437",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-05"
     }
   ],
   "categories": {
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 9,
-      "top": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, "
+      "count": 7,
+      "top": "To Add Is Machine, To Delete Is Human: Measuring and Mitigat"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 3,
-      "top": "Fewer Clarifications, Better Code: Benchmarking Cross-Sessio"
+      "count": 2,
+      "top": "Any-OPD: Heterogeneous On-Policy Distillation for Flow-Match"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
-      "count": 6,
-      "top": "Constitutional Midtraining: Content Presence Drives Alignmen"
+      "count": 4,
+      "top": "InfiniSplat: Implicit Gaussian Decoding for Large-Baseline M"
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
       "count": 2,
-      "top": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agen"
-    },
-    "other": {
-      "name": "other",
-      "icon": "📋",
-      "count": 2,
-      "top": "Beyond Feeling Better: Capability-Sustaining Emotional Dialo"
-    },
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 2,
-      "top": "SAF-OPD: Stable Advantage Fusion for On-Policy Distillation"
+      "top": "Compute Globally, Materialize Locally: The Memory Contract o"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「Thinking Machines Lab Releases Inkling-S」",
+  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「To Add Is Machine, To Delete Is Human: M」",
   "stats": {
-    "total": 24,
+    "total": 15,
     "avgRating": 3.8,
-    "topRated": 5
+    "topRated": 1
   }
 }
