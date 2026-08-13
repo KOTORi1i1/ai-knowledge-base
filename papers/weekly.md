@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-07-29 ~ 2026-08-05 · 从 240 篇中精选 Top 20
+> 2026-08-06 ~ 2026-08-13 · 从 80 篇中精选 Top 20
 
 ---
 
@@ -12,57 +12,57 @@ layout: page
 
 ### 🧠 大语言模型
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive...](https://arxiv.org/abs/2608.03580) — Yaozhi Wen
-- ⭐⭐⭐ [Gaokerena: A Small Persian Medical Language Model Family](https://arxiv.org/abs/2608.00932) — Mehrdad Ghassabi
+- ⭐⭐⭐ [GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Pr...](https://arxiv.org/abs/2608.12203) — Jiazheng Liu
+- ⭐⭐⭐ [Making Collaborative Signals Count: Graph-Aware Large Language Mode...](https://arxiv.org/abs/2608.12184) — Fenglin Yan
+- ⭐⭐⭐ [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of...](https://arxiv.org/abs/2608.12220) — Zile Zhou
 
 ### 👁️ 计算机视觉
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive...](https://arxiv.org/abs/2608.03580) — Yaozhi Wen
-- ⭐⭐⭐ [Step-Attention Refinement of DINOv3 Features for Efficient Anterior...](https://arxiv.org/abs/2607.27087) — Philippe Baumstimler
+- ⭐⭐⭐ [GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Pr...](https://arxiv.org/abs/2608.12203) — Jiazheng Liu
+- ⭐⭐⭐ [M-Net: Integrating Spectral Features and Physical Field Operators i...](https://arxiv.org/abs/2608.12196) — Jing Zhu
+- ⭐⭐⭐ [XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Gene...](https://arxiv.org/abs/2608.12276) — Jinxiu Liu
 
 ### 📝 自然语言处理
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [Step-Attention Refinement of DINOv3 Features for Efficient Anterior...](https://arxiv.org/abs/2607.27087) — Philippe Baumstimler
-- ⭐⭐⭐ [MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion...](https://arxiv.org/abs/2608.03769) — Tong Ling
+- ⭐⭐⭐ [GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Pr...](https://arxiv.org/abs/2608.12203) — Jiazheng Liu
+- ⭐⭐⭐ [XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Gene...](https://arxiv.org/abs/2608.12276) — Jinxiu Liu
+- ⭐⭐⭐ [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of...](https://arxiv.org/abs/2608.12220) — Zile Zhou
 
 ### 🎮 强化学习
 
-- ⭐⭐⭐ [Gaokerena: A Small Persian Medical Language Model Family](https://arxiv.org/abs/2608.00932) — Mehrdad Ghassabi
-- ⭐⭐⭐ [Towards Reliable and Reproducible Fetal Brain Biometry: A Deep Lear...](https://arxiv.org/abs/2608.03724) — Francesca Maccarone
-- ⭐⭐⭐ [Keep the Needle, Prune the Haystack: Defect-Preserving Token Prunin...](https://arxiv.org/abs/2608.03681) — Yanning Hou
+- ⭐⭐⭐ [M-Net: Integrating Spectral Features and Physical Field Operators i...](https://arxiv.org/abs/2608.12196) — Jing Zhu
+- ⭐⭐⭐ [Making Collaborative Signals Count: Graph-Aware Large Language Mode...](https://arxiv.org/abs/2608.12184) — Fenglin Yan
+- ⭐⭐⭐ [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of...](https://arxiv.org/abs/2608.12220) — Zile Zhou
 
 ### 🔗 多模态
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive...](https://arxiv.org/abs/2608.03580) — Yaozhi Wen
-- ⭐⭐⭐ [Keep the Needle, Prune the Haystack: Defect-Preserving Token Prunin...](https://arxiv.org/abs/2608.03681) — Yanning Hou
+- ⭐⭐⭐ [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of...](https://arxiv.org/abs/2608.12220) — Zile Zhou
+- ⭐⭐⭐ [Generation as Auxiliary Supervision: Enhancing Visual Understanding...](https://arxiv.org/abs/2608.12209) — Zhongbin Guo
+- ⭐⭐⭐ [Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adh...](https://arxiv.org/abs/2608.12290) — Aman Tyagi
 
 ### 🕸️ 图神经网络
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [Step-Attention Refinement of DINOv3 Features for Efficient Anterior...](https://arxiv.org/abs/2607.27087) — Philippe Baumstimler
-- ⭐⭐⭐ [WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Eff...](https://arxiv.org/abs/2608.01035) — Zhihao Zhu
+- ⭐⭐⭐ [M-Net: Integrating Spectral Features and Physical Field Operators i...](https://arxiv.org/abs/2608.12196) — Jing Zhu
+- ⭐⭐⭐ [Generation as Auxiliary Supervision: Enhancing Visual Understanding...](https://arxiv.org/abs/2608.12209) — Zhongbin Guo
+- ⭐⭐⭐ [SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyp...](https://arxiv.org/abs/2608.12129) — Yuchao Wu
 
 ### ⚡ 高效模型
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [SlimVLM: Sensitivity-aware Dynamic Structured Pruning with Adaptive...](https://arxiv.org/abs/2608.03580) — Yaozhi Wen
-- ⭐⭐⭐ [Step-Attention Refinement of DINOv3 Features for Efficient Anterior...](https://arxiv.org/abs/2607.27087) — Philippe Baumstimler
+- ⭐⭐⭐ [GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Pr...](https://arxiv.org/abs/2608.12203) — Jiazheng Liu
+- ⭐⭐⭐ [Making Collaborative Signals Count: Graph-Aware Large Language Mode...](https://arxiv.org/abs/2608.12184) — Fenglin Yan
+- ⭐⭐⭐ [XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Gene...](https://arxiv.org/abs/2608.12276) — Jinxiu Liu
 
 ### 🛡️ AI安全与对齐
 
-- ⭐⭐⭐ [SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Lea...](https://arxiv.org/abs/2607.26885) — Yunzhan Fu
-- ⭐⭐⭐ [Gaokerena: A Small Persian Medical Language Model Family](https://arxiv.org/abs/2608.00932) — Mehrdad Ghassabi
-- ⭐⭐⭐ [Step-Attention Refinement of DINOv3 Features for Efficient Anterior...](https://arxiv.org/abs/2607.27087) — Philippe Baumstimler
+- ⭐⭐⭐ [M-Net: Integrating Spectral Features and Physical Field Operators i...](https://arxiv.org/abs/2608.12196) — Jing Zhu
+- ⭐⭐⭐ [Making Collaborative Signals Count: Graph-Aware Large Language Mode...](https://arxiv.org/abs/2608.12184) — Fenglin Yan
+- ⭐⭐⭐ [SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyp...](https://arxiv.org/abs/2608.12129) — Yuchao Wu
 
 ### 🎨 生成式AI
 
-- ⭐⭐⭐ [MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion...](https://arxiv.org/abs/2608.03769) — Tong Ling
-- ⭐⭐⭐ [WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Eff...](https://arxiv.org/abs/2608.01035) — Zhihao Zhu
-- ⭐⭐⭐ [Veritas++: Value-aware On-Policy Distillation for Perception-Enhanc...](https://arxiv.org/abs/2607.27113) — Hao Tan
+- ⭐⭐⭐ [GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Pr...](https://arxiv.org/abs/2608.12203) — Jiazheng Liu
+- ⭐⭐⭐ [XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Gene...](https://arxiv.org/abs/2608.12276) — Jinxiu Liu
+- ⭐⭐⭐ [SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of...](https://arxiv.org/abs/2608.12220) — Zile Zhou
 
 ---
 
@@ -70,26 +70,26 @@ layout: page
 
 | # | 领域 | 论文 | 评分 |
 |---|------|------|------|
-| 1 | 🧠 大语言模型 | [SCALPEL: Semantic Cross-modal Alignment via LLM-Powe...](https://arxiv.org/abs/2607.26885) | ⭐⭐⭐ |
-| 2 | 🧠 大语言模型 | [SlimVLM: Sensitivity-aware Dynamic Structured Prunin...](https://arxiv.org/abs/2608.03580) | ⭐⭐⭐ |
-| 3 | 🧠 大语言模型 | [Gaokerena: A Small Persian Medical Language Model Fa...](https://arxiv.org/abs/2608.00932) | ⭐⭐⭐ |
-| 4 | 👁️ 计算机视觉 | [Step-Attention Refinement of DINOv3 Features for Eff...](https://arxiv.org/abs/2607.27087) | ⭐⭐⭐ |
-| 5 | 🎨 生成式AI | [MDLMPE: Distribution Aware Positional Encoding for M...](https://arxiv.org/abs/2608.03769) | ⭐⭐⭐ |
-| 6 | 👁️ 计算机视觉 | [Towards Reliable and Reproducible Fetal Brain Biomet...](https://arxiv.org/abs/2608.03724) | ⭐⭐⭐ |
-| 7 | 🛡️ AI安全与对齐 | [Keep the Needle, Prune the Haystack: Defect-Preservi...](https://arxiv.org/abs/2608.03681) | ⭐⭐⭐ |
-| 8 | 👁️ 计算机视觉 | [XiDepth: a Lightweight and Efficient Network for Sel...](https://arxiv.org/abs/2608.03666) | ⭐⭐⭐ |
-| 9 | 🎮 强化学习 | [Credit the Right Box: Marginal Contribution Assignme...](https://arxiv.org/abs/2608.01055) | ⭐⭐⭐ |
-| 10 | ⚡ 高效模型 | [WAM-Diff2: Hierarchical AR-to-Diffusion Distillation...](https://arxiv.org/abs/2608.01035) | ⭐⭐⭐ |
-| 11 | 🧠 大语言模型 | [DIRECT: Direct Decoding for Efficient and Aligned Se...](https://arxiv.org/abs/2607.26891) | ⭐⭐⭐ |
-| 12 | 👁️ 计算机视觉 | [Veritas++: Value-aware On-Policy Distillation for Pe...](https://arxiv.org/abs/2607.27113) | ⭐⭐⭐ |
-| 13 | 🎨 生成式AI | [ScratchSim: A Procedural Synthetic Data Pipeline for...](https://arxiv.org/abs/2607.27065) | ⭐⭐⭐ |
-| 14 | 🧠 大语言模型 | [Failure-Informed Image Self-Augmentation for Multimo...](https://arxiv.org/abs/2608.03733) | ⭐⭐⭐ |
-| 15 | 🎮 强化学习 | [FOUND-AF: Benchmarking ECG Foundation Models for Atr...](https://arxiv.org/abs/2608.03597) | ⭐⭐⭐ |
-| 16 | 👁️ 计算机视觉 | [Struct-GStream: Towards Efficient Free-Viewpoint Vid...](https://arxiv.org/abs/2608.01053) | ⭐⭐⭐ |
-| 17 | 🎮 强化学习 | [Using Lower-Bound Representations for Trajectory Sim...](https://arxiv.org/abs/2608.01039) | ⭐⭐⭐ |
-| 18 | 👁️ 计算机视觉 | [SciFigQual-Bench: A Benchmark for Scientific Figure ...](https://arxiv.org/abs/2607.27084) | ⭐⭐⭐ |
-| 19 | 🎮 强化学习 | [Temporally Centered SIGReg Improves Multi-Task LeWor...](https://arxiv.org/abs/2607.26924) | ⭐⭐⭐ |
-| 20 | 🔗 多模态 | [TDVR: Joint Text Disambiguation and Viewpoint Reason...](https://arxiv.org/abs/2608.03763) | ⭐⭐⭐ |
+| 1 | 🎨 生成式AI | [GeoFlow: Efficient Driving Video Generation via Geom...](https://arxiv.org/abs/2608.12203) | ⭐⭐⭐ |
+| 2 | 👁️ 计算机视觉 | [M-Net: Integrating Spectral Features and Physical Fi...](https://arxiv.org/abs/2608.12196) | ⭐⭐⭐ |
+| 3 | 🧠 大语言模型 | [Making Collaborative Signals Count: Graph-Aware Larg...](https://arxiv.org/abs/2608.12184) | ⭐⭐⭐ |
+| 4 | 🎨 生成式AI | [XYZFlow:Scaling Multi dimensional Shortcut Flows for...](https://arxiv.org/abs/2608.12276) | ⭐⭐⭐ |
+| 5 | 🎮 强化学习 | [SCOUT: Unlocking Enhanced Spatial Reasoning via Stru...](https://arxiv.org/abs/2608.12220) | ⭐⭐⭐ |
+| 6 | 📝 自然语言处理 | [Generation as Auxiliary Supervision: Enhancing Visua...](https://arxiv.org/abs/2608.12209) | ⭐⭐⭐ |
+| 7 | 📝 自然语言处理 | [TGRHuman: Text-Guided Realistic 3D Human Generation ...](https://arxiv.org/abs/2608.12175) | ⭐⭐⭐ |
+| 8 | 🕸️ 图神经网络 | [SAG: SQL-Retrieval Augmented Generation with Query-T...](https://arxiv.org/abs/2608.12129) | ⭐⭐⭐ |
+| 9 | 🧠 大语言模型 | [ScreenShot: A Foundation Model for Few-Shot Combinat...](https://arxiv.org/abs/2608.12219) | ⭐⭐⭐ |
+| 10 | 📝 自然语言处理 | [Preference Tree Optimization: Enhancing Goal-Oriente...](https://arxiv.org/abs/2608.12062) | ⭐⭐⭐ |
+| 11 | 🧠 大语言模型 | [Beyond Trial-and-Error: Agentic Optimization for Ima...](https://arxiv.org/abs/2608.12290) | ⭐⭐⭐ |
+| 12 | ⚡ 高效模型 | [FQTree: Fine-grained Quantization and Hardware Gener...](https://arxiv.org/abs/2608.12140) | ⭐⭐⭐ |
+| 13 | 🧠 大语言模型 | [Few-Shot Ordinal Learning for Day-Wise Freshness Est...](https://arxiv.org/abs/2608.12230) | ⭐⭐ |
+| 14 | 📝 自然语言处理 | [GenFAR: A generalized representation of brain struct...](https://arxiv.org/abs/2608.12185) | ⭐⭐ |
+| 15 | 👁️ 计算机视觉 | [Map-Det3D: Metric Feed-Forward 3D Reconstruction Pri...](https://arxiv.org/abs/2608.12179) | ⭐⭐ |
+| 16 | 🕸️ 图神经网络 | [Beyond Parameter Space: NTK-Guided Personalized Aggr...](https://arxiv.org/abs/2608.12108) | ⭐⭐ |
+| 17 | ⚡ 高效模型 | [Curvature-Aware Zeroth-Order Optimization for Memory...](https://arxiv.org/abs/2608.12279) | ⭐⭐ |
+| 18 | 🛡️ AI安全与对齐 | [A Neighborhood Attention Transformer Network for Enh...](https://arxiv.org/abs/2608.12274) | ⭐⭐ |
+| 19 | 🎮 强化学习 | [One Frozen Simulator Is Not Enough: Simulator Collap...](https://arxiv.org/abs/2608.12253) | ⭐⭐ |
+| 20 | 📝 自然语言处理 | [VICBench: A Multi-Language Benchmark for Code Vulner...](https://arxiv.org/abs/2608.12246) | ⭐⭐ |
 
 ---
 
