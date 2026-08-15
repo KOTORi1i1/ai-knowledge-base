@@ -7,30 +7,30 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-13
+## 📅 最近更新: 2026-08-15
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-...](https://huggingface.co/papers/2608.07458) | HuggingFace Daily | 2026-08-13 |
-| 2 | [InSight-doc: Agentic Visual Perception for Long-Document Understanding](https://huggingface.co/papers/2608.10628) | HuggingFace Daily | 2026-08-13 |
-| 3 | [Power law graph attention: exact generalization of scaled dot-produ...](https://huggingface.co/papers/2608.10288) | HuggingFace Daily | 2026-08-13 |
-| 4 | [360CityArena: A Realistic Virtual Urban Navigation Benchmark for Em...](https://huggingface.co/papers/2608.08814) | HuggingFace Daily | 2026-08-13 |
-| 5 | [Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness](https://huggingface.co/papers/2608.09900) | HuggingFace Daily | 2026-08-13 |
-| 6 | [UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommenda...](https://huggingface.co/papers/2608.08627) | HuggingFace Daily | 2026-08-13 |
-| 7 | [Articulated Object Reconstruction from Rest-State Observation](https://huggingface.co/papers/2607.27749) | HuggingFace Daily | 2026-08-13 |
-| 8 | [DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-...](https://huggingface.co/papers/2608.10636) | HuggingFace Daily | 2026-08-13 |
-| 9 | [AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance...](https://huggingface.co/papers/2608.11205) | HuggingFace Daily | 2026-08-13 |
-| 10 | [Not Worth Another Token: Marginal Value Estimation for Efficient De...](https://huggingface.co/papers/2608.08389) | HuggingFace Daily | 2026-08-13 |
-| 11 | [AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRP...](https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/) | MarkTechPost | 2026-08-12 |
-| 12 | [NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B A...](https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/) | MarkTechPost | 2026-08-12 |
-| 13 | [Xiaomi&#8217;s MiLM Plus Releases PROVE: Perception-Aligned Object ...](https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/) | MarkTechPost | 2026-08-12 |
-| 14 | [The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches a...](https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/) | MarkTechPost | 2026-08-11 |
-| 15 | [Building and Validating a Quantitative Trading Strategy with OctoBo...](https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/) | MarkTechPost | 2026-08-11 |
-| 16 | [webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for...](https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/) | MarkTechPost | 2026-08-11 |
-| 17 | [Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pip...](https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/) | MarkTechPost | 2026-08-11 |
-| 18 | [Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model Tha...](https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/) | MarkTechPost | 2026-08-10 |
-| 19 | [ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-...](https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/) | MarkTechPost | 2026-08-10 |
-| 20 | [NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Spe...](https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/) | MarkTechPost | 2026-08-09 |
+| 1 | [Maglev: Sliding Recurrent Memory](https://huggingface.co/papers/2608.02870) | HuggingFace Daily | 2026-08-15 |
+| 2 | [Thought-Level Beam Search for Reasoning](https://huggingface.co/papers/2608.08020) | HuggingFace Daily | 2026-08-15 |
+| 3 | [RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Sele...](https://huggingface.co/papers/2608.06914) | HuggingFace Daily | 2026-08-15 |
+| 4 | [Context-Matched Distillation: Teacher Causality for Autoregressive ...](https://huggingface.co/papers/2608.13391) | HuggingFace Daily | 2026-08-15 |
+| 5 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks...](https://huggingface.co/papers/2608.09158) | HuggingFace Daily | 2026-08-15 |
+| 6 | [Mitigating Gender Bias in English to Romanian Machine Translation](https://huggingface.co/papers/2608.08606) | HuggingFace Daily | 2026-08-15 |
+| 7 | [Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Ed...](https://huggingface.co/papers/2608.11660) | HuggingFace Daily | 2026-08-15 |
+| 8 | [Specification-first convergence with an AI coding agent: a case stu...](https://huggingface.co/papers/2608.12440) | HuggingFace Daily | 2026-08-15 |
+| 9 | [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://huggingface.co/papers/2608.12313) | HuggingFace Daily | 2026-08-15 |
+| 10 | [PixSDS: Why Latent SDS Makes Noisy Pixels](https://huggingface.co/papers/2608.12997) | HuggingFace Daily | 2026-08-15 |
+| 11 | [Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Com...](https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/) | MarkTechPost | 2026-08-14 |
+| 12 | [Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships ...](https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/) | MarkTechPost | 2026-08-14 |
+| 13 | [Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Cur...](https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/) | MarkTechPost | 2026-08-14 |
+| 14 | [Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model ...](https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/) | MarkTechPost | 2026-08-13 |
+| 15 | [Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Re...](https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/) | MarkTechPost | 2026-08-13 |
+| 16 | [Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained o...](https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/) | MarkTechPost | 2026-08-13 |
+| 17 | [SpaceXAI Releases Grok 4.6: A 500K-Context Frontier Model Tuned for...](https://www.marktechpost.com/2026/08/12/spacexai-releases-grok-4-6/) | MarkTechPost | 2026-08-13 |
+| 18 | [AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRP...](https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/) | MarkTechPost | 2026-08-12 |
+| 19 | [NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B A...](https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/) | MarkTechPost | 2026-08-12 |
+| 20 | [Xiaomi&#8217;s MiLM Plus Releases PROVE: Perception-Aligned Object ...](https://www.marktechpost.com/2026/08/11/xiaomis-milm-plus-releases-prove-perception-aligned-object-removal-metrics-rc-s-and-rc-t-with-a-real-world-video-benchmark/) | MarkTechPost | 2026-08-12 |
 | 21 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
 | 22 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
 | 23 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
@@ -56,6 +56,8 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-15](/news/2026-08-15)
+- [📰 2026-08-14](/news/2026-08-14)
 - [📰 2026-08-13](/news/2026-08-13)
 - [📰 2026-08-12](/news/2026-08-12)
 - [📰 2026-08-11](/news/2026-08-11)
@@ -84,5 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-13](/news/2026-07-13)
 - [📰 2026-07-12](/news/2026-07-12)
 - [📰 2026-07-11](/news/2026-07-11)
-- [📰 2026-07-10](/news/2026-07-10)
-- [📰 2026-07-09](/news/2026-07-09)

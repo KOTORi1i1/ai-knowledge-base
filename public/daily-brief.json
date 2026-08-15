@@ -1,86 +1,86 @@
 {
-  "date": "2026-08-13",
-  "generated": "2026-08-13T01:22:33.332Z",
+  "date": "2026-08-15",
+  "generated": "2026-08-15T00:52:35.069Z",
   "headline": {
-    "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-    "summary": "NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model",
+    "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
+    "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding ag",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-    "source": "MarkTechPost",
-    "category": "模型"
+    "link": "https://huggingface.co/papers/2608.12440",
+    "source": "HuggingFace Daily",
+    "category": "Agent"
   },
-  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（5 次）",
+  "trend": "🔥 模型方向最活跃（11 条），「Agent」是今日热词（4 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE with 3B Active Parameters, and NeMo Switchyard Model Router",
-      "summary": "NVIDIA's open 30B MoE targets the agent execution layer, with Switchyard routing each step to the cheapest capable model",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/11/nvidia-ai-releases-nemotron-3-5-lightning-and-nemo-switchyard/",
-      "source": "MarkTechPost",
-      "date": "2026-08-12"
+      "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
+      "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding ag",
+      "stars": 4.3,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2608.12440",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-15"
     },
     {
       "rank": 2,
-      "title": "The Video Production Stack Now Fits on One Desk: LTX-2.5 Launches as NVIDIA-Accelerated Open Weights World Model",
-      "summary": "LTX-2.5 brings frontier video generation to local NVIDIA hardware: 6.8-second clips, native multishot, day-one ComfyUI, ",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/11/the-video-production-stack-now-fits-on-one-desk-ltx-2-5-launches-as-nvidia-accelerated-open-weights-world-model/",
-      "source": "MarkTechPost",
-      "date": "2026-08-11"
-    },
-    {
-      "rank": 3,
-      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
-      "summary": "webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+      "summary": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning co",
       "stars": 4,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/",
+      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
       "source": "MarkTechPost",
-      "date": "2026-08-11"
+      "date": "2026-08-13"
+    },
+    {
+      "rank": 3,
+      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
+      "summary": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human v",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
+      "source": "MarkTechPost",
+      "date": "2026-08-13"
     }
   ],
   "categories": {
-    "model": {
-      "name": "模型",
-      "icon": "🔥",
-      "count": 10,
-      "top": "NVIDIA AI Releases Nemotron 3.5 Lightning: A 30B Open MoE wi"
-    },
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 4,
-      "top": "CoinRAG: Contextualized Information Nugget KV Cache Reuse fo"
-    },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
-      "count": 4,
-      "top": "InSight-doc: Agentic Visual Perception for Long-Document Und"
+      "count": 2,
+      "top": "Specification-first convergence with an AI coding agent: a c"
+    },
+    "model": {
+      "name": "模型",
+      "icon": "🔥",
+      "count": 11,
+      "top": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
       "count": 3,
-      "top": "DistilVDR: A Compact End-to-End Visual Document Retriever vi"
+      "top": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Tr"
     },
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 1,
-      "top": "Building and Validating a Quantitative Trading Strategy with"
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
+      "count": 3,
+      "top": "Thought-Level Beam Search for Reasoning"
+    },
+    "other": {
+      "name": "other",
+      "icon": "📋",
+      "count": 3,
+      "top": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, a"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「NVIDIA AI Releases Nemotron 3.5 Lightnin」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Specification-first convergence with an 」",
   "stats": {
     "total": 22,
     "avgRating": 3.8,
