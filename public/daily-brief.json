@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-15",
-  "generated": "2026-08-15T00:52:35.069Z",
+  "date": "2026-08-16",
+  "generated": "2026-08-16T00:55:35.138Z",
   "headline": {
     "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
     "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding ag",
@@ -9,7 +9,7 @@
     "source": "HuggingFace Daily",
     "category": "Agent"
   },
-  "trend": "🔥 模型方向最活跃（11 条），「Agent」是今日热词（4 次）",
+  "trend": "🔥 模型方向最活跃（7 条），「Code」是今日热词（3 次）",
   "top3": [
     {
       "rank": 1,
@@ -21,31 +21,31 @@
       "categoryId": "agent",
       "link": "https://huggingface.co/papers/2608.12440",
       "source": "HuggingFace Daily",
-      "date": "2026-08-15"
+      "date": "2026-08-16"
     },
     {
       "rank": 2,
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-      "summary": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning co",
-      "stars": 4,
+      "title": "Maglev: Sliding Recurrent Memory",
+      "summary": "We introduce , a recurrent Transformer architecture with fixed-size memory that generalizes sliding-window attention whi",
+      "stars": 3.8,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "source": "MarkTechPost",
-      "date": "2026-08-13"
+      "link": "https://huggingface.co/papers/2608.02870",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-16"
     },
     {
       "rank": 3,
-      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
-      "summary": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human v",
-      "stars": 4,
+      "title": "Thought-Level Beam Search for Reasoning",
+      "summary": "Test-time compute scaling is a primary driver of performance in large reasoning models (LRMs), but extreme inefficiency ",
+      "stars": 3.8,
       "starsText": "★★★★☆",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
-      "source": "MarkTechPost",
-      "date": "2026-08-13"
+      "category": "论文",
+      "categoryId": "paper",
+      "link": "https://huggingface.co/papers/2608.08020",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-16"
     }
   ],
   "categories": {
@@ -58,32 +58,32 @@
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 11,
-      "top": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent"
-    },
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 3,
-      "top": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Tr"
+      "count": 7,
+      "top": "Maglev: Sliding Recurrent Memory"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
-      "count": 3,
+      "count": 2,
       "top": "Thought-Level Beam Search for Reasoning"
     },
     "other": {
       "name": "other",
       "icon": "📋",
-      "count": 3,
+      "count": 2,
       "top": "RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, a"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 2,
+      "top": "Context-Matched Distillation: Teacher Causality for Autoregr"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Specification-first convergence with an 」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Specification-first convergence with an 」",
   "stats": {
-    "total": 22,
+    "total": 15,
     "avgRating": 3.8,
-    "topRated": 3
+    "topRated": 1
   }
 }
