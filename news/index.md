@@ -7,20 +7,20 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-16
+## 📅 最近更新: 2026-08-17
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Maglev: Sliding Recurrent Memory](https://huggingface.co/papers/2608.02870) | HuggingFace Daily | 2026-08-16 |
-| 2 | [Thought-Level Beam Search for Reasoning](https://huggingface.co/papers/2608.08020) | HuggingFace Daily | 2026-08-16 |
-| 3 | [RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Sele...](https://huggingface.co/papers/2608.06914) | HuggingFace Daily | 2026-08-16 |
-| 4 | [Context-Matched Distillation: Teacher Causality for Autoregressive ...](https://huggingface.co/papers/2608.13391) | HuggingFace Daily | 2026-08-16 |
-| 5 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks...](https://huggingface.co/papers/2608.09158) | HuggingFace Daily | 2026-08-16 |
-| 6 | [Mitigating Gender Bias in English to Romanian Machine Translation](https://huggingface.co/papers/2608.08606) | HuggingFace Daily | 2026-08-16 |
-| 7 | [Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Ed...](https://huggingface.co/papers/2608.11660) | HuggingFace Daily | 2026-08-16 |
-| 8 | [Specification-first convergence with an AI coding agent: a case stu...](https://huggingface.co/papers/2608.12440) | HuggingFace Daily | 2026-08-16 |
-| 9 | [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://huggingface.co/papers/2608.12313) | HuggingFace Daily | 2026-08-16 |
-| 10 | [PixSDS: Why Latent SDS Makes Noisy Pixels](https://huggingface.co/papers/2608.12997) | HuggingFace Daily | 2026-08-16 |
+| 1 | [Maglev: Sliding Recurrent Memory](https://huggingface.co/papers/2608.02870) | HuggingFace Daily | 2026-08-17 |
+| 2 | [Thought-Level Beam Search for Reasoning](https://huggingface.co/papers/2608.08020) | HuggingFace Daily | 2026-08-17 |
+| 3 | [RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Sele...](https://huggingface.co/papers/2608.06914) | HuggingFace Daily | 2026-08-17 |
+| 4 | [Context-Matched Distillation: Teacher Causality for Autoregressive ...](https://huggingface.co/papers/2608.13391) | HuggingFace Daily | 2026-08-17 |
+| 5 | [From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks...](https://huggingface.co/papers/2608.09158) | HuggingFace Daily | 2026-08-17 |
+| 6 | [Mitigating Gender Bias in English to Romanian Machine Translation](https://huggingface.co/papers/2608.08606) | HuggingFace Daily | 2026-08-17 |
+| 7 | [Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Ed...](https://huggingface.co/papers/2608.11660) | HuggingFace Daily | 2026-08-17 |
+| 8 | [Specification-first convergence with an AI coding agent: a case stu...](https://huggingface.co/papers/2608.12440) | HuggingFace Daily | 2026-08-17 |
+| 9 | [AVA-Encoder: Towards Agent-Native Video Representation Learning](https://huggingface.co/papers/2608.12313) | HuggingFace Daily | 2026-08-17 |
+| 10 | [PixSDS: Why Latent SDS Makes Noisy Pixels](https://huggingface.co/papers/2608.12997) | HuggingFace Daily | 2026-08-17 |
 | 11 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
 | 12 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
 | 13 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
@@ -46,6 +46,7 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-17](/news/2026-08-17)
 - [📰 2026-08-16](/news/2026-08-16)
 - [📰 2026-08-15](/news/2026-08-15)
 - [📰 2026-08-14](/news/2026-08-14)
@@ -75,4 +76,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-15](/news/2026-07-15)
 - [📰 2026-07-14](/news/2026-07-14)
 - [📰 2026-07-13](/news/2026-07-13)
-- [📰 2026-07-12](/news/2026-07-12)

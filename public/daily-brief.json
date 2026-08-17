@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16",
-  "generated": "2026-08-16T00:55:35.138Z",
+  "date": "2026-08-17",
+  "generated": "2026-08-17T00:53:46.822Z",
   "headline": {
     "title": "Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review",
     "summary": "This paper reports a single, fully instrumented case study of a large-scale architectural refactoring by an AI coding ag",
@@ -21,7 +21,7 @@
       "categoryId": "agent",
       "link": "https://huggingface.co/papers/2608.12440",
       "source": "HuggingFace Daily",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     },
     {
       "rank": 2,
@@ -33,7 +33,7 @@
       "categoryId": "model",
       "link": "https://huggingface.co/papers/2608.02870",
       "source": "HuggingFace Daily",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     },
     {
       "rank": 3,
@@ -45,7 +45,7 @@
       "categoryId": "paper",
       "link": "https://huggingface.co/papers/2608.08020",
       "source": "HuggingFace Daily",
-      "date": "2026-08-16"
+      "date": "2026-08-17"
     }
   ],
   "categories": {
