@@ -7,20 +7,20 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-19
+## 📅 最近更新: 2026-08-20
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [HarmProfile: Characterizing Harmful Distributions in Frontier LLMs](https://huggingface.co/papers/2608.14577) | HuggingFace Daily | 2026-08-19 |
-| 2 | [Accuracy and Order Sensitivity Diverge Under Label-Free Strategies](https://huggingface.co/papers/2608.11947) | HuggingFace Daily | 2026-08-19 |
-| 3 | [Beyond Visual CoT: Internalized Visual Thinking for Proactive Video...](https://huggingface.co/papers/2608.15869) | HuggingFace Daily | 2026-08-19 |
-| 4 | [StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Ter...](https://huggingface.co/papers/2608.15089) | HuggingFace Daily | 2026-08-19 |
-| 5 | [StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating f...](https://huggingface.co/papers/2608.16320) | HuggingFace Daily | 2026-08-19 |
-| 6 | [Valid Per-Field Selective Risk Control for Document Extraction: Thr...](https://huggingface.co/papers/2608.14639) | HuggingFace Daily | 2026-08-19 |
-| 7 | [Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic ...](https://huggingface.co/papers/2608.14606) | HuggingFace Daily | 2026-08-19 |
-| 8 | [Advancing Open and Reproducible Relational Learning: RelArena-α, Ta...](https://huggingface.co/papers/2608.16319) | HuggingFace Daily | 2026-08-19 |
-| 9 | [GRNEdit: Efficient General Video Editing from a New Binary-Evidence...](https://huggingface.co/papers/2608.16328) | HuggingFace Daily | 2026-08-19 |
-| 10 | [MOSS-VL Technical Report](https://huggingface.co/papers/2608.15045) | HuggingFace Daily | 2026-08-19 |
+| 1 | [The Problem Is the Problem: Towards Scalable Mathematical Discovery](https://huggingface.co/papers/2608.16977) | HuggingFace Daily | 2026-08-20 |
+| 2 | [LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents](https://huggingface.co/papers/2608.17393) | HuggingFace Daily | 2026-08-20 |
+| 3 | [PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with...](https://huggingface.co/papers/2608.17379) | HuggingFace Daily | 2026-08-20 |
+| 4 | [CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Card...](https://huggingface.co/papers/2608.12944) | HuggingFace Daily | 2026-08-20 |
+| 5 | [V-RAE: Rethinking Video Latent Spaces for Generation](https://huggingface.co/papers/2608.13556) | HuggingFace Daily | 2026-08-20 |
+| 6 | [DiSCO: Defending text-to-image generation through distribution-guid...](https://huggingface.co/papers/2608.17067) | HuggingFace Daily | 2026-08-20 |
+| 7 | [PixRestore: Unified Image Restoration via Pixel Diffusion Transformer](https://huggingface.co/papers/2608.16793) | HuggingFace Daily | 2026-08-20 |
+| 8 | [MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and ...](https://huggingface.co/papers/2608.17402) | HuggingFace Daily | 2026-08-20 |
+| 9 | [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | HuggingFace Daily | 2026-08-20 |
+| 10 | [Cross-Model Memory Transfer via Target-Side Reader Adaptation](https://huggingface.co/papers/2608.17050) | HuggingFace Daily | 2026-08-20 |
 | 11 | [NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging F...](https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/) | MarkTechPost | 2026-08-18 |
 | 12 | [Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Netw...](https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/) | MarkTechPost | 2026-08-18 |
 | 13 | [Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both...](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/) | MarkTechPost | 2026-08-18 |
@@ -56,6 +56,7 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-20](/news/2026-08-20)
 - [📰 2026-08-19](/news/2026-08-19)
 - [📰 2026-08-18](/news/2026-08-18)
 - [📰 2026-08-17](/news/2026-08-17)
@@ -85,4 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-18](/news/2026-07-18)
 - [📰 2026-07-17](/news/2026-07-17)
 - [📰 2026-07-16](/news/2026-07-16)
-- [📰 2026-07-15](/news/2026-07-15)

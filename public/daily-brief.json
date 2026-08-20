@@ -1,42 +1,18 @@
 {
-  "date": "2026-08-19",
-  "generated": "2026-08-19T00:52:50.050Z",
+  "date": "2026-08-20",
+  "generated": "2026-08-20T00:52:23.375Z",
   "headline": {
-    "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
-    "summary": "This first release of Prior Labs in relational learning shows our continued commitment to open science. We open-source t",
+    "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+    "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Huggi",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.16319",
-    "source": "HuggingFace Daily",
-    "category": "工具"
+    "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+    "source": "MarkTechPost",
+    "category": "教程"
   },
-  "trend": "🔥 模型方向最活跃（13 条），「Agent」是今日热词（8 次）",
+  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（11 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI",
-      "summary": "This first release of Prior Labs in relational learning shows our continued commitment to open science. We open-source t",
-      "stars": 5,
-      "starsText": "★★★★★",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://huggingface.co/papers/2608.16319",
-      "source": "HuggingFace Daily",
-      "date": "2026-08-19"
-    },
-    {
-      "rank": 2,
-      "title": "MOSS-VL Technical Report",
-      "summary": "We present MOSS-VL, an open vision-language model family that treats real-time interaction -- perceiving while it speaks",
-      "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2608.15045",
-      "source": "HuggingFace Daily",
-      "date": "2026-08-19"
-    },
-    {
-      "rank": 3,
       "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
       "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Huggi",
       "stars": 4,
@@ -46,21 +22,33 @@
       "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
       "source": "MarkTechPost",
       "date": "2026-08-18"
+    },
+    {
+      "rank": 2,
+      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+      "summary": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SA",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+      "source": "MarkTechPost",
+      "date": "2026-08-18"
+    },
+    {
+      "rank": 3,
+      "title": "Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profiles Into a Roster of Named Bots",
+      "summary": "Nous Research has shipped Bot Mode for Hermes Agent, its MIT-licensed open source agent. Bot Mode replaces the single-ag",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/",
+      "source": "MarkTechPost",
+      "date": "2026-08-18"
     }
   ],
   "categories": {
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 4,
-      "top": "Advancing Open and Reproducible Relational Learning: RelAren"
-    },
-    "model": {
-      "name": "模型",
-      "icon": "🔥",
-      "count": 13,
-      "top": "MOSS-VL Technical Report"
-    },
     "tutorial": {
       "name": "教程",
       "icon": "📚",
@@ -73,17 +61,29 @@
       "count": 3,
       "top": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P"
     },
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
+    "other": {
+      "name": "other",
+      "icon": "📋",
       "count": 2,
-      "top": "TRACE-Bench: Decomposing and Diagnosing Multi-Reference Imag"
+      "top": "The Problem Is the Problem: Towards Scalable Mathematical Di"
+    },
+    "model": {
+      "name": "模型",
+      "icon": "🔥",
+      "count": 10,
+      "top": "PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimizati"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 4,
+      "top": "V-RAE: Rethinking Video Latent Spaces for Generation"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Advancing Open and Reproducible Relation」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「NVIDIA Releases TensorRT Model Connect i」",
   "stats": {
-    "total": 23,
-    "avgRating": 3.9,
-    "topRated": 6
+    "total": 20,
+    "avgRating": 3.8,
+    "topRated": 3
   }
 }

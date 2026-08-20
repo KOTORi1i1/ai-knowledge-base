@@ -45,8 +45,8 @@ layout: page
 
 | 指标 | 数值 |
 |------|------|
-| 📄 论文总数 | **960** 篇 |
-| 📅 收录天数 | **13** 天 |
+| 📄 论文总数 | **1040** 篇 |
+| 📅 收录天数 | **14** 天 |
 | 🏷️ 覆盖领域 | **9** 个 |
 
 ---
@@ -57,55 +57,55 @@ layout: page
 <a href="/ai-knowledge-base/papers/tags/llm" class="category-card">
 <div class="category-icon">🧠</div>
 <div class="category-title">大语言模型</div>
-<div class="category-desc">650 篇论文</div>
+<div class="category-desc">706 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/cv" class="category-card">
 <div class="category-icon">👁️</div>
 <div class="category-title">计算机视觉</div>
-<div class="category-desc">438 篇论文</div>
+<div class="category-desc">476 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/nlp" class="category-card">
 <div class="category-icon">📝</div>
 <div class="category-title">自然语言处理</div>
-<div class="category-desc">560 篇论文</div>
+<div class="category-desc">612 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/rl" class="category-card">
 <div class="category-icon">🎮</div>
 <div class="category-title">强化学习</div>
-<div class="category-desc">542 篇论文</div>
+<div class="category-desc">587 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/multimodal" class="category-card">
 <div class="category-icon">🔗</div>
 <div class="category-title">多模态</div>
-<div class="category-desc">224 篇论文</div>
+<div class="category-desc">235 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/gnn" class="category-card">
 <div class="category-icon">🕸️</div>
 <div class="category-title">图神经网络</div>
-<div class="category-desc">346 篇论文</div>
+<div class="category-desc">373 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/efficient" class="category-card">
 <div class="category-icon">⚡</div>
 <div class="category-title">高效模型</div>
-<div class="category-desc">242 篇论文</div>
+<div class="category-desc">260 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/safety" class="category-card">
 <div class="category-icon">🛡️</div>
 <div class="category-title">AI安全与对齐</div>
-<div class="category-desc">337 篇论文</div>
+<div class="category-desc">361 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 <a href="/ai-knowledge-base/papers/tags/generative" class="category-card">
 <div class="category-icon">🎨</div>
 <div class="category-title">生成式AI</div>
-<div class="category-desc">244 篇论文</div>
+<div class="category-desc">269 篇论文</div>
 <div class="category-count">浏览 →</div>
 </a>
 </div>
