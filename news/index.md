@@ -7,30 +7,30 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-20
+## 📅 最近更新: 2026-08-21
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [The Problem Is the Problem: Towards Scalable Mathematical Discovery](https://huggingface.co/papers/2608.16977) | HuggingFace Daily | 2026-08-20 |
-| 2 | [LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents](https://huggingface.co/papers/2608.17393) | HuggingFace Daily | 2026-08-20 |
-| 3 | [PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with...](https://huggingface.co/papers/2608.17379) | HuggingFace Daily | 2026-08-20 |
-| 4 | [CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Card...](https://huggingface.co/papers/2608.12944) | HuggingFace Daily | 2026-08-20 |
-| 5 | [V-RAE: Rethinking Video Latent Spaces for Generation](https://huggingface.co/papers/2608.13556) | HuggingFace Daily | 2026-08-20 |
-| 6 | [DiSCO: Defending text-to-image generation through distribution-guid...](https://huggingface.co/papers/2608.17067) | HuggingFace Daily | 2026-08-20 |
-| 7 | [PixRestore: Unified Image Restoration via Pixel Diffusion Transformer](https://huggingface.co/papers/2608.16793) | HuggingFace Daily | 2026-08-20 |
-| 8 | [MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and ...](https://huggingface.co/papers/2608.17402) | HuggingFace Daily | 2026-08-20 |
-| 9 | [Demystifying Agent Skills: Why They Work-Until They Don't](https://huggingface.co/papers/2608.14036) | HuggingFace Daily | 2026-08-20 |
-| 10 | [Cross-Model Memory Transfer via Target-Side Reader Adaptation](https://huggingface.co/papers/2608.17050) | HuggingFace Daily | 2026-08-20 |
-| 11 | [NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging F...](https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/) | MarkTechPost | 2026-08-18 |
-| 12 | [Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Netw...](https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/) | MarkTechPost | 2026-08-18 |
-| 13 | [Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both...](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/) | MarkTechPost | 2026-08-18 |
-| 14 | [Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profil...](https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/) | MarkTechPost | 2026-08-18 |
-| 15 | [ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scal...](https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/) | MarkTechPost | 2026-08-18 |
-| 16 | [MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Genera...](https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/) | MarkTechPost | 2026-08-17 |
-| 17 | [Developing an End-to-End Document Intelligence Pipeline with docTR ...](https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/) | MarkTechPost | 2026-08-17 |
-| 18 | [DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-...](https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/) | MarkTechPost | 2026-08-17 |
-| 19 | [Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SF...](https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/) | MarkTechPost | 2026-08-15 |
-| 20 | [Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Com...](https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/) | MarkTechPost | 2026-08-14 |
+| 1 | [VA-Judger: Reward Modeling from Human Preference Feedback for Joint...](https://huggingface.co/papers/2608.18607) | HuggingFace Daily | 2026-08-21 |
+| 2 | [Evaluating Music Context Preservation: A Multi-facet Framework for ...](https://huggingface.co/papers/2512.14629) | HuggingFace Daily | 2026-08-21 |
+| 3 | [Towards Real-Time and Adaptable LiDAR Scene Completion](https://huggingface.co/papers/2608.16490) | HuggingFace Daily | 2026-08-21 |
+| 4 | [SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-...](https://huggingface.co/papers/2608.19080) | HuggingFace Daily | 2026-08-21 |
+| 5 | [LLMs Get Smarter from Targeted Synthetic Multilingual Data](https://huggingface.co/papers/2608.15964) | HuggingFace Daily | 2026-08-21 |
+| 6 | [Bounded Agents: Delegation Security for Multi-Agent AI Systems](https://huggingface.co/papers/2608.15888) | HuggingFace Daily | 2026-08-21 |
+| 7 | [SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents](https://huggingface.co/papers/2608.18852) | HuggingFace Daily | 2026-08-21 |
+| 8 | [The More Popular, The Harder to Forget: Adaptive Popularity for LLM...](https://huggingface.co/papers/2608.14229) | HuggingFace Daily | 2026-08-21 |
+| 9 | [Temporal Multi-Signal Fusion for Token-Level Hallucination Detection](https://huggingface.co/papers/2608.18115) | HuggingFace Daily | 2026-08-21 |
+| 10 | [Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-...](https://huggingface.co/papers/2608.17253) | HuggingFace Daily | 2026-08-21 |
+| 11 | [Meet S1-mini: Superwhisper&#8217;s 462 MB Open-Weights Text Normali...](https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/) | MarkTechPost | 2026-08-20 |
+| 12 | [Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era](https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/) | MarkTechPost | 2026-08-20 |
+| 13 | [Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3....](https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/) | MarkTechPost | 2026-08-20 |
+| 14 | [Auditing Preference Biases and Fine-Tuning Language Models with Dir...](https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/) | MarkTechPost | 2026-08-20 |
+| 15 | [NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging F...](https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/) | MarkTechPost | 2026-08-18 |
+| 16 | [Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Netw...](https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/) | MarkTechPost | 2026-08-18 |
+| 17 | [Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both...](https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/) | MarkTechPost | 2026-08-18 |
+| 18 | [Nous Research Ships Bot Mode for Hermes Agent, Turning Agent Profil...](https://www.marktechpost.com/2026/08/17/nous-research-hermes-bot-mode/) | MarkTechPost | 2026-08-18 |
+| 19 | [ByteDance Seed and Tsinghua AIR Introduces CUDA Agent: A Large-Scal...](https://www.marktechpost.com/2026/08/17/bytedance-seed-and-tsinghua-air-introduces-cuda-agent-a-large-scale-agentic-rl-system-for-cuda-kernel-generation/) | MarkTechPost | 2026-08-18 |
+| 20 | [MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Genera...](https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/) | MarkTechPost | 2026-08-17 |
 | 21 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
 | 22 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
 | 23 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
@@ -56,6 +56,7 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-21](/news/2026-08-21)
 - [📰 2026-08-20](/news/2026-08-20)
 - [📰 2026-08-19](/news/2026-08-19)
 - [📰 2026-08-18](/news/2026-08-18)
@@ -85,4 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-20](/news/2026-07-20)
 - [📰 2026-07-18](/news/2026-07-18)
 - [📰 2026-07-17](/news/2026-07-17)
-- [📰 2026-07-16](/news/2026-07-16)
