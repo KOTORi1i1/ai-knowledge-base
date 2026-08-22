@@ -1,83 +1,89 @@
 {
-  "date": "2026-08-21",
-  "generated": "2026-08-21T00:55:41.682Z",
+  "date": "2026-08-22",
+  "generated": "2026-08-22T00:52:18.154Z",
   "headline": {
-    "title": "Towards Real-Time and Adaptable LiDAR Scene Completion",
-    "summary": "LiDAR scene completion is a key component of 3D perception in autonomous driving, where the scene must be completed in r",
+    "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
+    "summary": "Take three frontier mixture-of-experts models (Alibaba, OpenAI, NVIDIA; 3.6-4.0B active parameters each) and fine-tune t",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.16490",
+    "link": "https://huggingface.co/papers/2608.17744",
     "source": "HuggingFace Daily",
-    "category": "论文"
+    "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（8 条），「Agent」是今日热词（5 次）",
+  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（3 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Towards Real-Time and Adaptable LiDAR Scene Completion",
-      "summary": "LiDAR scene completion is a key component of 3D perception in autonomous driving, where the scene must be completed in r",
+      "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
+      "summary": "Take three frontier mixture-of-experts models (Alibaba, OpenAI, NVIDIA; 3.6-4.0B active parameters each) and fine-tune t",
       "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "论文",
-      "categoryId": "paper",
-      "link": "https://huggingface.co/papers/2608.16490",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://huggingface.co/papers/2608.17744",
       "source": "HuggingFace Daily",
-      "date": "2026-08-21"
+      "date": "2026-08-22"
     },
     {
       "rank": 2,
-      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-      "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, fr",
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "summary": "Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable ",
       "stars": 4,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2608.13558",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2608.19799",
       "source": "HuggingFace Daily",
-      "date": "2026-08-21"
+      "date": "2026-08-22"
     },
     {
       "rank": 3,
-      "title": "Meet S1-mini: Superwhisper&#8217;s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
-      "summary": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally",
-      "stars": 4,
+      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+      "summary": "Large language model agents can adapt to complex tasks by constructing workflows at inference time, but procedures disco",
+      "stars": 3.8,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
-      "source": "MarkTechPost",
-      "date": "2026-08-20"
+      "link": "https://huggingface.co/papers/2607.21596",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-22"
     }
   ],
   "categories": {
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 3,
-      "top": "Towards Real-Time and Adaptable LiDAR Scene Completion"
-    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 8,
-      "top": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist"
-    },
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 5,
-      "top": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver U"
+      "count": 9,
+      "top": "Thinking in a Low-Resource Language: What SFT Builds, What R"
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
+      "count": 1,
+      "top": "SWE-bench Science: Can Coding Agents Resolve Engineering Tas"
+    },
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
       "count": 3,
-      "top": "SkillGate: Training In-Policy Skill Selection in Long-Horizo"
+      "top": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexte"
+    },
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 1,
+      "top": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synt"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 1,
+      "top": "NARU: A Benchmark for NARrative Evolution and Cultural Nuanc"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Towards Real-Time and Adaptable LiDAR Sc」",
+  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「Thinking in a Low-Resource Language: Wha」",
   "stats": {
-    "total": 19,
-    "avgRating": 3.9,
-    "topRated": 5
+    "total": 15,
+    "avgRating": 3.8,
+    "topRated": 2
   }
 }
