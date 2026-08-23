@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-22",
-  "generated": "2026-08-22T00:52:18.154Z",
+  "date": "2026-08-23",
+  "generated": "2026-08-23T00:57:01.112Z",
   "headline": {
     "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
     "summary": "Take three frontier mixture-of-experts models (Alibaba, OpenAI, NVIDIA; 3.6-4.0B active parameters each) and fine-tune t",
@@ -9,7 +9,7 @@
     "source": "HuggingFace Daily",
     "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（3 次）",
+  "trend": "🔥 模型方向最活跃（11 条），「Agent」是今日热词（5 次）",
   "top3": [
     {
       "rank": 1,
@@ -21,44 +21,50 @@
       "categoryId": "model",
       "link": "https://huggingface.co/papers/2608.17744",
       "source": "HuggingFace Daily",
-      "date": "2026-08-22"
+      "date": "2026-08-23"
     },
     {
       "rank": 2,
-      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
-      "summary": "Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable ",
-      "stars": 4,
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crus",
+      "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://huggingface.co/papers/2608.19799",
-      "source": "HuggingFace Daily",
-      "date": "2026-08-22"
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "source": "MarkTechPost",
+      "date": "2026-08-21"
     },
     {
       "rank": 3,
-      "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-      "summary": "Large language model agents can adapt to complex tasks by constructing workflows at inference time, but procedures disco",
-      "stars": 3.8,
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+      "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security",
+      "stars": 4.2,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://huggingface.co/papers/2607.21596",
-      "source": "HuggingFace Daily",
-      "date": "2026-08-22"
+      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "source": "MarkTechPost",
+      "date": "2026-08-21"
     }
   ],
   "categories": {
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 9,
+      "count": 11,
       "top": "Thinking in a Low-Resource Language: What SFT Builds, What R"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 2,
+      "top": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, "
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
-      "count": 1,
+      "count": 3,
       "top": "SWE-bench Science: Can Coding Agents Resolve Engineering Tas"
     },
     "paper": {
@@ -72,18 +78,12 @@
       "icon": "📚",
       "count": 1,
       "top": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synt"
-    },
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 1,
-      "top": "NARU: A Benchmark for NARrative Evolution and Cultural Nuanc"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「Thinking in a Low-Resource Language: Wha」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Thinking in a Low-Resource Language: Wha」",
   "stats": {
-    "total": 15,
-    "avgRating": 3.8,
-    "topRated": 2
+    "total": 20,
+    "avgRating": 3.9,
+    "topRated": 5
   }
 }
