@@ -7,30 +7,30 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-23
+## 📅 最近更新: 2026-08-25
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows...](https://huggingface.co/papers/2607.21596) | HuggingFace Daily | 2026-08-23 |
-| 2 | [TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodi...](https://huggingface.co/papers/2608.15767) | HuggingFace Daily | 2026-08-23 |
-| 3 | [The Embedder's Dilemma: LLMs Are Better, but at What Cost?](https://huggingface.co/papers/2608.12875) | HuggingFace Daily | 2026-08-23 |
-| 4 | [τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Gui...](https://huggingface.co/papers/2608.16885) | HuggingFace Daily | 2026-08-23 |
-| 5 | [QuoteBench: How Matched Scores Can Hide Command-Path Failures](https://huggingface.co/papers/2608.13547) | HuggingFace Daily | 2026-08-23 |
-| 6 | [Hierarchical Self-Improvement: A Framework for Task-Specific Evolva...](https://huggingface.co/papers/2608.08466) | HuggingFace Daily | 2026-08-23 |
-| 7 | [GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Ro...](https://huggingface.co/papers/2608.19759) | HuggingFace Daily | 2026-08-23 |
-| 8 | [CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis v...](https://huggingface.co/papers/2608.19776) | HuggingFace Daily | 2026-08-23 |
-| 9 | [Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes...](https://huggingface.co/papers/2608.17744) | HuggingFace Daily | 2026-08-23 |
-| 10 | [NARU: A Benchmark for NARrative Evolution and Cultural Nuance Under...](https://huggingface.co/papers/2608.13210) | HuggingFace Daily | 2026-08-23 |
-| 11 | [The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety](https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/) | MarkTechPost | 2026-08-22 |
-| 12 | [Decoding AI&#8217;s Open-Source Course Maps Three Ways to Run an Ag...](https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/) | MarkTechPost | 2026-08-22 |
-| 13 | [Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Gro...](https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/) | MarkTechPost | 2026-08-21 |
-| 14 | [Building Agentic Document Intelligence Pipelines: Creating Scientif...](https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/) | MarkTechPost | 2026-08-21 |
-| 15 | [Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Tea...](https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/) | MarkTechPost | 2026-08-21 |
-| 16 | [Meet S1-mini: Superwhisper&#8217;s 462 MB Open-Weights Text Normali...](https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/) | MarkTechPost | 2026-08-20 |
-| 17 | [Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era](https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/) | MarkTechPost | 2026-08-20 |
-| 18 | [Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3....](https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/) | MarkTechPost | 2026-08-20 |
-| 19 | [Auditing Preference Biases and Fine-Tuning Language Models with Dir...](https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/) | MarkTechPost | 2026-08-20 |
-| 20 | [NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging F...](https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/) | MarkTechPost | 2026-08-18 |
+| 1 | [PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Explo...](https://huggingface.co/papers/2608.21031) | HuggingFace Daily | 2026-08-25 |
+| 2 | [Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Converg...](https://huggingface.co/papers/2608.20438) | HuggingFace Daily | 2026-08-25 |
+| 3 | [Hydra-0: Action Flow for Generalist World Modeling and Control](https://huggingface.co/papers/2608.18077) | HuggingFace Daily | 2026-08-25 |
+| 4 | [Partition the Support, Reconstruct the Residual: Training-Free Spar...](https://huggingface.co/papers/2608.18484) | HuggingFace Daily | 2026-08-25 |
+| 5 | [ParaTempo: Efficient Parallel Reasoning via Temporal Confidence](https://huggingface.co/papers/2608.16425) | HuggingFace Daily | 2026-08-25 |
+| 6 | [FlavourBench: Ranking Frontier Language Models with Executable Culi...](https://huggingface.co/papers/2608.20574) | HuggingFace Daily | 2026-08-25 |
+| 7 | [Human-Centric Intelligence in the Era of Foundation Models: A Survey](https://huggingface.co/papers/2608.18184) | HuggingFace Daily | 2026-08-25 |
+| 8 | [UniSpace: Unified Visual Representation and Scalable Multimodal Mod...](https://huggingface.co/papers/2608.08676) | HuggingFace Daily | 2026-08-25 |
+| 9 | [Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Infe...](https://huggingface.co/papers/2608.20210) | HuggingFace Daily | 2026-08-25 |
+| 10 | [EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking](https://huggingface.co/papers/2608.20886) | HuggingFace Daily | 2026-08-25 |
+| 11 | [Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That...](https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/) | MarkTechPost | 2026-08-24 |
+| 12 | [Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learn...](https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/) | MarkTechPost | 2026-08-24 |
+| 13 | [Google Research Introduces ME-POIs: A Mobility-Informed Framework t...](https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/) | MarkTechPost | 2026-08-24 |
+| 14 | [Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Gro...](https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/) | MarkTechPost | 2026-08-24 |
+| 15 | [Scientific Data Analysis with LabPlot in Python: Signal Processing,...](https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/) | MarkTechPost | 2026-08-24 |
+| 16 | [Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fi...](https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/) | MarkTechPost | 2026-08-23 |
+| 17 | [Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GL...](https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/) | MarkTechPost | 2026-08-23 |
+| 18 | [Building an End-to-End Document Intelligence Pipeline with deepDoct...](https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/) | MarkTechPost | 2026-08-23 |
+| 19 | [Vercel Introduces &#8216;Is Agentic&#8217;, a Free Agent-Readiness ...](https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/) | MarkTechPost | 2026-08-23 |
+| 20 | [The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety](https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/) | MarkTechPost | 2026-08-22 |
 | 21 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
 | 22 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
 | 23 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
@@ -56,6 +56,8 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-08-25](/news/2026-08-25)
+- [📰 2026-08-24](/news/2026-08-24)
 - [📰 2026-08-23](/news/2026-08-23)
 - [📰 2026-08-22](/news/2026-08-22)
 - [📰 2026-08-21](/news/2026-08-21)
@@ -84,5 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-07-25](/news/2026-07-25)
 - [📰 2026-07-24](/news/2026-07-24)
 - [📰 2026-07-23](/news/2026-07-23)
-- [📰 2026-07-21](/news/2026-07-21)
-- [📰 2026-07-20](/news/2026-07-20)

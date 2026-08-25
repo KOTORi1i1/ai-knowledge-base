@@ -1,27 +1,27 @@
 {
-  "date": "2026-08-23",
-  "generated": "2026-08-23T00:57:01.112Z",
+  "date": "2026-08-25",
+  "generated": "2026-08-25T00:54:37.632Z",
   "headline": {
-    "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
-    "summary": "Take three frontier mixture-of-experts models (Alibaba, OpenAI, NVIDIA; 3.6-4.0B active parameters each) and fine-tune t",
+    "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+    "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.17744",
+    "link": "https://huggingface.co/papers/2608.20210",
     "source": "HuggingFace Daily",
     "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（11 条），「Agent」是今日热词（5 次）",
+  "trend": "🔥 模型方向最活跃（13 条），「Agent」是今日热词（7 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
-      "summary": "Take three frontier mixture-of-experts models (Alibaba, OpenAI, NVIDIA; 3.6-4.0B active parameters each) and fine-tune t",
+      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+      "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we",
       "stars": 4.3,
       "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://huggingface.co/papers/2608.17744",
+      "link": "https://huggingface.co/papers/2608.20210",
       "source": "HuggingFace Daily",
-      "date": "2026-08-23"
+      "date": "2026-08-25"
     },
     {
       "rank": 2,
@@ -31,59 +31,59 @@
       "starsText": "★★★★☆",
       "category": "工具",
       "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
       "source": "MarkTechPost",
-      "date": "2026-08-21"
+      "date": "2026-08-24"
     },
     {
       "rank": 3,
-      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-      "summary": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security",
-      "stars": 4.2,
+      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
+      "summary": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-",
+      "stars": 4,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-      "source": "MarkTechPost",
-      "date": "2026-08-21"
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2608.21031",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-25"
     }
   ],
   "categories": {
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 11,
-      "top": "Thinking in a Low-Resource Language: What SFT Builds, What R"
+      "count": 13,
+      "top": "Daedalus-150M: A Convolution-Attention Hybrid Designed for C"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 2,
+      "count": 4,
       "top": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, "
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
-      "count": 3,
-      "top": "SWE-bench Science: Can Coding Agents Resolve Engineering Tas"
+      "count": 4,
+      "top": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informe"
     },
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 3,
-      "top": "GOAG: Generative and Object-Agnostic Grasp Planner for Dexte"
+    "other": {
+      "name": "other",
+      "icon": "📋",
+      "count": 1,
+      "top": "UniSpace: Unified Visual Representation and Scalable Multimo"
     },
     "tutorial": {
       "name": "教程",
       "icon": "📚",
-      "count": 1,
-      "top": "CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synt"
+      "count": 2,
+      "top": "Scientific Data Analysis with LabPlot in Python: Signal Proc"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Thinking in a Low-Resource Language: Wha」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Daedalus-150M: A Convolution-Attention H」",
   "stats": {
-    "total": 20,
+    "total": 24,
     "avgRating": 3.9,
-    "topRated": 5
+    "topRated": 8
   }
 }
