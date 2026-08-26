@@ -1,89 +1,95 @@
 {
-  "date": "2026-08-25",
-  "generated": "2026-08-25T00:54:37.632Z",
+  "date": "2026-08-26",
+  "generated": "2026-08-26T00:55:16.931Z",
   "headline": {
-    "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
-    "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we",
+    "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
+    "summary": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.20210",
+    "link": "https://huggingface.co/papers/2608.22591",
     "source": "HuggingFace Daily",
-    "category": "模型"
+    "category": "教程"
   },
-  "trend": "🔥 模型方向最活跃（13 条），「Agent」是今日热词（7 次）",
+  "trend": "🔥 模型方向最活跃（6 条）",
   "top3": [
     {
       "rank": 1,
-      "title": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
-      "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we",
+      "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
+      "summary": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize",
       "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2608.20210",
+      "category": "教程",
+      "categoryId": "tutorial",
+      "link": "https://huggingface.co/papers/2608.22591",
       "source": "HuggingFace Daily",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     },
     {
       "rank": 2,
-      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-      "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crus",
-      "stars": 4.3,
+      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
+      "summary": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight au",
+      "stars": 3.8,
       "starsText": "★★★★☆",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
-      "source": "MarkTechPost",
-      "date": "2026-08-24"
+      "category": "论文",
+      "categoryId": "paper",
+      "link": "https://huggingface.co/papers/2608.22876",
+      "source": "HuggingFace Daily",
+      "date": "2026-08-26"
     },
     {
       "rank": 3,
-      "title": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration",
-      "summary": "We present PhysCaP, a Physics-Informed Code-as-Policy agent for active perception in robotic manipulation. While vision-",
-      "stars": 4,
+      "title": "What AstroPT knows about galaxies, and what that can teach us about LLMs",
+      "summary": "Interpretability research increasingly asks when concepts emerge during training and whether linear probes recover real ",
+      "stars": 3.8,
       "starsText": "★★★★☆",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://huggingface.co/papers/2608.21031",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://huggingface.co/papers/2608.22614",
       "source": "HuggingFace Daily",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     }
   ],
   "categories": {
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 1,
+      "top": "WorldToken: Time-First Sequence Modeling for Robotic Imitati"
+    },
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
+      "count": 4,
+      "top": "The Mask Is Not the Model: Auditing Prefix Invariance in Att"
+    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 13,
-      "top": "Daedalus-150M: A Convolution-Attention Hybrid Designed for C"
-    },
-    "tool": {
-      "name": "工具",
-      "icon": "🛠",
-      "count": 4,
-      "top": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, "
+      "count": 6,
+      "top": "What AstroPT knows about galaxies, and what that can teach u"
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
-      "count": 4,
-      "top": "PhysCaP: Grounding Code-as-Policy Agent with Physics-Informe"
+      "count": 2,
+      "top": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runti"
+    },
+    "tool": {
+      "name": "工具",
+      "icon": "🛠",
+      "count": 1,
+      "top": "AutoResearch: Insight In, Hallucination Out"
     },
     "other": {
       "name": "other",
       "icon": "📋",
       "count": 1,
-      "top": "UniSpace: Unified Visual Representation and Scalable Multimo"
-    },
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 2,
-      "top": "Scientific Data Analysis with LabPlot in Python: Signal Proc"
+      "top": "Tomatoes, Potatoes, and Onions: Questioning the Need for Fac"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Daedalus-150M: A Convolution-Attention H」",
+  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「WorldToken: Time-First Sequence Modeling」",
   "stats": {
-    "total": 24,
-    "avgRating": 3.9,
-    "topRated": 8
+    "total": 15,
+    "avgRating": 3.8,
+    "topRated": 1
   }
 }
