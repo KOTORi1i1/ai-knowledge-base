@@ -7,45 +7,60 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-08-26
+## 📅 最近更新: 2026-09-01
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [The Mask Is Not the Model: Auditing Prefix Invariance in Attention,...](https://huggingface.co/papers/2608.22876) | HuggingFace Daily | 2026-08-26 |
-| 2 | [What AstroPT knows about galaxies, and what that can teach us about...](https://huggingface.co/papers/2608.22614) | HuggingFace Daily | 2026-08-26 |
-| 3 | [ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Cove...](https://huggingface.co/papers/2608.22510) | HuggingFace Daily | 2026-08-26 |
-| 4 | [The Laws of Context Allocation: Causal Measurement and Closed-Loop ...](https://huggingface.co/papers/2608.23252) | HuggingFace Daily | 2026-08-26 |
-| 5 | [LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow...](https://huggingface.co/papers/2608.23200) | HuggingFace Daily | 2026-08-26 |
-| 6 | [AutoResearch: Insight In, Hallucination Out](https://huggingface.co/papers/2608.17906) | HuggingFace Daily | 2026-08-26 |
-| 7 | [Quantization-Aware Healing: A Practical Recipe for Recovering Compr...](https://huggingface.co/papers/2608.20953) | HuggingFace Daily | 2026-08-26 |
-| 8 | [EXPL-FR: Explaining Face Recognition Models via Vision-Language Ali...](https://huggingface.co/papers/2608.21486) | HuggingFace Daily | 2026-08-26 |
-| 9 | [Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in F...](https://huggingface.co/papers/2608.21455) | HuggingFace Daily | 2026-08-26 |
-| 10 | [WorldToken: Time-First Sequence Modeling for Robotic Imitation Lear...](https://huggingface.co/papers/2608.22591) | HuggingFace Daily | 2026-08-26 |
-| 11 | [5 Architectural Patterns for Persistent Memory and State in AI Agents](https://machinelearningmastery.com/5-architectural-patterns-for-persistent-memory-and-state-in-ai-agents/) | Machine Learning Mastery | 2026-07-27 |
-| 12 | [Stateful vs. Stateless Agent Design: Tradeoffs for Scalable Agentic...](https://machinelearningmastery.com/stateful-vs-stateless-agent-design-tradeoffs-for-scalable-agentic-systems/) | Machine Learning Mastery | 2026-07-24 |
-| 13 | [An Introduction to Loop Engineering](https://machinelearningmastery.com/an-introduction-to-loop-engineering/) | Machine Learning Mastery | 2026-07-23 |
-| 14 | [The Current State of Agentic AI](https://machinelearningmastery.com/the-current-state-of-agentic-ai/) | Machine Learning Mastery | 2026-07-21 |
-| 15 | [Building Agentic Workflows in Python with LangGraph](https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/) | Machine Learning Mastery | 2026-07-20 |
-| 16 | [Agentic AI Security: Defending Against Prompt Injection and Tool Mi...](https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/) | Machine Learning Mastery | 2026-07-17 |
-| 17 | [Run a Local AI Model with Ollama in 15 Minutes](https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/) | Machine Learning Mastery | 2026-07-16 |
-| 18 | [Scikit-Ollama for Scikit-LLM/Ollama Integration](https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/) | Machine Learning Mastery | 2026-07-15 |
-| 19 | [LLM Evaluation Frameworks Compared: How to Actually Measure What Yo...](https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/) | Machine Learning Mastery | 2026-07-14 |
-| 20 | [Building AI Agents? Here Are Some Anti-Patterns to Avoid.](https://machinelearningmastery.com/building-ai-agents-here-are-some-anti-patterns-to-avoid/) | Machine Learning Mastery | 2026-07-13 |
-| 21 | [Which Agent Causes Task Failures and When?Researchers from PSU and ...](https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/) | SyncedReview | 2025-08-14 |
-| 22 | [ByteDance Introduces Astra: A Dual-Model Architecture for Autonomou...](https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/) | SyncedReview | 2025-06-24 |
-| 23 | [MIT Researchers Unveil &#8220;SEAL&#8221;: A New Step Towards Self-...](https://syncedreview.com/2025/06/16/mit-researchers-unveil-seal-a-new-step-towards-self-improving-ai/) | SyncedReview | 2025-06-16 |
-| 24 | [Researchers from PSU and Duke introduce &#8220;Multi-Agent Systems ...](https://syncedreview.com/2025/06/16/researchers-from-psu-and-duke-introduce-multi-agent-systems-automated-failure-attribution/) | SyncedReview | 2025-06-16 |
-| 25 | [Adobe Research Unlocking Long-Term Memory in Video World Models wit...](https://syncedreview.com/2025/05/28/adobe-research-unlocking-long-term-memory-in-video-world-models-with-state-space-models/) | SyncedReview | 2025-05-28 |
-| 26 | [DeepSeek-V3 New Paper is coming! Unveiling the Secrets of Low-Cost ...](https://syncedreview.com/2025/05/15/deepseek-v3-new-paper-is-coming-unveiling-the-secrets-of-low-cost-large-model-training-through-hardware-aware-co-design/) | SyncedReview | 2025-05-15 |
-| 27 | [DeepSeek Unveils DeepSeek-Prover-V2: Advancing Neural Theorem Provi...](https://syncedreview.com/2025/04/30/deepseek-unveils-deepseek-prover-v2-advancing-neural-theorem-proving-with-recursive-proof-search-and-a-new-benchmark/) | SyncedReview | 2025-04-30 |
-| 28 | [Can GRPO be 10x Efficient? Kwai AI&#8217;s SRPO Suggests Yes with SRPO](https://syncedreview.com/2025/04/23/can-grpo-be-10x-efficient-kwai-ais-srpo-suggests-yes-with-srpo/) | SyncedReview | 2025-04-24 |
-| 29 | [Zhipu.AI&#8217;s Open-Source Power Play: Blazing-Fast GLM Models &#...](https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/) | SyncedReview | 2025-04-16 |
-| 30 | [DeepSeek Signals Next-Gen R2 Model, Unveils Novel Approach to Scali...](https://syncedreview.com/2025/04/11/deepseek-signals-next-gen-r2-model-unveils-novel-approach-to-scaling-inference-with-spct/) | SyncedReview | 2025-04-11 |
+| 1 | [Does On-Policy Distillation Really Distill? From Noisy Teacher to S...](https://huggingface.co/papers/2608.31046) | HuggingFace Daily | 2026-09-01 |
+| 2 | [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://huggingface.co/papers/2608.31119) | HuggingFace Daily | 2026-09-01 |
+| 3 | [Cross-lingual Functional Vectors for Emotion Detection in Large Lan...](https://huggingface.co/papers/2608.29613) | HuggingFace Daily | 2026-09-01 |
+| 4 | [Ask or Answer: A Decision Framework for Multi-Turn Health Misinform...](https://huggingface.co/papers/2608.21721) | HuggingFace Daily | 2026-09-01 |
+| 5 | [Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe ...](https://huggingface.co/papers/2608.28458) | HuggingFace Daily | 2026-09-01 |
+| 6 | [EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Ha...](https://huggingface.co/papers/2608.28363) | HuggingFace Daily | 2026-09-01 |
+| 7 | [Generative Semantic Scene Completion](https://huggingface.co/papers/2608.26737) | HuggingFace Daily | 2026-09-01 |
+| 8 | [Sliding-window beats linear attention](https://huggingface.co/papers/2608.28444) | HuggingFace Daily | 2026-09-01 |
+| 9 | [Lost in Compression: A Controlled Cross-Lingual Audit of Extractive...](https://huggingface.co/papers/2608.26175) | HuggingFace Daily | 2026-09-01 |
+| 10 | [Act with Intent: Distilling Behavior Intent for Vision-Language-Act...](https://huggingface.co/papers/2608.23478) | HuggingFace Daily | 2026-09-01 |
+| 11 | [Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebui...](https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/) | MarkTechPost | 2026-08-31 |
+| 12 | [Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation...](https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/) | MarkTechPost | 2026-08-31 |
+| 13 | [OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms Control ...](https://www.marktechpost.com/2026/08/30/openclaw-releases-openclaw-2-0-guided-model-setup-575-ms-control-ui-startup-and-one-trust-boundary-per-gateway/) | MarkTechPost | 2026-08-31 |
+| 14 | [Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time...](https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/) | MarkTechPost | 2026-08-30 |
+| 15 | [Google AI Introduces EnvHarness: A Programmable Layer That Turns St...](https://www.marktechpost.com/2026/08/30/google-ai-introduces-envharness-a-programmable-layer-that-turns-static-agent-environments-into-adaptive-training-worlds/) | MarkTechPost | 2026-08-30 |
+| 16 | [Anthropic Opens a Research Preview of the Model Hardware Standard (...](https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/) | MarkTechPost | 2026-08-30 |
+| 17 | [Meet &#8216;Code-as-World&#8217;: An Agentic Loop That Rewrites Rea...](https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/) | MarkTechPost | 2026-08-30 |
+| 18 | [Building Custom Batched Ensemble Weather Forecasting with NVIDIA Ea...](https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/) | MarkTechPost | 2026-08-29 |
+| 19 | [Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension...](https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/) | MarkTechPost | 2026-08-29 |
+| 20 | [Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You ...](https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/) | MarkTechPost | 2026-08-29 |
+| 21 | [Interpretable Text Classification: Probing Scikit-LLM Embedding Spaces](https://machinelearningmastery.com/interpretable-text-classification-probing-scikit-llm-embedding-spaces/) | Machine Learning Mastery | 2026-08-28 |
+| 22 | [Learn Vectorized Thinking in Python Through Examples](https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/) | Machine Learning Mastery | 2026-08-26 |
+| 23 | [Comparing Local Tool Calling: Gemma 4 vs. Llama 3 vs. Mistral](https://machinelearningmastery.com/comparing-local-tool-calling-gemma-4-vs-llama-3-vs-mistral/) | Machine Learning Mastery | 2026-08-25 |
+| 24 | [Integrating Agentic AI with Existing Machine Learning Pipelines](https://machinelearningmastery.com/integrating-agentic-ai-with-existing-machine-learning-pipelines/) | Machine Learning Mastery | 2026-08-24 |
+| 25 | [How to Build a Robust RAG System with Minimal Resources](https://machinelearningmastery.com/how-to-build-a-robust-rag-system-with-minimal-resources/) | Machine Learning Mastery | 2026-08-20 |
+| 26 | [Managing Small Context Windows in Language Models](https://machinelearningmastery.com/managing-small-context-windows-in-language-models/) | Machine Learning Mastery | 2026-08-18 |
+| 27 | [7 Regression Tests Every AI Agent Should Pass Before Deploy](https://machinelearningmastery.com/7-regression-tests-every-ai-agent-should-pass-before-deploy/) | Machine Learning Mastery | 2026-08-17 |
+| 28 | [Understanding the Role of Latent Space in Machine Learning Models](https://machinelearningmastery.com/understanding-the-role-of-latent-space-in-machine-learning-models/) | Machine Learning Mastery | 2026-08-14 |
+| 29 | [Retrieval vs. Memory in Agentic AI Systems](https://machinelearningmastery.com/retrieval-vs-memory-in-agentic-ai-systems/) | Machine Learning Mastery | 2026-08-12 |
+| 30 | [7 Async Patterns for Running Agents Concurrently in Python](https://machinelearningmastery.com/7-async-patterns-for-running-agents-concurrently-in-python/) | Machine Learning Mastery | 2026-08-11 |
+| 31 | [Which Agent Causes Task Failures and When?Researchers from PSU and ...](https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/) | SyncedReview | 2025-08-14 |
+| 32 | [ByteDance Introduces Astra: A Dual-Model Architecture for Autonomou...](https://syncedreview.com/2025/06/24/bytedance-introduces-astra-a-dual-model-architecture-for-autonomous-robot-navigation/) | SyncedReview | 2025-06-24 |
+| 33 | [MIT Researchers Unveil &#8220;SEAL&#8221;: A New Step Towards Self-...](https://syncedreview.com/2025/06/16/mit-researchers-unveil-seal-a-new-step-towards-self-improving-ai/) | SyncedReview | 2025-06-16 |
+| 34 | [Researchers from PSU and Duke introduce &#8220;Multi-Agent Systems ...](https://syncedreview.com/2025/06/16/researchers-from-psu-and-duke-introduce-multi-agent-systems-automated-failure-attribution/) | SyncedReview | 2025-06-16 |
+| 35 | [Adobe Research Unlocking Long-Term Memory in Video World Models wit...](https://syncedreview.com/2025/05/28/adobe-research-unlocking-long-term-memory-in-video-world-models-with-state-space-models/) | SyncedReview | 2025-05-28 |
+| 36 | [DeepSeek-V3 New Paper is coming! Unveiling the Secrets of Low-Cost ...](https://syncedreview.com/2025/05/15/deepseek-v3-new-paper-is-coming-unveiling-the-secrets-of-low-cost-large-model-training-through-hardware-aware-co-design/) | SyncedReview | 2025-05-15 |
+| 37 | [DeepSeek Unveils DeepSeek-Prover-V2: Advancing Neural Theorem Provi...](https://syncedreview.com/2025/04/30/deepseek-unveils-deepseek-prover-v2-advancing-neural-theorem-proving-with-recursive-proof-search-and-a-new-benchmark/) | SyncedReview | 2025-04-30 |
+| 38 | [Can GRPO be 10x Efficient? Kwai AI&#8217;s SRPO Suggests Yes with SRPO](https://syncedreview.com/2025/04/23/can-grpo-be-10x-efficient-kwai-ais-srpo-suggests-yes-with-srpo/) | SyncedReview | 2025-04-24 |
+| 39 | [Zhipu.AI&#8217;s Open-Source Power Play: Blazing-Fast GLM Models &#...](https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/) | SyncedReview | 2025-04-16 |
+| 40 | [DeepSeek Signals Next-Gen R2 Model, Unveils Novel Approach to Scali...](https://syncedreview.com/2025/04/11/deepseek-signals-next-gen-r2-model-unveils-novel-approach-to-scaling-inference-with-spct/) | SyncedReview | 2025-04-11 |
 
 ---
 
 ## 🗄️ 历史归档
 
+- [📰 2026-09-01](/news/2026-09-01)
+- [📰 2026-08-31](/news/2026-08-31)
+- [📰 2026-08-30](/news/2026-08-30)
+- [📰 2026-08-29](/news/2026-08-29)
+- [📰 2026-08-28](/news/2026-08-28)
 - [📰 2026-08-26](/news/2026-08-26)
 - [📰 2026-08-25](/news/2026-08-25)
 - [📰 2026-08-24](/news/2026-08-24)
@@ -71,8 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-08-01](/news/2026-08-01)
 - [📰 2026-07-30](/news/2026-07-30)
 - [📰 2026-07-29](/news/2026-07-29)
-- [📰 2026-07-28](/news/2026-07-28)
-- [📰 2026-07-27](/news/2026-07-27)
-- [📰 2026-07-26](/news/2026-07-26)
-- [📰 2026-07-25](/news/2026-07-25)
-- [📰 2026-07-24](/news/2026-07-24)

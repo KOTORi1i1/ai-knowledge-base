@@ -1,95 +1,95 @@
 {
-  "date": "2026-08-26",
-  "generated": "2026-08-26T00:55:16.931Z",
+  "date": "2026-09-01",
+  "generated": "2026-09-01T03:03:07.934Z",
   "headline": {
-    "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
-    "summary": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize",
+    "title": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
+    "summary": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they ",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.22591",
+    "link": "https://huggingface.co/papers/2608.21721",
     "source": "HuggingFace Daily",
-    "category": "教程"
+    "category": "论文"
   },
-  "trend": "🔥 模型方向最活跃（6 条）",
+  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（8 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning",
-      "summary": "Robot policies receive heterogeneous observations at each decision step, yet sequence models differ in how they organize",
+      "title": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
+      "summary": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they ",
       "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "教程",
-      "categoryId": "tutorial",
-      "link": "https://huggingface.co/papers/2608.22591",
-      "source": "HuggingFace Daily",
-      "date": "2026-08-26"
-    },
-    {
-      "rank": 2,
-      "title": "The Mask Is Not the Model: Auditing Prefix Invariance in Attention, State-Space, and Hybrid Sequence Models",
-      "summary": "We formalize prefix invariance: representations at position t must not depend on future inputs. We give a lightweight au",
-      "stars": 3.8,
       "starsText": "★★★★☆",
       "category": "论文",
       "categoryId": "paper",
-      "link": "https://huggingface.co/papers/2608.22876",
+      "link": "https://huggingface.co/papers/2608.21721",
       "source": "HuggingFace Daily",
-      "date": "2026-08-26"
+      "date": "2026-09-01"
+    },
+    {
+      "rank": 2,
+      "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
+      "summary": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state acr",
+      "stars": 4.3,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2608.28458",
+      "source": "HuggingFace Daily",
+      "date": "2026-09-01"
     },
     {
       "rank": 3,
-      "title": "What AstroPT knows about galaxies, and what that can teach us about LLMs",
-      "summary": "Interpretability research increasingly asks when concepts emerge during training and whether linear probes recover real ",
-      "stars": 3.8,
+      "title": "Generative Semantic Scene Completion",
+      "summary": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the targe",
+      "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://huggingface.co/papers/2608.22614",
+      "category": "📋 其他",
+      "categoryId": "other",
+      "link": "https://huggingface.co/papers/2608.26737",
       "source": "HuggingFace Daily",
-      "date": "2026-08-26"
+      "date": "2026-09-01"
     }
   ],
   "categories": {
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 1,
-      "top": "WorldToken: Time-First Sequence Modeling for Robotic Imitati"
-    },
     "paper": {
       "name": "论文",
       "icon": "📄",
-      "count": 4,
-      "top": "The Mask Is Not the Model: Auditing Prefix Invariance in Att"
-    },
-    "model": {
-      "name": "模型",
-      "icon": "🔥",
-      "count": 6,
-      "top": "What AstroPT knows about galaxies, and what that can teach u"
+      "count": 2,
+      "top": "Ask or Answer: A Decision Framework for Multi-Turn Health Mi"
     },
     "agent": {
       "name": "Agent",
       "icon": "🤖",
+      "count": 7,
+      "top": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training "
+    },
+    "other": {
+      "name": "other",
+      "icon": "📋",
       "count": 2,
-      "top": "ClawProBench: Trace-Aware Evaluation of AI Agents with Runti"
+      "top": "Generative Semantic Scene Completion"
+    },
+    "model": {
+      "name": "模型",
+      "icon": "🔥",
+      "count": 9,
+      "top": "Language Chain in Alignment: Cross-lingual Ranking Preferenc"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
       "count": 1,
-      "top": "AutoResearch: Insight In, Hallucination Out"
+      "top": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms C"
     },
-    "other": {
-      "name": "other",
-      "icon": "📋",
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
       "count": 1,
-      "top": "Tomatoes, Potatoes, and Onions: Questioning the Need for Fac"
+      "top": "Does On-Policy Distillation Really Distill? From Noisy Teach"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 📄 论文，头条是「WorldToken: Time-First Sequence Modeling」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Ask or Answer: A Decision Framework for 」",
   "stats": {
-    "total": 15,
-    "avgRating": 3.8,
-    "topRated": 1
+    "total": 22,
+    "avgRating": 3.9,
+    "topRated": 11
   }
 }

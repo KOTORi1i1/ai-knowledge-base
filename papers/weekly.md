@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-08-19 ~ 2026-08-26 · 从 320 篇中精选 Top 20
+> 2026-08-25 ~ 2026-09-01 · 从 80 篇中精选 Top 20
 
 ---
 
@@ -12,57 +12,57 @@ layout: page
 
 ### 🧠 大语言模型
 
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [Image-Guided Pavement Defect Recognition in GPR Data with novel 3D ...](https://arxiv.org/abs/2608.19177) — Yuandong Pan
-- ⭐⭐⭐ [ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient Model ...](https://arxiv.org/abs/2608.21194) — Can Jin
+- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
+- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
+- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
 
 ### 👁️ 计算机视觉
 
-- ⭐⭐⭐ [Towards Investigating Residual Hearing Loss: Quantification of Fibr...](https://arxiv.org/abs/2608.21189) — Julia Dietlmeier
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [Image-Guided Pavement Defect Recognition in GPR Data with novel 3D ...](https://arxiv.org/abs/2608.19177) — Yuandong Pan
+- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
+- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
+- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
 
 ### 📝 自然语言处理
 
-- ⭐⭐⭐ [Towards Investigating Residual Hearing Loss: Quantification of Fibr...](https://arxiv.org/abs/2608.21189) — Julia Dietlmeier
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [Image-Guided Pavement Defect Recognition in GPR Data with novel 3D ...](https://arxiv.org/abs/2608.19177) — Yuandong Pan
+- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
+- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
+- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
 
 ### 🎮 强化学习
 
-- ⭐⭐⭐ [Image-Guided Pavement Defect Recognition in GPR Data with novel 3D ...](https://arxiv.org/abs/2608.19177) — Yuandong Pan
-- ⭐⭐⭐ [Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhance...](https://arxiv.org/abs/2608.21305) — Haonan Jia
-- ⭐⭐⭐ [VT-MUSE: Multimodal Unified Sequential Visuotactile Representation ...](https://arxiv.org/abs/2608.21290) — Congsheng Xu
+- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
+- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
+- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
 
 ### 🔗 多模态
 
-- ⭐⭐⭐ [ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient Model ...](https://arxiv.org/abs/2608.21194) — Can Jin
-- ⭐⭐⭐ [Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhance...](https://arxiv.org/abs/2608.21305) — Haonan Jia
-- ⭐⭐⭐ [VT-MUSE: Multimodal Unified Sequential Visuotactile Representation ...](https://arxiv.org/abs/2608.21290) — Congsheng Xu
+- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
+- ⭐⭐ [LOCI: A Locator-Critic with Refinement Loop](https://arxiv.org/abs/2608.30959) — Walid Bousselham
+- ⭐⭐ [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K R...](https://arxiv.org/abs/2608.31106) — Jiashu Zhu
 
 ### 🕸️ 图神经网络
 
-- ⭐⭐⭐ [Towards Investigating Residual Hearing Loss: Quantification of Fibr...](https://arxiv.org/abs/2608.21189) — Julia Dietlmeier
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [VT-MUSE: Multimodal Unified Sequential Visuotactile Representation ...](https://arxiv.org/abs/2608.21290) — Congsheng Xu
+- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
+- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
+- ⭐⭐⭐ [Universal Transformers for Circuit Computations: Perfect Length Gen...](https://arxiv.org/abs/2608.31067) — Takuya Ito
 
 ### ⚡ 高效模型
 
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient Model ...](https://arxiv.org/abs/2608.21194) — Can Jin
-- ⭐⭐⭐ [VT-MUSE: Multimodal Unified Sequential Visuotactile Representation ...](https://arxiv.org/abs/2608.21290) — Congsheng Xu
+- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
+- ⭐⭐⭐ [Universal Transformers for Circuit Computations: Perfect Length Gen...](https://arxiv.org/abs/2608.31067) — Takuya Ito
+- ⭐⭐⭐ [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Onto...](https://arxiv.org/abs/2608.31137) — Hamed Babaei Giglou
 
 ### 🛡️ AI安全与对齐
 
-- ⭐⭐⭐ [ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient Model ...](https://arxiv.org/abs/2608.21194) — Can Jin
-- ⭐⭐⭐ [Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhance...](https://arxiv.org/abs/2608.21305) — Haonan Jia
-- ⭐⭐⭐ [RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Rei...](https://arxiv.org/abs/2608.20208) — Shaoxuan Wang
+- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
+- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
+- ⭐⭐ [Analytic Dynamics: Learning Physics-Grounded Representation for Fas...](https://arxiv.org/abs/2608.31025) — Jailing Lin
 
 ### 🎨 生成式AI
 
-- ⭐⭐⭐ [ChebBooster: A Training-Free Approach for Efficient Diffusion Trans...](https://arxiv.org/abs/2608.23429) — Chengjie Lu
-- ⭐⭐⭐ [Image-Guided Pavement Defect Recognition in GPR Data with novel 3D ...](https://arxiv.org/abs/2608.19177) — Yuandong Pan
-- ⭐⭐⭐ [ES-VP : Energy-Shaped Dynamic Visual Prompting for Efficient Model ...](https://arxiv.org/abs/2608.21194) — Can Jin
+- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
+- ⭐⭐⭐ [Configurable Semantic Chunking for Biomedical Information Extractio...](https://arxiv.org/abs/2608.31139) — Riya Ahuja
+- ⭐⭐⭐ [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Onto...](https://arxiv.org/abs/2608.31137) — Hamed Babaei Giglou
 
 ---
 
@@ -70,26 +70,26 @@ layout: page
 
 | # | 领域 | 论文 | 评分 |
 |---|------|------|------|
-| 1 | 👁️ 计算机视觉 | [Towards Investigating Residual Hearing Loss: Quantif...](https://arxiv.org/abs/2608.21189) | ⭐⭐⭐ |
-| 2 | 🎨 生成式AI | [ChebBooster: A Training-Free Approach for Efficient ...](https://arxiv.org/abs/2608.23429) | ⭐⭐⭐ |
-| 3 | 👁️ 计算机视觉 | [Image-Guided Pavement Defect Recognition in GPR Data...](https://arxiv.org/abs/2608.19177) | ⭐⭐⭐ |
-| 4 | 📝 自然语言处理 | [ES-VP : Energy-Shaped Dynamic Visual Prompting for E...](https://arxiv.org/abs/2608.21194) | ⭐⭐⭐ |
-| 5 | 🎮 强化学习 | [Re$^3$Cap: Retrieval-Guided Refinement for Image Cap...](https://arxiv.org/abs/2608.21305) | ⭐⭐⭐ |
-| 6 | 🔗 多模态 | [VT-MUSE: Multimodal Unified Sequential Visuotactile ...](https://arxiv.org/abs/2608.21290) | ⭐⭐⭐ |
-| 7 | 🎨 生成式AI | [MedUAG: Unified Understanding and Generation for Med...](https://arxiv.org/abs/2608.18937) | ⭐⭐⭐ |
-| 8 | 📝 自然语言处理 | [Inter-X++: A Comprehensive Benchmark for Multimodal ...](https://arxiv.org/abs/2608.20312) | ⭐⭐⭐ |
-| 9 | 🎮 强化学习 | [RoMAN-Flow: Taming Autoregressive Normalizing Flows ...](https://arxiv.org/abs/2608.20208) | ⭐⭐⭐ |
-| 10 | 🎮 强化学习 | [ForeSightGuide: An Anticipatory Framework toward Acc...](https://arxiv.org/abs/2608.18993) | ⭐⭐⭐ |
-| 11 | 🎮 强化学习 | [CalcSeg: Confidence-aware 3D Latent Context Curricul...](https://arxiv.org/abs/2608.20305) | ⭐⭐⭐ |
-| 12 | 🕸️ 图神经网络 | [G3Ego: Gaze-Guided Graphs for Egocentric Action Unde...](https://arxiv.org/abs/2608.20157) | ⭐⭐⭐ |
-| 13 | 👁️ 计算机视觉 | [DPC-Net: Dual-Prior Collaborative Network for All-in...](https://arxiv.org/abs/2608.20141) | ⭐⭐⭐ |
-| 14 | 🎮 强化学习 | [USR-Drive: Unified Driving Scene Representation via ...](https://arxiv.org/abs/2608.19036) | ⭐⭐⭐ |
-| 15 | 🔗 多模态 | [GrabVG: Graph-Attentive Binding for Visual Grounding...](https://arxiv.org/abs/2608.18996) | ⭐⭐⭐ |
-| 16 | 🎮 强化学习 | [AlphaClifford: Efficient Clifford Synthesis and Tran...](https://arxiv.org/abs/2608.18946) | ⭐⭐⭐ |
-| 17 | ⚡ 高效模型 | [Adapter-Based Few-Shot Continual Learning for Malici...](https://arxiv.org/abs/2608.23536) | ⭐⭐⭐ |
-| 18 | ⚡ 高效模型 | [MetaCaster: Meta-Harness-Optimized Agent for End-to-...](https://arxiv.org/abs/2608.23473) | ⭐⭐⭐ |
-| 19 | 🛡️ AI安全与对齐 | [RAD: Rule-Augmented Relational Anomaly Detection](https://arxiv.org/abs/2608.23468) | ⭐⭐⭐ |
-| 20 | 🎨 生成式AI | [Adaptive Item-based Collaborative Structures via Noi...](https://arxiv.org/abs/2608.23400) | ⭐⭐⭐ |
+| 1 | 👁️ 计算机视觉 | [MR-JEPA: A General Purpose Video Foundation Model fo...](https://arxiv.org/abs/2608.30975) | ⭐⭐⭐ |
+| 2 | 🎮 强化学习 | [Cross-Regional Grapevine Cold Hardiness Prediction v...](https://arxiv.org/abs/2608.31097) | ⭐⭐⭐ |
+| 3 | 🎮 强化学习 | [PaperGym: Rubric-Centered Evolution for Research-Pla...](https://arxiv.org/abs/2608.31119) | ⭐⭐⭐ |
+| 4 | 👁️ 计算机视觉 | [FaceSnap: Real-Time Personalized Lightstage Facial P...](https://arxiv.org/abs/2608.31033) | ⭐⭐⭐ |
+| 5 | 🎮 强化学习 | [SMG: Semantic Motion Graph for Monocular Dynamic Gau...](https://arxiv.org/abs/2608.31023) | ⭐⭐⭐ |
+| 6 | 📝 自然语言处理 | [Universal Transformers for Circuit Computations: Per...](https://arxiv.org/abs/2608.31067) | ⭐⭐⭐ |
+| 7 | 📝 自然语言处理 | [Configurable Semantic Chunking for Biomedical Inform...](https://arxiv.org/abs/2608.31139) | ⭐⭐⭐ |
+| 8 | 🧠 大语言模型 | [OntoAligner-Ensemble: Voting-Based Fusion across Het...](https://arxiv.org/abs/2608.31137) | ⭐⭐⭐ |
+| 9 | 🧠 大语言模型 | [TSPFN: A Temporal Tabular Foundation Model for Physi...](https://arxiv.org/abs/2608.31013) | ⭐⭐⭐ |
+| 10 | 👁️ 计算机视觉 | [BRF-GS: Hyperspectral Bidirectional Reflectance Fact...](https://arxiv.org/abs/2608.31159) | ⭐⭐ |
+| 11 | 🧠 大语言模型 | [S3Gym: Can LLMs Turn Self-Testing and Self-Judging i...](https://arxiv.org/abs/2608.31100) | ⭐⭐ |
+| 12 | 🎮 强化学习 | [Augmenting Interviewer Judgments of Patient Experien...](https://arxiv.org/abs/2608.31007) | ⭐⭐ |
+| 13 | 👁️ 计算机视觉 | [LOCI: A Locator-Critic with Refinement Loop](https://arxiv.org/abs/2608.30959) | ⭐⭐ |
+| 14 | 👁️ 计算机视觉 | [DreamX-Creator: Democratizing Native Audio-Video Gen...](https://arxiv.org/abs/2608.31106) | ⭐⭐ |
+| 15 | 👁️ 计算机视觉 | [Analytic Dynamics: Learning Physics-Grounded Represe...](https://arxiv.org/abs/2608.31025) | ⭐⭐ |
+| 16 | 🧠 大语言模型 | [A Universal Context-Reuse Layer for Cross-Model KV S...](https://arxiv.org/abs/2608.30963) | ⭐⭐ |
+| 17 | 🎮 强化学习 | [Aspire: Can Models Self-Evolve from Vague Goals?](https://arxiv.org/abs/2608.31111) | ⭐⭐ |
+| 18 | 👁️ 计算机视觉 | [LISynSeg: Data-Centric Label-to-Image Synthesis for ...](https://arxiv.org/abs/2608.31073) | ⭐⭐ |
+| 19 | 👁️ 计算机视觉 | [Segmentation of Bovid Dentition Under Imperfect Anno...](https://arxiv.org/abs/2608.31052) | ⭐⭐ |
+| 20 | 👁️ 计算机视觉 | [CoJEPA: Combining Contrastive Learning and JEPA for ...](https://arxiv.org/abs/2608.30974) | ⭐⭐ |
 
 ---
 
