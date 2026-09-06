@@ -1,95 +1,95 @@
 {
-  "date": "2026-09-01",
-  "generated": "2026-09-01T03:03:07.934Z",
+  "date": "2026-09-06",
+  "generated": "2026-09-06T02:23:58.302Z",
   "headline": {
-    "title": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
-    "summary": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they ",
+    "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+    "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google L",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2608.21721",
-    "source": "HuggingFace Daily",
-    "category": "论文"
+    "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+    "source": "MarkTechPost",
+    "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（9 条），「Agent」是今日热词（8 次）",
+  "trend": "🔥 模型方向最活跃（6 条），「Agent」是今日热词（4 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention",
-      "summary": "Correcting health misinformation in dialogue requires more than producing a factual rebuttal: users differ in what they ",
-      "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "论文",
-      "categoryId": "paper",
-      "link": "https://huggingface.co/papers/2608.21721",
-      "source": "HuggingFace Daily",
-      "date": "2026-09-01"
+      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
+      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google L",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
+      "source": "MarkTechPost",
+      "date": "2026-09-05"
     },
     {
       "rank": 2,
-      "title": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
-      "summary": "Interactive dialogue games test a capability that static benchmarks largely leave implicit: a model must carry state acr",
-      "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://huggingface.co/papers/2608.28458",
-      "source": "HuggingFace Daily",
-      "date": "2026-09-01"
+      "title": "Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+      "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, ",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+      "source": "MarkTechPost",
+      "date": "2026-09-04"
     },
     {
       "rank": 3,
-      "title": "Generative Semantic Scene Completion",
-      "summary": "Outdoor LiDAR semantic scene completion (SSC) recovers a dense semantic voxel grid from a scan observing 1% of the targe",
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "summary": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed",
       "stars": 4.3,
       "starsText": "★★★★☆",
-      "category": "📋 其他",
-      "categoryId": "other",
-      "link": "https://huggingface.co/papers/2608.26737",
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://huggingface.co/papers/2609.04201",
       "source": "HuggingFace Daily",
-      "date": "2026-09-01"
+      "date": "2026-09-06"
     }
   ],
   "categories": {
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
-      "count": 2,
-      "top": "Ask or Answer: A Decision Framework for Multi-Turn Health Mi"
-    },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 7,
-      "top": "Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training "
-    },
-    "other": {
-      "name": "other",
-      "icon": "📋",
-      "count": 2,
-      "top": "Generative Semantic Scene Completion"
-    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 9,
-      "top": "Language Chain in Alignment: Cross-lingual Ranking Preferenc"
+      "count": 6,
+      "top": "Google Launches Agentic Video Understanding for Gemini Flash"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
+      "count": 6,
+      "top": "Scal3R: Learning Efficient Multi-Relative Pose Query for Sca"
+    },
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
       "count": 1,
-      "top": "OpenClaw Releases OpenClaw 2.0: Guided Model Setup, 575 ms C"
+      "top": "Last Translation Benchmark"
     },
     "tutorial": {
       "name": "教程",
       "icon": "📚",
       "count": 1,
-      "top": "Does On-Policy Distillation Really Distill? From Noisy Teach"
+      "top": "RoboTok: An Internet-Scale Data Engine for Human Demonstrati"
+    },
+    "other": {
+      "name": "other",
+      "icon": "📋",
+      "count": 3,
+      "top": "A Common Measure of Communication for Speech Brain-Computer "
+    },
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 4,
+      "top": "VeriPhy: Agentic Physical Reasoning for World Model Evaluati"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Ask or Answer: A Decision Framework for 」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Google Launches Agentic Video Understand」",
   "stats": {
-    "total": 22,
+    "total": 21,
     "avgRating": 3.9,
-    "topRated": 11
+    "topRated": 5
   }
 }

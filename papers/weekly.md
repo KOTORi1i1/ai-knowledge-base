@@ -4,7 +4,7 @@ layout: page
 
 # 🔥 本周热门论文
 
-> 2026-08-25 ~ 2026-09-01 · 从 80 篇中精选 Top 20
+> 2026-08-30 ~ 2026-09-06 · 从 160 篇中精选 Top 20
 
 ---
 
@@ -12,57 +12,57 @@ layout: page
 
 ### 🧠 大语言模型
 
-- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
-- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
-- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guide...](https://arxiv.org/abs/2609.04202) — Adeela Islam
 
 ### 👁️ 计算机视觉
 
-- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
-- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
-- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [Beyond Retrieval: Progressive Latent Memory Evolution for Streaming...](https://arxiv.org/abs/2609.04131) — Hongyu Qu
 
 ### 📝 自然语言处理
 
-- ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
-- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
-- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guide...](https://arxiv.org/abs/2609.04202) — Adeela Islam
 
 ### 🎮 强化学习
 
-- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
-- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
-- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable O...](https://arxiv.org/abs/2609.04201) — Chin-Yang Lin
+- ⭐⭐⭐ [Adaptive Vision-Language Grasping via Composable Foundation Priors ...](https://arxiv.org/abs/2609.04096) — Sixu Yan
 
 ### 🔗 多模态
 
-- ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
-- ⭐⭐ [LOCI: A Locator-Critic with Refinement Loop](https://arxiv.org/abs/2608.30959) — Walid Bousselham
-- ⭐⭐ [DreamX-Creator: Democratizing Native Audio-Video Generation at 2K R...](https://arxiv.org/abs/2608.31106) — Jiashu Zhu
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [Beyond Retrieval: Progressive Latent Memory Evolution for Streaming...](https://arxiv.org/abs/2609.04131) — Hongyu Qu
 
 ### 🕸️ 图神经网络
 
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
 - ⭐⭐⭐ [MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI](https://arxiv.org/abs/2608.30975) — Athira J. Jacob
-- ⭐⭐⭐ [FaceSnap: Real-Time Personalized Lightstage Facial Performance Capture](https://arxiv.org/abs/2608.31033) — Rukhshanda Hussain
-- ⭐⭐⭐ [Universal Transformers for Circuit Computations: Perfect Length Gen...](https://arxiv.org/abs/2608.31067) — Takuya Ito
+- ⭐⭐⭐ [TAP-Path: Task-Adaptive Structural and Token Pruning for Efficient ...](https://arxiv.org/abs/2609.04071) — Mehedi Hasan
 
 ### ⚡ 高效模型
 
-- ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
-- ⭐⭐⭐ [Universal Transformers for Circuit Computations: Perfect Length Gen...](https://arxiv.org/abs/2608.31067) — Takuya Ito
-- ⭐⭐⭐ [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Onto...](https://arxiv.org/abs/2608.31137) — Hamed Babaei Giglou
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable O...](https://arxiv.org/abs/2609.04201) — Chin-Yang Lin
 
 ### 🛡️ AI安全与对齐
 
+- ⭐⭐⭐ [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guide...](https://arxiv.org/abs/2609.04202) — Adeela Islam
 - ⭐⭐⭐ [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Mult...](https://arxiv.org/abs/2608.31097) — William Solow
 - ⭐⭐⭐ [SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023) — Haozheng Yu
-- ⭐⭐ [Analytic Dynamics: Learning Physics-Grounded Representation for Fas...](https://arxiv.org/abs/2608.31025) — Jailing Lin
 
 ### 🎨 生成式AI
 
-- ⭐⭐⭐ [PaperGym: Rubric-Centered Evolution for Research-Plan Generation](https://arxiv.org/abs/2608.31119) — Yuhan Wang
-- ⭐⭐⭐ [Configurable Semantic Chunking for Biomedical Information Extractio...](https://arxiv.org/abs/2608.31139) — Riya Ahuja
-- ⭐⭐⭐ [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Onto...](https://arxiv.org/abs/2608.31137) — Hamed Babaei Giglou
+- ⭐⭐⭐ [Continuous Actions from Discrete Minds: Latent-Aligned Planning for...](https://arxiv.org/abs/2609.04070) — Ruoyu Yao
+- ⭐⭐⭐ [DSAQuant: Denoising-Stage-Aligned Quantization-Aware Training for V...](https://arxiv.org/abs/2609.04031) — Shuaiting Li
+- ⭐⭐⭐ [TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guide...](https://arxiv.org/abs/2609.04202) — Adeela Islam
 
 ---
 
@@ -70,26 +70,26 @@ layout: page
 
 | # | 领域 | 论文 | 评分 |
 |---|------|------|------|
-| 1 | 👁️ 计算机视觉 | [MR-JEPA: A General Purpose Video Foundation Model fo...](https://arxiv.org/abs/2608.30975) | ⭐⭐⭐ |
-| 2 | 🎮 强化学习 | [Cross-Regional Grapevine Cold Hardiness Prediction v...](https://arxiv.org/abs/2608.31097) | ⭐⭐⭐ |
-| 3 | 🎮 强化学习 | [PaperGym: Rubric-Centered Evolution for Research-Pla...](https://arxiv.org/abs/2608.31119) | ⭐⭐⭐ |
-| 4 | 👁️ 计算机视觉 | [FaceSnap: Real-Time Personalized Lightstage Facial P...](https://arxiv.org/abs/2608.31033) | ⭐⭐⭐ |
-| 5 | 🎮 强化学习 | [SMG: Semantic Motion Graph for Monocular Dynamic Gau...](https://arxiv.org/abs/2608.31023) | ⭐⭐⭐ |
-| 6 | 📝 自然语言处理 | [Universal Transformers for Circuit Computations: Per...](https://arxiv.org/abs/2608.31067) | ⭐⭐⭐ |
-| 7 | 📝 自然语言处理 | [Configurable Semantic Chunking for Biomedical Inform...](https://arxiv.org/abs/2608.31139) | ⭐⭐⭐ |
-| 8 | 🧠 大语言模型 | [OntoAligner-Ensemble: Voting-Based Fusion across Het...](https://arxiv.org/abs/2608.31137) | ⭐⭐⭐ |
-| 9 | 🧠 大语言模型 | [TSPFN: A Temporal Tabular Foundation Model for Physi...](https://arxiv.org/abs/2608.31013) | ⭐⭐⭐ |
-| 10 | 👁️ 计算机视觉 | [BRF-GS: Hyperspectral Bidirectional Reflectance Fact...](https://arxiv.org/abs/2608.31159) | ⭐⭐ |
-| 11 | 🧠 大语言模型 | [S3Gym: Can LLMs Turn Self-Testing and Self-Judging i...](https://arxiv.org/abs/2608.31100) | ⭐⭐ |
-| 12 | 🎮 强化学习 | [Augmenting Interviewer Judgments of Patient Experien...](https://arxiv.org/abs/2608.31007) | ⭐⭐ |
-| 13 | 👁️ 计算机视觉 | [LOCI: A Locator-Critic with Refinement Loop](https://arxiv.org/abs/2608.30959) | ⭐⭐ |
-| 14 | 👁️ 计算机视觉 | [DreamX-Creator: Democratizing Native Audio-Video Gen...](https://arxiv.org/abs/2608.31106) | ⭐⭐ |
-| 15 | 👁️ 计算机视觉 | [Analytic Dynamics: Learning Physics-Grounded Represe...](https://arxiv.org/abs/2608.31025) | ⭐⭐ |
-| 16 | 🧠 大语言模型 | [A Universal Context-Reuse Layer for Cross-Model KV S...](https://arxiv.org/abs/2608.30963) | ⭐⭐ |
-| 17 | 🎮 强化学习 | [Aspire: Can Models Self-Evolve from Vague Goals?](https://arxiv.org/abs/2608.31111) | ⭐⭐ |
-| 18 | 👁️ 计算机视觉 | [LISynSeg: Data-Centric Label-to-Image Synthesis for ...](https://arxiv.org/abs/2608.31073) | ⭐⭐ |
-| 19 | 👁️ 计算机视觉 | [Segmentation of Bovid Dentition Under Imperfect Anno...](https://arxiv.org/abs/2608.31052) | ⭐⭐ |
-| 20 | 👁️ 计算机视觉 | [CoJEPA: Combining Contrastive Learning and JEPA for ...](https://arxiv.org/abs/2608.30974) | ⭐⭐ |
+| 1 | 🎨 生成式AI | [Continuous Actions from Discrete Minds: Latent-Align...](https://arxiv.org/abs/2609.04070) | ⭐⭐⭐ |
+| 2 | ⚡ 高效模型 | [DSAQuant: Denoising-Stage-Aligned Quantization-Aware...](https://arxiv.org/abs/2609.04031) | ⭐⭐⭐ |
+| 3 | 🎨 生成式AI | [TokenMatch: 3D Mesh Correspondence Transformer with ...](https://arxiv.org/abs/2609.04202) | ⭐⭐⭐ |
+| 4 | 🔗 多模态 | [Beyond Retrieval: Progressive Latent Memory Evolutio...](https://arxiv.org/abs/2609.04131) | ⭐⭐⭐ |
+| 5 | 👁️ 计算机视觉 | [Scal3R: Learning Efficient Multi-Relative Pose Query...](https://arxiv.org/abs/2609.04201) | ⭐⭐⭐ |
+| 6 | 📝 自然语言处理 | [Adaptive Vision-Language Grasping via Composable Fou...](https://arxiv.org/abs/2609.04096) | ⭐⭐⭐ |
+| 7 | 👁️ 计算机视觉 | [MR-JEPA: A General Purpose Video Foundation Model fo...](https://arxiv.org/abs/2608.30975) | ⭐⭐⭐ |
+| 8 | 👁️ 计算机视觉 | [CORE: Improving Compositional Reasoning in MLLM Embe...](https://arxiv.org/abs/2609.04083) | ⭐⭐⭐ |
+| 9 | 🎮 强化学习 | [Cross-Regional Grapevine Cold Hardiness Prediction v...](https://arxiv.org/abs/2608.31097) | ⭐⭐⭐ |
+| 10 | ⚡ 高效模型 | [TAP-Path: Task-Adaptive Structural and Token Pruning...](https://arxiv.org/abs/2609.04071) | ⭐⭐⭐ |
+| 11 | 🧠 大语言模型 | [Unlocking Lossless Speedups in LLMs via Discrete Dif...](https://arxiv.org/abs/2609.04010) | ⭐⭐⭐ |
+| 12 | 🎨 生成式AI | [Alignment-Free Text-Audiobox for Voice Dubbing and F...](https://arxiv.org/abs/2609.03992) | ⭐⭐⭐ |
+| 13 | 🎮 强化学习 | [PaperGym: Rubric-Centered Evolution for Research-Pla...](https://arxiv.org/abs/2608.31119) | ⭐⭐⭐ |
+| 14 | 👁️ 计算机视觉 | [FaceSnap: Real-Time Personalized Lightstage Facial P...](https://arxiv.org/abs/2608.31033) | ⭐⭐⭐ |
+| 15 | 🎮 强化学习 | [SMG: Semantic Motion Graph for Monocular Dynamic Gau...](https://arxiv.org/abs/2608.31023) | ⭐⭐⭐ |
+| 16 | 📝 自然语言处理 | [Universal Transformers for Circuit Computations: Per...](https://arxiv.org/abs/2608.31067) | ⭐⭐⭐ |
+| 17 | 🧠 大语言模型 | [Rethinking On-Policy Distillation of Large Language ...](https://arxiv.org/abs/2609.04172) | ⭐⭐⭐ |
+| 18 | 👁️ 计算机视觉 | [BooM-VVT: Boosting Mask-Free Video Virtual Try-On wi...](https://arxiv.org/abs/2609.04120) | ⭐⭐⭐ |
+| 19 | 📝 自然语言处理 | [Configurable Semantic Chunking for Biomedical Inform...](https://arxiv.org/abs/2608.31139) | ⭐⭐⭐ |
+| 20 | 🧠 大语言模型 | [OntoAligner-Ensemble: Voting-Based Fusion across Het...](https://arxiv.org/abs/2608.31137) | ⭐⭐⭐ |
 
 ---
 
