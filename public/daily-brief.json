@@ -1,95 +1,95 @@
 {
-  "date": "2026-09-06",
-  "generated": "2026-09-06T02:23:58.302Z",
+  "date": "2026-09-16",
+  "generated": "2026-09-16T02:50:25.223Z",
   "headline": {
-    "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-    "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google L",
+    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+    "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving sc",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-    "source": "MarkTechPost",
-    "category": "模型"
+    "link": "https://huggingface.co/papers/2609.17523",
+    "source": "HuggingFace Daily",
+    "category": "Agent"
   },
-  "trend": "🔥 模型方向最活跃（6 条），「Agent」是今日热词（4 次）",
+  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（8 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Google Launches Agentic Video Understanding for Gemini Flash Models, Cutting Video Tokens by Up to 88%",
-      "summary": "Gemini now navigates video instead of ingesting it at 1 FPS, loading only the segments a prompt needs. The post Google L",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/",
-      "source": "MarkTechPost",
-      "date": "2026-09-05"
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving sc",
+      "stars": 4.3,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2609.17523",
+      "source": "HuggingFace Daily",
+      "date": "2026-09-16"
     },
     {
       "rank": 2,
-      "title": "Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
-      "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, ",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
-      "source": "MarkTechPost",
-      "date": "2026-09-04"
-    },
-    {
-      "rank": 3,
-      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
-      "summary": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed",
-      "stars": 4.3,
+      "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
+      "summary": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations",
+      "stars": 4,
       "starsText": "★★★★☆",
       "category": "工具",
       "categoryId": "tool",
-      "link": "https://huggingface.co/papers/2609.04201",
-      "source": "HuggingFace Daily",
-      "date": "2026-09-06"
+      "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+      "source": "MarkTechPost",
+      "date": "2026-09-15"
+    },
+    {
+      "rank": 3,
+      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
+      "summary": "Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to dat",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+      "source": "MarkTechPost",
+      "date": "2026-09-15"
     }
   ],
   "categories": {
-    "model": {
-      "name": "模型",
-      "icon": "🔥",
-      "count": 6,
-      "top": "Google Launches Agentic Video Understanding for Gemini Flash"
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 5,
+      "top": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for In"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 6,
-      "top": "Scal3R: Learning Efficient Multi-Relative Pose Query for Sca"
+      "count": 3,
+      "top": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Pla"
+    },
+    "model": {
+      "name": "模型",
+      "icon": "🔥",
+      "count": 10,
+      "top": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinki"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
-      "count": 1,
-      "top": "Last Translation Benchmark"
-    },
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 1,
-      "top": "RoboTok: An Internet-Scale Data Engine for Human Demonstrati"
+      "count": 2,
+      "top": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI "
     },
     "other": {
       "name": "other",
       "icon": "📋",
-      "count": 3,
-      "top": "A Common Measure of Communication for Speech Brain-Computer "
+      "count": 2,
+      "top": "Lightning Weave: Improving the Accuracy-Efficiency Frontier "
     },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 4,
-      "top": "VeriPhy: Agentic Physical Reasoning for World Model Evaluati"
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 2,
+      "top": "Reward AI Releases OM-1: A Robot Policy Trained on Human Dem"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Google Launches Agentic Video Understand」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「ScienceBuddy: Recursive-in-Recursive Sel」",
   "stats": {
-    "total": 21,
+    "total": 24,
     "avgRating": 3.9,
-    "topRated": 5
+    "topRated": 8
   }
 }

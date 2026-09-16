@@ -7,30 +7,30 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-09-06
+## 📅 最近更新: 2026-09-16
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [RoboTok: An Internet-Scale Data Engine for Human Demonstration Retr...](https://huggingface.co/papers/2609.03199) | HuggingFace Daily | 2026-09-06 |
-| 2 | [A Common Measure of Communication for Speech Brain-Computer Interfaces](https://huggingface.co/papers/2609.02887) | HuggingFace Daily | 2026-09-06 |
-| 3 | [VeriPhy: Agentic Physical Reasoning for World Model Evaluation and ...](https://huggingface.co/papers/2609.03153) | HuggingFace Daily | 2026-09-06 |
-| 4 | [Locked at the Entrance, Open Inside: Where RLVR Narrows the Solutio...](https://huggingface.co/papers/2608.29188) | HuggingFace Daily | 2026-09-06 |
-| 5 | [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long...](https://huggingface.co/papers/2609.04094) | HuggingFace Daily | 2026-09-06 |
-| 6 | [Last Translation Benchmark](https://huggingface.co/papers/2609.04173) | HuggingFace Daily | 2026-09-06 |
-| 7 | [QCell: Recombining and Aligning Cell Queries for Overlapping Instan...](https://huggingface.co/papers/2608.29253) | HuggingFace Daily | 2026-09-06 |
-| 8 | [Select, Compress, Reinvest: A Controlled Study of Visual-Token Allo...](https://huggingface.co/papers/2609.03820) | HuggingFace Daily | 2026-09-06 |
-| 9 | [Using Grounded Theory for Agent Behavior Analysis at Scale](https://huggingface.co/papers/2608.30391) | HuggingFace Daily | 2026-09-06 |
-| 10 | [Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable O...](https://huggingface.co/papers/2609.04201) | HuggingFace Daily | 2026-09-06 |
-| 11 | [GitHub Introduces Project HydraFusion: Runtime Multi-Model Orchestr...](https://www.marktechpost.com/2026/09/05/github-introduces-project-hydrafusion-runtime-multi-model-orchestration-that-builds-a-workflow-per-coding-task-in-copilot-cli/) | MarkTechPost | 2026-09-05 |
-| 12 | [Nous Research Adds One-Click Local Model Setup to Hermes Desktop](https://www.marktechpost.com/2026/09/05/nous-research-hermes-desktop-one-click-local-model-setup/) | MarkTechPost | 2026-09-05 |
-| 13 | [Adaption Labs Introduces &#8216;Invent a Dataset&#8217;: Training D...](https://www.marktechpost.com/2026/09/04/datasets-invent-api-training-data-without-labeling-adaptive-data-autoscientist/) | MarkTechPost | 2026-09-05 |
-| 14 | [Google Launches Agentic Video Understanding for Gemini Flash Models...](https://www.marktechpost.com/2026/09/04/google-agentic-video-understanding-gemini-flash-models/) | MarkTechPost | 2026-09-05 |
-| 15 | [NVIDIA Releases Personal AI Router (PAIR): An Open Source Virtual I...](https://www.marktechpost.com/2026/09/04/nvidia-releases-personal-ai-router-pair-an-open-source-virtual-inference-router-that-distributes-local-ai-requests-across-rtx-dgx-spark-and-mac-nodes/) | MarkTechPost | 2026-09-05 |
-| 16 | [Google DeepMind&#8217;s WeatherNext 3 Trains on Weather Station Obs...](https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/) | MarkTechPost | 2026-09-04 |
-| 17 | [OpenAI Releases GPT-6 Astra: A 1.05M-Context Computer-Use Model Gat...](https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold/) | MarkTechPost | 2026-09-03 |
-| 18 | [Anthropic Released Claude Commerce Agents: An Apache-2.0 Blueprint ...](https://www.marktechpost.com/2026/09/03/anthropic-released-claude-commerce-agents-an-apache-2-0-blueprint-for-shopping-and-merchant-agents-across-retail-travel-telecom-and-entertainment/) | MarkTechPost | 2026-09-03 |
-| 19 | [Meta AI Released Muse Spark 1.3: An Agentic Coding Model That Uses ...](https://www.marktechpost.com/2026/09/03/meta-ai-released-muse-spark-1-3-an-agentic-coding-model-that-uses-20-fewer-tool-calls-and-25-fewer-tokens-than-muse-spark-1-2/) | MarkTechPost | 2026-09-03 |
-| 20 | [Perplexity Open Sources Lily: A Rust + Metal Inference Engine for Q...](https://www.marktechpost.com/2026/09/02/perplexity-open-sources-lily-a-rust-metal-inference-engine-for-qwen3-6-35b-a3b-on-apple-silicon/) | MarkTechPost | 2026-09-03 |
+| 1 | [Mind2Dialogue: Training Human-Aware Language Models by Simulating U...](https://huggingface.co/papers/2609.15972) | HuggingFace Daily | 2026-09-16 |
+| 2 | [Disentangling Representation Evolution in Transformers through Dire...](https://huggingface.co/papers/2609.15975) | HuggingFace Daily | 2026-09-16 |
+| 3 | [AI for Games in the Foundation Model Era](https://huggingface.co/papers/2609.16679) | HuggingFace Daily | 2026-09-16 |
+| 4 | [The Router Within: Eliciting Native Skill Routing from a Frozen LLM](https://huggingface.co/papers/2609.15982) | HuggingFace Daily | 2026-09-16 |
+| 5 | [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interacti...](https://huggingface.co/papers/2609.17523) | HuggingFace Daily | 2026-09-16 |
+| 6 | [Continual Learning Mechanisms Compose for Long-Horizon Memorization](https://huggingface.co/papers/2609.06986) | HuggingFace Daily | 2026-09-16 |
+| 7 | [Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reas...](https://huggingface.co/papers/2609.14708) | HuggingFace Daily | 2026-09-16 |
+| 8 | [Learning to Solve Hard Problems in RL for LLMs by Never Giving Up](https://huggingface.co/papers/2609.13443) | HuggingFace Daily | 2026-09-16 |
+| 9 | [Root-Cause Attribution Is a Search Problem: Continual Search for Lo...](https://huggingface.co/papers/2609.13463) | HuggingFace Daily | 2026-09-16 |
+| 10 | [E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial...](https://huggingface.co/papers/2609.14302) | HuggingFace Daily | 2026-09-16 |
+| 11 | [Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse...](https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/) | MarkTechPost | 2026-09-15 |
+| 12 | [Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for ...](https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/) | MarkTechPost | 2026-09-15 |
+| 13 | [Meta Introduces ZGateway: A Stateless Proxy Tier That Unifies Zippy...](https://www.marktechpost.com/2026/09/14/meta-introduces-zgateway-a-stateless-proxy-tier-that-unifies-zippydb-traffic-and-handles-over-1-billion-operations-per-second/) | MarkTechPost | 2026-09-15 |
+| 14 | [Agent-net Open Sources Webagent: A Go Harness That Turns Any Websit...](https://www.marktechpost.com/2026/09/14/agent-net-open-sources-webagent-a-go-harness-that-turns-any-website-into-a-guarded-ai-agent/) | MarkTechPost | 2026-09-15 |
+| 15 | [Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop,...](https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/) | MarkTechPost | 2026-09-14 |
+| 16 | [Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrat...](https://www.marktechpost.com/2026/09/14/reward-ai-releases-om-1-a-robot-policy-trained-on-human-demonstrations-only-with-no-teleoperation-or-on-robot-data/) | MarkTechPost | 2026-09-14 |
+| 17 | [Sakana AI Researchers Introduce PC-ALM, a Layer-Local Alternative t...](https://www.marktechpost.com/2026/09/14/sakana-ai-researchers-introduce-pc-alm-a-layer-local-alternative-to-backpropagation-that-trains-1000-layer-networks/) | MarkTechPost | 2026-09-14 |
+| 18 | [NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI Trainin...](https://www.marktechpost.com/2026/09/14/nvidia-open-sources-osmo-one-yaml-orchestrates-physical-ai-training-simulation-and-robot-testing/) | MarkTechPost | 2026-09-14 |
+| 19 | [Anthropic&#8217;s 3-Step &#8216;Pace the Frontier&#8217; Plan Wins ...](https://www.marktechpost.com/2026/09/13/anthropics-3-step-pace-the-frontier-plan-wins-openai-xai-and-microsoft-support-is-it-too-late-to-slow-ai-down/) | MarkTechPost | 2026-09-14 |
+| 20 | [Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View S...](https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/) | MarkTechPost | 2026-09-13 |
 | 21 | [Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It](https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/) | Machine Learning Mastery | 2026-09-03 |
 | 22 | [AI Agent Memory Design: What Works and What Doesn’t](https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/) | Machine Learning Mastery | 2026-09-02 |
 | 23 | [3 Ways to Enhance Your AI Model&#8217;s Interpretability](https://machinelearningmastery.com/3-ways-to-enhance-your-ai-models-interpretability/) | Machine Learning Mastery | 2026-09-01 |
@@ -56,6 +56,10 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-09-16](/news/2026-09-16)
+- [📰 2026-09-15](/news/2026-09-15)
+- [📰 2026-09-14](/news/2026-09-14)
+- [📰 2026-09-13](/news/2026-09-13)
 - [📰 2026-09-06](/news/2026-09-06)
 - [📰 2026-09-05](/news/2026-09-05)
 - [📰 2026-09-04](/news/2026-09-04)
@@ -82,7 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-08-13](/news/2026-08-13)
 - [📰 2026-08-12](/news/2026-08-12)
 - [📰 2026-08-11](/news/2026-08-11)
-- [📰 2026-08-10](/news/2026-08-10)
-- [📰 2026-08-09](/news/2026-08-09)
-- [📰 2026-08-05](/news/2026-08-05)
-- [📰 2026-08-04](/news/2026-08-04)
