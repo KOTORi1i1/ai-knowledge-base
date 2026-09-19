@@ -1,95 +1,83 @@
 {
-  "date": "2026-09-16",
-  "generated": "2026-09-16T02:50:25.223Z",
+  "date": "2026-09-19",
+  "generated": "2026-09-19T02:39:54.846Z",
   "headline": {
-    "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-    "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving sc",
+    "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+    "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. T",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://huggingface.co/papers/2609.17523",
-    "source": "HuggingFace Daily",
-    "category": "Agent"
+    "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+    "source": "MarkTechPost",
+    "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（8 次）",
+  "trend": "🔥 模型方向最活跃（14 条），「Agent」是今日热词（6 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving sc",
-      "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://huggingface.co/papers/2609.17523",
-      "source": "HuggingFace Daily",
-      "date": "2026-09-16"
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. T",
+      "stars": 4.8,
+      "starsText": "★★★★★",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+      "source": "MarkTechPost",
+      "date": "2026-09-18"
     },
     {
       "rank": 2,
-      "title": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Plan Reuse with cuDNN Frontend",
-      "summary": "Learn how to leverage NVIDIA’s cuDNN Frontend Graph API to build custom kernel fusions, autotuning engine configurations",
-      "stars": 4,
-      "starsText": "★★★★☆",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/09/15/inside-nvidias-cudnn-graph-api-fusion-autotuning-and-plan-reuse-with-cudnn-frontend/",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
       "source": "MarkTechPost",
-      "date": "2026-09-15"
+      "date": "2026-09-18"
     },
     {
       "rank": 3,
-      "title": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinking for Production Grade Voice Agents",
-      "summary": "Google has released Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, its most advanced live dialogue models to dat",
-      "stars": 4,
-      "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/15/google-releases-gemini-3-8-live-and-3-8-live-extended-thinking-for-production-grade-voice-agents/",
+      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
+      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. ",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "工具",
+      "categoryId": "tool",
+      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
       "source": "MarkTechPost",
-      "date": "2026-09-15"
+      "date": "2026-09-17"
     }
   ],
   "categories": {
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 5,
-      "top": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for In"
+    "model": {
+      "name": "模型",
+      "icon": "🔥",
+      "count": 14,
+      "top": "Best Open-Source Agent Harnesses for Local LLMs in 2026"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 3,
-      "top": "Inside NVIDIA’s cuDNN Graph API: Fusion, Autotuning, and Pla"
+      "count": 4,
+      "top": "OpenAI Releases a Model Misalignment Disclosure Framework Wi"
     },
-    "model": {
-      "name": "模型",
-      "icon": "🔥",
-      "count": 10,
-      "top": "Google Releases Gemini 3.8 Live and 3.8 Live Extended Thinki"
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 5,
+      "top": "Don't Mask the Environment: Observation Supervision Changes "
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
       "count": 2,
-      "top": "NVIDIA Open-Sources OSMO: One YAML Orchestrates Physical AI "
-    },
-    "other": {
-      "name": "other",
-      "icon": "📋",
-      "count": 2,
-      "top": "Lightning Weave: Improving the Accuracy-Efficiency Frontier "
-    },
-    "tutorial": {
-      "name": "教程",
-      "icon": "📚",
-      "count": 2,
-      "top": "Reward AI Releases OM-1: A Robot Policy Trained on Human Dem"
+      "top": "WeVisDoc: From Coverage to Capability for Robust End-to-End "
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「ScienceBuddy: Recursive-in-Recursive Sel」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Best Open-Source Agent Harnesses for Loc」",
   "stats": {
-    "total": 24,
+    "total": 25,
     "avgRating": 3.9,
-    "topRated": 8
+    "topRated": 9
   }
 }
