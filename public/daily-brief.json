@@ -1,83 +1,89 @@
 {
-  "date": "2026-09-19",
-  "generated": "2026-09-19T02:39:54.846Z",
+  "date": "2026-09-21",
+  "generated": "2026-09-21T02:49:17.553Z",
   "headline": {
-    "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-    "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. T",
+    "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+    "summary": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user&#8217;s computer. The agent",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+    "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
     "source": "MarkTechPost",
-    "category": "模型"
+    "category": "Agent"
   },
-  "trend": "🔥 模型方向最活跃（14 条），「Agent」是今日热词（6 次）",
+  "trend": "🔥 模型方向最活跃（12 条），「Agent」是今日热词（6 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "summary": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. T",
-      "stars": 4.8,
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "summary": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user&#8217;s computer. The agent",
+      "stars": 4.5,
       "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
       "source": "MarkTechPost",
-      "date": "2026-09-18"
+      "date": "2026-09-19"
     },
     {
       "rank": 2,
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "summary": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens",
-      "stars": 4.5,
-      "starsText": "★★★★★",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "summary": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbo",
+      "stars": 4.3,
+      "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
+      "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
       "source": "MarkTechPost",
-      "date": "2026-09-18"
+      "date": "2026-09-19"
     },
     {
       "rank": 3,
-      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
-      "summary": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. ",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
-      "source": "MarkTechPost",
-      "date": "2026-09-17"
+      "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+      "summary": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies lo",
+      "stars": 4.1,
+      "starsText": "★★★★☆",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://huggingface.co/papers/2609.20715",
+      "source": "HuggingFace Daily",
+      "date": "2026-09-21"
     }
   ],
   "categories": {
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 4,
+      "top": "Meta Launches Muse for Mac: A Personal AI Agent That Works A"
+    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 14,
-      "top": "Best Open-Source Agent Harnesses for Local LLMs in 2026"
+      "count": 12,
+      "top": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Sou"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
-      "count": 4,
-      "top": "OpenAI Releases a Model Misalignment Disclosure Framework Wi"
+      "count": 6,
+      "top": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Ref"
     },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 5,
-      "top": "Don't Mask the Environment: Observation Supervision Changes "
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 1,
+      "top": "Learning Foresight without Explicit Trajectories for 3D Diff"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
-      "count": 2,
-      "top": "WeVisDoc: From Coverage to Capability for Robust End-to-End "
+      "count": 1,
+      "top": "Flet 1.0 Released: Build Production Web, Desktop and Mobile "
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Best Open-Source Agent Harnesses for Loc」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Meta Launches Muse for Mac: A Personal A」",
   "stats": {
-    "total": 25,
+    "total": 24,
     "avgRating": 3.9,
-    "topRated": 9
+    "topRated": 8
   }
 }
