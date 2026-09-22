@@ -12,62 +12,62 @@ layout: page
 
 | S (必读) | A (推荐) | B (可读) |
 |----------|----------|----------|
-| 0 篇 | 0 篇 | 8 篇 |
+| 0 篇 | 0 篇 | 16 篇 |
 
 ## 📋 论文列表
 
 | # | 论文 | 作者 | 日期 | 评分 |
 |---|------|------|------|------|
-| 1 | [MintAct: A Unified Visual Agent for Digital Environm...](https://arxiv.org/abs/2609.22083) | Mingfei Gao et al. | 2026-09-18 | ⭐⭐⭐ |
-| 2 | [BrainWideBench: Benchmarking large-scale pretraining...](https://arxiv.org/abs/2609.22064) | Alexandre Andre et al. | 2026-09-18 | ⭐⭐⭐ |
-| 3 | [PRIME: Perception Feedback with Situational Memory E...](https://arxiv.org/abs/2609.22040) | Erik Deinzer et al. | 2026-09-18 | ⭐⭐⭐ |
-| 4 | [Object Detection Benchmarks are Incomplete: The Role...](https://arxiv.org/abs/2609.21822) | Sarina Penquitt et al. | 2026-09-18 | ⭐⭐⭐ |
-| 5 | [AutoViewMem: Self-Configuring Orthogonal Views for C...](https://arxiv.org/abs/2609.21940) | Zijie Cao et al. | 2026-09-18 | ⭐⭐ |
-| 6 | [Joint Remaining Useful Life Prediction and Capacity ...](https://arxiv.org/abs/2609.21932) | Khoa Tran et al. | 2026-09-18 | ⭐⭐ |
-| 7 | [Traffic Sign Recognition for Autonomous Driving Usin...](https://arxiv.org/abs/2609.22060) | Arefeh Rezaei | 2026-09-18 | ⭐⭐ |
-| 8 | [TrialAtlas: Multi-Agent Research Organization for Cl...](https://arxiv.org/abs/2609.21859) | Jiacheng Lin et al. | 2026-09-18 | ⭐⭐ |
-| 9 | [DiaVLo: Diagnosing Behaviours of Vision-Language Models](https://arxiv.org/abs/2609.22008) | Lorenzo Corti et al. | 2026-09-18 | ⭐⭐ |
-| 10 | [Benchmarking the Explanatory Quality of Open-Weight ...](https://arxiv.org/abs/2609.21879) | Laurent Colbois et al. | 2026-09-18 | ⭐⭐ |
-| 11 | [PointLAM: Local Attentive Mamba for Efficient Point-...](https://arxiv.org/abs/2609.21780) | Xuanming Shang et al. | 2026-09-18 | ⭐⭐ |
-| 12 | [OmniVBench: A Benchmark and Large-Scale Dataset for ...](https://arxiv.org/abs/2609.22069) | Wenxue Li et al. | 2026-09-18 | ⭐⭐ |
-| 13 | [The Role of Radiometric Features in Cross-Site Leaf-...](https://arxiv.org/abs/2609.21903) | Roman Kaharlytskyi et al. | 2026-09-18 | ⭐⭐ |
-| 14 | [Classification-oriented adaptive sensing via posteri...](https://arxiv.org/abs/2609.21812) | Andriy Enttsel et al. | 2026-09-18 | ⭐⭐ |
-| 15 | [A Principled Approach to Unsupervised Anomaly Detection](https://arxiv.org/abs/2609.21800) | James Myles et al. | 2026-09-18 | ⭐⭐ |
-| 16 | [Info3R: Information-Adaptive Test-Time Training for ...](https://arxiv.org/abs/2609.21938) | Sunghyun Baek et al. | 2026-09-18 | ⭐⭐ |
-| 17 | [GALA: Geometry-Aware Latent Action Modeling for Visi...](https://arxiv.org/abs/2609.21948) | Yichen Liu et al. | 2026-09-18 | ⭐⭐ |
-| 18 | [RecreationWorld: Scalable and Verifiable Environment...](https://arxiv.org/abs/2609.22000) | Shuai Bai et al. | 2026-09-18 | ⭐⭐ |
-| 19 | [Adaptive Uncertainty-Aware Modeling and Stochastic R...](https://arxiv.org/abs/2609.21821) | Elham Estiri et al. | 2026-09-18 | ⭐⭐ |
-| 20 | [$λ$-Controlled GRPO: Turning Flow-Matching Ratio Ins...](https://arxiv.org/abs/2609.22041) | Yufeng Wang et al. | 2026-09-18 | ⭐⭐ |
-| 21 | [Catena: A Comprehensive Software Suite for Large-Sca...](https://arxiv.org/abs/2609.21887) | Samia Mohinta et al. | 2026-09-18 | ⭐⭐ |
-| 22 | [MIST: Multimodal Survival Prediction with Genomic-Gu...](https://arxiv.org/abs/2609.21811) | Muhammet Sami Yavuz et al. | 2026-09-18 | ⭐⭐ |
-| 23 | [Matrix AdaGrad: Row-wise and Column-wise Adaptive Su...](https://arxiv.org/abs/2609.21815) | Wenpeng Zhang et al. | 2026-09-18 | ⭐⭐ |
-| 24 | [VideoReloc: Long-Term Indoor Video Relocalization ag...](https://arxiv.org/abs/2609.21804) | Qianru Li et al. | 2026-09-18 | ⭐⭐ |
-| 25 | [Cross-sector generalization of accident-process role...](https://arxiv.org/abs/2609.22081) | Aho Yapi et al. | 2026-09-18 | ⭐ |
-| 26 | [Learning Cardiac Features: ECG Biometrics Across Tim...](https://arxiv.org/abs/2609.21962) | Luca Thiebaud et al. | 2026-09-18 | ⭐ |
-| 27 | [Geometric Mean Pooling for Equal-Weight Multiplicati...](https://arxiv.org/abs/2609.21876) | Ang-Kun Wu et al. | 2026-09-18 | ⭐ |
-| 28 | [When Should a Failing Robot Ask? Initiating Correcti...](https://arxiv.org/abs/2609.21942) | Eshika Pathak et al. | 2026-09-18 | ⭐ |
-| 29 | [Schedule optimization for tau-leaping in masked disc...](https://arxiv.org/abs/2609.21960) | Cecilia Secchi et al. | 2026-09-18 | ⭐ |
-| 30 | [An Agentic Just-in-Time Adaptive Intervention System...](https://arxiv.org/abs/2609.21805) | Nick Rezaee et al. | 2026-09-18 | ⭐ |
-| 31 | [Kinks vs. Smoothness: Identifiability of Real Analyt...](https://arxiv.org/abs/2609.21926) | Isaac Manring et al. | 2026-09-18 | ⭐ |
-| 32 | [Intervention Granularity Matters: Coherent Treatment...](https://arxiv.org/abs/2609.21906) | Fangzhou Wang et al. | 2026-09-18 | ⭐ |
-| 33 | [The Weight Is Over - Interactive Diffusion on Consum...](https://arxiv.org/abs/2609.21849) | Frieder Ganz et al. | 2026-09-18 | ⭐ |
-| 34 | [JEPA-Anything: Learning Predictive Models across Dif...](https://arxiv.org/abs/2609.20800) | Taoyong Cui et al. | 2026-09-17 | ⭐⭐⭐ |
-| 35 | [Agile-WAM: An Agile Tactile World Action Model for C...](https://arxiv.org/abs/2609.20761) | Hanchu Zhou et al. | 2026-09-17 | ⭐⭐⭐ |
-| 36 | [FunArt: Decoding Functional Structure and Articulati...](https://arxiv.org/abs/2609.20673) | Dennis Rotondi et al. | 2026-09-17 | ⭐⭐⭐ |
-| 37 | [DocAttriBench: Benchmarking Answer Grounding in Docu...](https://arxiv.org/abs/2609.20574) | Luca De Grandis et al. | 2026-09-17 | ⭐⭐⭐ |
-| 38 | [FAMOS: Feed-Forward 3D Articulation Modeling from Sp...](https://arxiv.org/abs/2609.20817) | Kevin Qu et al. | 2026-09-17 | ⭐⭐ |
-| 39 | [SplashSplat: Reconstructing Splashing Liquids from R...](https://arxiv.org/abs/2609.20818) | Peiyu Liu et al. | 2026-09-17 | ⭐⭐ |
-| 40 | [CrystalMO-TuRBO: Multi-Objective Trust-Region Bayesi...](https://arxiv.org/abs/2609.20592) | Joseph Agada et al. | 2026-09-17 | ⭐⭐ |
-| 41 | [Refinement Is Inherently Editable: Training-Free Pro...](https://arxiv.org/abs/2609.20633) | Yulong Chen et al. | 2026-09-17 | ⭐⭐ |
-| 42 | [Paint-Anything: Unified Any-Color Control for Image ...](https://arxiv.org/abs/2609.20816) | Ji Xie et al. | 2026-09-17 | ⭐⭐ |
-| 43 | [Video DeltaNet: A Video-Native Hybrid Attention for ...](https://arxiv.org/abs/2609.20744) | Haocheng Xi et al. | 2026-09-17 | ⭐⭐ |
-| 44 | [Earth Surface Immune System for Rapid Monitoring of ...](https://arxiv.org/abs/2609.20662) | Jingtao Li et al. | 2026-09-17 | ⭐⭐ |
-| 45 | [PhGS: Post-Hoc Pruning and Refinement of Single-View...](https://arxiv.org/abs/2609.20623) | Rinto Yagawa et al. | 2026-09-17 | ⭐⭐ |
-| 46 | [RawSLAM: Online HDR Gaussian SLAM from Linear Radiance](https://arxiv.org/abs/2609.20589) | Marina Orozco González et al. | 2026-09-17 | ⭐⭐ |
-| 47 | [TetrisCNN for interpretable detection of phases of m...](https://arxiv.org/abs/2609.20693) | Kacper Cybiński et al. | 2026-09-17 | ⭐⭐ |
-| 48 | [DexTouch-WM: Learning Action-Conditioned Tactile Wor...](https://arxiv.org/abs/2609.20649) | Yan Qin et al. | 2026-09-17 | ⭐⭐ |
-| 49 | [INSPECT: Learning Robot View Selection from Assistan...](https://arxiv.org/abs/2609.20615) | Di Wen et al. | 2026-09-17 | ⭐⭐ |
-| 50 | [PROVIA: Procedure State Tracking for Online Mistake ...](https://arxiv.org/abs/2609.20638) | Di Wen et al. | 2026-09-17 | ⭐⭐ |
+| 1 | [ARM: Attention with Routed-Memory for Learnable Spar...](https://arxiv.org/abs/2609.24417) | Qiuhao Zeng et al. | 2026-09-21 | ⭐⭐⭐ |
+| 2 | [DeCo: Efficient Decouple-to-Couple Learning for Mult...](https://arxiv.org/abs/2609.24409) | Xiaoqiang Lu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 3 | [URA-NER: A Unified Retrieval-Augmented Framework wit...](https://arxiv.org/abs/2609.24372) | Jingyu Wang et al. | 2026-09-21 | ⭐⭐⭐ |
+| 4 | [LiAuto-MindViT: A Hybrid Vision Backbone with Adapti...](https://arxiv.org/abs/2609.24337) | Lifu Mu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 5 | [CMAMBADEPTH: Self-supervised Monocular Depth Estimat...](https://arxiv.org/abs/2609.24494) | Xuezhi Xiang et al. | 2026-09-21 | ⭐⭐⭐ |
+| 6 | [0.5\%&gt;100\%: Bidirectional Reciprocal Learning fo...](https://arxiv.org/abs/2609.24510) | Xiaoqiang Lu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 7 | [MUSE: Dependency-Aware Adaptation of a Frozen Vision...](https://arxiv.org/abs/2609.24441) | Xinying Cai et al. | 2026-09-21 | ⭐⭐⭐ |
+| 8 | [TReViS: Temporal Repetition Structure Aware Video Sy...](https://arxiv.org/abs/2609.24367) | Fanqi Yu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 9 | [Dynamic Thermal Gaussians: Multimodal 4D Gaussian Sp...](https://arxiv.org/abs/2609.24531) | Rongfeng Lu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 10 | [VPRune: Efficient Training-free Pre-LLM Visual Token...](https://arxiv.org/abs/2609.24485) | Guangchuan Lv et al. | 2026-09-21 | ⭐⭐⭐ |
+| 11 | [LIBERO-VPro: Benchmarking Closed-Loop Visual Robustn...](https://arxiv.org/abs/2609.24350) | Huiqiong Li et al. | 2026-09-21 | ⭐⭐⭐ |
+| 12 | [Preoperative Prediction of Microvascular Invasion in...](https://arxiv.org/abs/2609.24524) | Jun Cheng et al. | 2026-09-21 | ⭐⭐⭐ |
+| 13 | [STA-TFM: Spatio-Temporal Aggregation Across Views Tr...](https://arxiv.org/abs/2609.24482) | Mena Kamel et al. | 2026-09-21 | ⭐⭐ |
+| 14 | [Predicting Postprandial Glycemic Response from Meal ...](https://arxiv.org/abs/2609.24453) | Varvara Kondratyeva et al. | 2026-09-21 | ⭐⭐ |
+| 15 | [Tactile-JEPA: Topology-Aware Self-Supervised Represe...](https://arxiv.org/abs/2609.24385) | Elizaveta Kovtun et al. | 2026-09-21 | ⭐⭐ |
+| 16 | [VLM-in-Sandbox: Visual Workspaces for Agentic Visual...](https://arxiv.org/abs/2609.24362) | Hexiong Yang et al. | 2026-09-21 | ⭐⭐ |
+| 17 | [AlignMorph: Tuning-Free Diffusion Image Morphing via...](https://arxiv.org/abs/2609.24330) | Wuyi Liu et al. | 2026-09-21 | ⭐⭐ |
+| 18 | [Brain-Token Learning: Microstate-Based Tokenization ...](https://arxiv.org/abs/2609.24324) | Weishan Ye et al. | 2026-09-21 | ⭐⭐ |
+| 19 | [MIGA:Shared-Geometry Gaussian Representation with Im...](https://arxiv.org/abs/2609.24468) | Jingran Xu et al. | 2026-09-21 | ⭐⭐ |
+| 20 | [Artificial Structure Function Search: Preserving Art...](https://arxiv.org/abs/2609.24401) | Mindula Illeperuma et al. | 2026-09-21 | ⭐⭐ |
+| 21 | [WPBench: A Comprehensive Benchmark for Wind Power Fo...](https://arxiv.org/abs/2609.24444) | Yuhan Zhu et al. | 2026-09-21 | ⭐⭐ |
+| 22 | [Dissecting Agentic Forensics: The Role of Triage, Pr...](https://arxiv.org/abs/2609.24359) | Xianlong Li et al. | 2026-09-21 | ⭐⭐ |
+| 23 | [AgentSTAR: Agentic Shape Tracking and Reconstruction...](https://arxiv.org/abs/2609.24487) | Kirill Mazur et al. | 2026-09-21 | ⭐⭐ |
+| 24 | [MECAIL: Communication-Aware Incremental Learning for...](https://arxiv.org/abs/2609.24455) | Matthias Neuwirth-Trapp et al. | 2026-09-21 | ⭐⭐ |
+| 25 | [Mixed-integer flow formulations for motion planning ...](https://arxiv.org/abs/2609.24474) | Angelo Caregnato-Neto et al. | 2026-09-21 | ⭐⭐ |
+| 26 | [NAVIR: Neuromorphic Audio-Visual Speech Recognition ...](https://arxiv.org/abs/2609.24391) | Leonidas Delimpasis et al. | 2026-09-21 | ⭐⭐ |
+| 27 | [HappyWorld-Bench](https://arxiv.org/abs/2609.24308) | Zhiqi Bai et al. | 2026-09-21 | ⭐⭐ |
+| 28 | [Incentive Noise and Structural Prior Infusion for Mu...](https://arxiv.org/abs/2609.24539) | Weixiang Zhou et al. | 2026-09-21 | ⭐⭐ |
+| 29 | [Estimating Accurate Hand Pose in Camera Space with V...](https://arxiv.org/abs/2609.24424) | Kaiwen Ren et al. | 2026-09-21 | ⭐⭐ |
+| 30 | [Prescriptive SVD-Inspired Attention via Spectral Ene...](https://arxiv.org/abs/2609.24370) | Vasileios Arampatzakis et al. | 2026-09-21 | ⭐⭐ |
+| 31 | [What Makes a Good Semantic ID for Generative Recomme...](https://arxiv.org/abs/2609.24430) | Yufei Chen et al. | 2026-09-21 | ⭐⭐ |
+| 32 | [NeuIDO: Neural Intrinsic Dynamics Operator for Physi...](https://arxiv.org/abs/2609.24313) | Jiajing Lin et al. | 2026-09-21 | ⭐⭐ |
+| 33 | [AnalogDepth: Multi-view Geometry from FPV drones und...](https://arxiv.org/abs/2609.24312) | André Amorim et al. | 2026-09-21 | ⭐⭐ |
+| 34 | [MIRAGE: Full-Body Bystander Privacy for Smart Glasse...](https://arxiv.org/abs/2609.24537) | Muhammad Umair et al. | 2026-09-21 | ⭐⭐ |
+| 35 | [ME-VLM:A Unified VLM for Embodied Cognition and Agen...](https://arxiv.org/abs/2609.24526) | Foundation Model et al. | 2026-09-21 | ⭐⭐ |
+| 36 | [Morpho-VITS: Variational Inference with Morphologica...](https://arxiv.org/abs/2609.24310) | Antoine Nzeyimana | 2026-09-21 | ⭐⭐ |
+| 37 | [A Lightweight Convolutional Neural Network for Real-...](https://arxiv.org/abs/2609.24384) | Shahir Abdullah | 2026-09-21 | ⭐⭐ |
+| 38 | [Identity-Consistent Analysis of Long-Shot Windsurfin...](https://arxiv.org/abs/2609.24492) | Bertil Braun | 2026-09-21 | ⭐ |
+| 39 | [Spatial Action Review: A Visual Analytics Dashboard ...](https://arxiv.org/abs/2609.24470) | Samia Mohinta et al. | 2026-09-21 | ⭐ |
+| 40 | [Can Spiking Neural Networks play pinball? A neuromor...](https://arxiv.org/abs/2609.24403) | Mazdak Fatahi et al. | 2026-09-21 | ⭐ |
+| 41 | [Topographic Training Concentrates Causal Circuits Wi...](https://arxiv.org/abs/2609.24379) | Gautam Ranka et al. | 2026-09-21 | ⭐ |
+| 42 | [QLoRA Fine-Tuning of Ministral LLM for Sequence-to-F...](https://arxiv.org/abs/2609.24538) | Demian Pavlyshenko et al. | 2026-09-21 | ⭐ |
+| 43 | [Climate Variability Modulates the Impact of Price Sp...](https://arxiv.org/abs/2609.24394) | Jordi Cerdà-Bautista et al. | 2026-09-21 | ⭐ |
+| 44 | [MintAct: A Unified Visual Agent for Digital Environm...](https://arxiv.org/abs/2609.22083) | Mingfei Gao et al. | 2026-09-18 | ⭐⭐⭐ |
+| 45 | [BrainWideBench: Benchmarking large-scale pretraining...](https://arxiv.org/abs/2609.22064) | Alexandre Andre et al. | 2026-09-18 | ⭐⭐⭐ |
+| 46 | [PRIME: Perception Feedback with Situational Memory E...](https://arxiv.org/abs/2609.22040) | Erik Deinzer et al. | 2026-09-18 | ⭐⭐⭐ |
+| 47 | [Object Detection Benchmarks are Incomplete: The Role...](https://arxiv.org/abs/2609.21822) | Sarina Penquitt et al. | 2026-09-18 | ⭐⭐⭐ |
+| 48 | [AutoViewMem: Self-Configuring Orthogonal Views for C...](https://arxiv.org/abs/2609.21940) | Zijie Cao et al. | 2026-09-18 | ⭐⭐ |
+| 49 | [Joint Remaining Useful Life Prediction and Capacity ...](https://arxiv.org/abs/2609.21932) | Khoa Tran et al. | 2026-09-18 | ⭐⭐ |
+| 50 | [Traffic Sign Recognition for Autonomous Driving Usin...](https://arxiv.org/abs/2609.22060) | Arefeh Rezaei | 2026-09-18 | ⭐⭐ |
 
 ---
 

@@ -12,62 +12,62 @@ layout: page
 
 | S (必读) | A (推荐) | B (可读) |
 |----------|----------|----------|
-| 0 篇 | 0 篇 | 5 篇 |
+| 0 篇 | 0 篇 | 10 篇 |
 
 ## 📋 论文列表
 
 | # | 论文 | 作者 | 日期 | 评分 |
 |---|------|------|------|------|
-| 1 | [BrainWideBench: Benchmarking large-scale pretraining...](https://arxiv.org/abs/2609.22064) | Alexandre Andre et al. | 2026-09-18 | ⭐⭐⭐ |
-| 2 | [AutoViewMem: Self-Configuring Orthogonal Views for C...](https://arxiv.org/abs/2609.21940) | Zijie Cao et al. | 2026-09-18 | ⭐⭐ |
-| 3 | [NemotronLabs VoiceChat: An Open Full-duplex Speech-t...](https://arxiv.org/abs/2609.21967) | Jagadeesh Balam et al. | 2026-09-18 | ⭐⭐ |
-| 4 | [Neural Cellular Automata Learn General Features in t...](https://arxiv.org/abs/2609.21870) | Etienne Guichard et al. | 2026-09-18 | ⭐⭐ |
-| 5 | [TrialAtlas: Multi-Agent Research Organization for Cl...](https://arxiv.org/abs/2609.21859) | Jiacheng Lin et al. | 2026-09-18 | ⭐⭐ |
-| 6 | [QuranicMMLU: A Cognitively-Aware Benchmark for Evalu...](https://arxiv.org/abs/2609.22038) | Rawan El Ghali et al. | 2026-09-18 | ⭐⭐ |
-| 7 | [DiaVLo: Diagnosing Behaviours of Vision-Language Models](https://arxiv.org/abs/2609.22008) | Lorenzo Corti et al. | 2026-09-18 | ⭐⭐ |
-| 8 | [ExpBoN: Exponential-Noise Best-of-$n$ for Efficient ...](https://arxiv.org/abs/2609.21899) | Yanxiao Liu et al. | 2026-09-18 | ⭐⭐ |
-| 9 | [Benchmarking the Explanatory Quality of Open-Weight ...](https://arxiv.org/abs/2609.21879) | Laurent Colbois et al. | 2026-09-18 | ⭐⭐ |
-| 10 | [EnterpriseVal: Quantifying the Efficacy, Reliability...](https://arxiv.org/abs/2609.21841) | Abbas Raza Ali et al. | 2026-09-18 | ⭐⭐ |
-| 11 | [PointLAM: Local Attentive Mamba for Efficient Point-...](https://arxiv.org/abs/2609.21780) | Xuanming Shang et al. | 2026-09-18 | ⭐⭐ |
-| 12 | [OmniVBench: A Benchmark and Large-Scale Dataset for ...](https://arxiv.org/abs/2609.22069) | Wenxue Li et al. | 2026-09-18 | ⭐⭐ |
-| 13 | [The Role of Radiometric Features in Cross-Site Leaf-...](https://arxiv.org/abs/2609.21903) | Roman Kaharlytskyi et al. | 2026-09-18 | ⭐⭐ |
-| 14 | [A Principled Approach to Unsupervised Anomaly Detection](https://arxiv.org/abs/2609.21800) | James Myles et al. | 2026-09-18 | ⭐⭐ |
-| 15 | [An Interpretable Memory Decision Controller for LLM ...](https://arxiv.org/abs/2609.22043) | Yiming Zhang et al. | 2026-09-18 | ⭐⭐ |
-| 16 | [Info3R: Information-Adaptive Test-Time Training for ...](https://arxiv.org/abs/2609.21938) | Sunghyun Baek et al. | 2026-09-18 | ⭐⭐ |
-| 17 | [GALA: Geometry-Aware Latent Action Modeling for Visi...](https://arxiv.org/abs/2609.21948) | Yichen Liu et al. | 2026-09-18 | ⭐⭐ |
-| 18 | [RecreationWorld: Scalable and Verifiable Environment...](https://arxiv.org/abs/2609.22000) | Shuai Bai et al. | 2026-09-18 | ⭐⭐ |
-| 19 | [LLMs as Feature Engineers for Text-and-Tabular Predi...](https://arxiv.org/abs/2609.21894) | Merwan Barlier et al. | 2026-09-18 | ⭐⭐ |
-| 20 | [Adaptive Uncertainty-Aware Modeling and Stochastic R...](https://arxiv.org/abs/2609.21821) | Elham Estiri et al. | 2026-09-18 | ⭐⭐ |
-| 21 | [RegKT: Interpretable and Robust Deep Knowledge Traci...](https://arxiv.org/abs/2609.21791) | Samuel Girard et al. | 2026-09-18 | ⭐⭐ |
-| 22 | [From Pretraining to Proficiency: Real-World Subtask ...](https://arxiv.org/abs/2609.21788) | Sichang Su et al. | 2026-09-18 | ⭐⭐ |
-| 23 | [$λ$-Controlled GRPO: Turning Flow-Matching Ratio Ins...](https://arxiv.org/abs/2609.22041) | Yufeng Wang et al. | 2026-09-18 | ⭐⭐ |
-| 24 | [Time series generation with spectrally aligned laten...](https://arxiv.org/abs/2609.21989) | Camilo Carvajal Reyes et al. | 2026-09-18 | ⭐⭐ |
-| 25 | [Guiding Agents of Quantum Games to Equilibrium using...](https://arxiv.org/abs/2609.21944) | Alireza Habibi et al. | 2026-09-18 | ⭐⭐ |
-| 26 | [Detecting Pretraining Data in Large Language Models ...](https://arxiv.org/abs/2609.21888) | Chenye Ke et al. | 2026-09-18 | ⭐⭐ |
-| 27 | [Catena: A Comprehensive Software Suite for Large-Sca...](https://arxiv.org/abs/2609.21887) | Samia Mohinta et al. | 2026-09-18 | ⭐⭐ |
-| 28 | [Assessment of Machine Learning-Based Critical Heat F...](https://arxiv.org/abs/2609.21995) | Aidan Furlong et al. | 2026-09-18 | ⭐⭐ |
-| 29 | [Matrix AdaGrad: Row-wise and Column-wise Adaptive Su...](https://arxiv.org/abs/2609.21815) | Wenpeng Zhang et al. | 2026-09-18 | ⭐⭐ |
-| 30 | [A Lie Detector Test for Language Models: Reading Kno...](https://arxiv.org/abs/2609.21996) | Hiskias Dingeto | 2026-09-18 | ⭐⭐ |
-| 31 | [AutoRecLab: Describe the Experiment, Get the Code!](https://arxiv.org/abs/2609.21863) | Moritz Baumgart et al. | 2026-09-18 | ⭐⭐ |
-| 32 | [Federated Deep Clustering Networks for High-Dimensio...](https://arxiv.org/abs/2609.21829) | Morris Stallmann et al. | 2026-09-18 | ⭐⭐ |
-| 33 | [Designer-RSI: Evolving Procedural Memory from User T...](https://arxiv.org/abs/2609.22086) | Hongyang Du et al. | 2026-09-18 | ⭐⭐ |
-| 34 | [Available Guardrails: Certifying Selective Predictio...](https://arxiv.org/abs/2609.22048) | Parivesh Priye et al. | 2026-09-18 | ⭐⭐ |
-| 35 | [Per-Aetiology Contrastive Severity Embeddings with P...](https://arxiv.org/abs/2609.21789) | Bernard Muller et al. | 2026-09-18 | ⭐ |
-| 36 | [Cross-sector generalization of accident-process role...](https://arxiv.org/abs/2609.22081) | Aho Yapi et al. | 2026-09-18 | ⭐ |
-| 37 | [What Should We Ask Next? Retrieval-Aware Question Le...](https://arxiv.org/abs/2609.21924) | Lyucheng Qian et al. | 2026-09-18 | ⭐ |
-| 38 | [Do Personality-Tuned LLMs Make Better Social Agents?](https://arxiv.org/abs/2609.21857) | Tim Krabbe et al. | 2026-09-18 | ⭐ |
-| 39 | [Schedule optimization for tau-leaping in masked disc...](https://arxiv.org/abs/2609.21960) | Cecilia Secchi et al. | 2026-09-18 | ⭐ |
-| 40 | [LLM-Generated Feature Pools for Time Series Anomaly ...](https://arxiv.org/abs/2609.21801) | Youssef Attia El Hili et al. | 2026-09-18 | ⭐ |
-| 41 | [Kinks vs. Smoothness: Identifiability of Real Analyt...](https://arxiv.org/abs/2609.21926) | Isaac Manring et al. | 2026-09-18 | ⭐ |
-| 42 | [Near-Optimal Acceleration for Smooth $\ell_p$ / $\el...](https://arxiv.org/abs/2609.21880) | David Martínez-Rubio et al. | 2026-09-18 | ⭐ |
-| 43 | [Reusing Latent Speech Representations for Query-Cond...](https://arxiv.org/abs/2609.21844) | Steffen Freisinger et al. | 2026-09-18 | ⭐ |
-| 44 | [Gricea: An Open Science Platform for Conversational ...](https://arxiv.org/abs/2609.22039) | Nikhil Sharma et al. | 2026-09-18 | ⭐ |
-| 45 | [The Weight Is Over - Interactive Diffusion on Consum...](https://arxiv.org/abs/2609.21849) | Frieder Ganz et al. | 2026-09-18 | ⭐ |
-| 46 | [Multiplicative Optimism for Constant Regret in Games](https://arxiv.org/abs/2609.21976) | Ashkan Soleymani et al. | 2026-09-18 | ⭐ |
-| 47 | [JEPA-Anything: Learning Predictive Models across Dif...](https://arxiv.org/abs/2609.20800) | Taoyong Cui et al. | 2026-09-17 | ⭐⭐⭐ |
-| 48 | [Agile-WAM: An Agile Tactile World Action Model for C...](https://arxiv.org/abs/2609.20761) | Hanchu Zhou et al. | 2026-09-17 | ⭐⭐⭐ |
-| 49 | [HIL-UMI: Bringing Human-in-the-Loop Post-Training of...](https://arxiv.org/abs/2609.20659) | Zimu Han et al. | 2026-09-17 | ⭐⭐⭐ |
-| 50 | [FunArt: Decoding Functional Structure and Articulati...](https://arxiv.org/abs/2609.20673) | Dennis Rotondi et al. | 2026-09-17 | ⭐⭐⭐ |
+| 1 | [ARM: Attention with Routed-Memory for Learnable Spar...](https://arxiv.org/abs/2609.24417) | Qiuhao Zeng et al. | 2026-09-21 | ⭐⭐⭐ |
+| 2 | [DeCo: Efficient Decouple-to-Couple Learning for Mult...](https://arxiv.org/abs/2609.24409) | Xiaoqiang Lu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 3 | [URA-NER: A Unified Retrieval-Augmented Framework wit...](https://arxiv.org/abs/2609.24372) | Jingyu Wang et al. | 2026-09-21 | ⭐⭐⭐ |
+| 4 | [LiAuto-MindViT: A Hybrid Vision Backbone with Adapti...](https://arxiv.org/abs/2609.24337) | Lifu Mu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 5 | [CMAMBADEPTH: Self-supervised Monocular Depth Estimat...](https://arxiv.org/abs/2609.24494) | Xuezhi Xiang et al. | 2026-09-21 | ⭐⭐⭐ |
+| 6 | [0.5\%&gt;100\%: Bidirectional Reciprocal Learning fo...](https://arxiv.org/abs/2609.24510) | Xiaoqiang Lu et al. | 2026-09-21 | ⭐⭐⭐ |
+| 7 | [Fathom-Vaidya: Advancing Medical Reasoning with Rubr...](https://arxiv.org/abs/2609.24480) | Kalash Shah et al. | 2026-09-21 | ⭐⭐⭐ |
+| 8 | [Explainable Neuro-Fuzzy Prediction for Trustworthy D...](https://arxiv.org/abs/2609.24358) | Dionisis Kalogeropoulos et al. | 2026-09-21 | ⭐⭐⭐ |
+| 9 | [LADDER: Graph-Guided Diffusion Language Models for E...](https://arxiv.org/abs/2609.24346) | Senlei Zhang et al. | 2026-09-21 | ⭐⭐⭐ |
+| 10 | [STA-TFM: Spatio-Temporal Aggregation Across Views Tr...](https://arxiv.org/abs/2609.24482) | Mena Kamel et al. | 2026-09-21 | ⭐⭐ |
+| 11 | [VLM-in-Sandbox: Visual Workspaces for Agentic Visual...](https://arxiv.org/abs/2609.24362) | Hexiong Yang et al. | 2026-09-21 | ⭐⭐ |
+| 12 | [AlignMorph: Tuning-Free Diffusion Image Morphing via...](https://arxiv.org/abs/2609.24330) | Wuyi Liu et al. | 2026-09-21 | ⭐⭐ |
+| 13 | [Information-Time Proximal Policy Optimization](https://arxiv.org/abs/2609.24380) | Yongcheng Zeng et al. | 2026-09-21 | ⭐⭐ |
+| 14 | [Mitigating Entity Type Confusion in Cross-Domain NER...](https://arxiv.org/abs/2609.24357) | Jingyu Wang et al. | 2026-09-21 | ⭐⭐ |
+| 15 | [WPBench: A Comprehensive Benchmark for Wind Power Fo...](https://arxiv.org/abs/2609.24444) | Yuhan Zhu et al. | 2026-09-21 | ⭐⭐ |
+| 16 | [AgentSTAR: Agentic Shape Tracking and Reconstruction...](https://arxiv.org/abs/2609.24487) | Kirill Mazur et al. | 2026-09-21 | ⭐⭐ |
+| 17 | [NAVIR: Neuromorphic Audio-Visual Speech Recognition ...](https://arxiv.org/abs/2609.24391) | Leonidas Delimpasis et al. | 2026-09-21 | ⭐⭐ |
+| 18 | [Beyond Point Prediction: Artificial Representative T...](https://arxiv.org/abs/2609.24528) | Lea L. Mairhöfer et al. | 2026-09-21 | ⭐⭐ |
+| 19 | [HappyWorld-Bench](https://arxiv.org/abs/2609.24308) | Zhiqi Bai et al. | 2026-09-21 | ⭐⭐ |
+| 20 | [Estimating Accurate Hand Pose in Camera Space with V...](https://arxiv.org/abs/2609.24424) | Kaiwen Ren et al. | 2026-09-21 | ⭐⭐ |
+| 21 | [Prescriptive SVD-Inspired Attention via Spectral Ene...](https://arxiv.org/abs/2609.24370) | Vasileios Arampatzakis et al. | 2026-09-21 | ⭐⭐ |
+| 22 | [Pharmacokinetic State Space Models for Unbiased Pred...](https://arxiv.org/abs/2609.24338) | Rithin Nagaraj et al. | 2026-09-21 | ⭐⭐ |
+| 23 | [What Makes a Good Semantic ID for Generative Recomme...](https://arxiv.org/abs/2609.24430) | Yufei Chen et al. | 2026-09-21 | ⭐⭐ |
+| 24 | [NeuIDO: Neural Intrinsic Dynamics Operator for Physi...](https://arxiv.org/abs/2609.24313) | Jiajing Lin et al. | 2026-09-21 | ⭐⭐ |
+| 25 | [LLJ Cards: Best practices for the Use of LLMs as Judges](https://arxiv.org/abs/2609.24516) | Khaoula Chehbouni et al. | 2026-09-21 | ⭐⭐ |
+| 26 | [MIRAGE: Full-Body Bystander Privacy for Smart Glasse...](https://arxiv.org/abs/2609.24537) | Muhammad Umair et al. | 2026-09-21 | ⭐⭐ |
+| 27 | [Identifying Representational Biases in Datasets Usin...](https://arxiv.org/abs/2609.24556) | Arjun KM et al. | 2026-09-21 | ⭐⭐ |
+| 28 | [Conduit: An Experience Data Plane for Distributed Re...](https://arxiv.org/abs/2609.24456) | Sitong Zhang et al. | 2026-09-21 | ⭐⭐ |
+| 29 | [Morpho-VITS: Variational Inference with Morphologica...](https://arxiv.org/abs/2609.24310) | Antoine Nzeyimana | 2026-09-21 | ⭐⭐ |
+| 30 | [1% of Tokens Can Be Enough: On Gradient Estimation i...](https://arxiv.org/abs/2609.24432) | Huanxin Sheng et al. | 2026-09-21 | ⭐⭐ |
+| 31 | [Prior-Amortized In-Context Bayesian Inference for Ge...](https://arxiv.org/abs/2609.24422) | Alex Kipnis et al. | 2026-09-21 | ⭐⭐ |
+| 32 | [Not All Task Vectors Need Equal Rank: Energy-Proport...](https://arxiv.org/abs/2609.24517) | Hyunjoong Cho et al. | 2026-09-21 | ⭐⭐ |
+| 33 | [Comparing Latent Concept Formation in State Space Mo...](https://arxiv.org/abs/2609.24440) | Rithin Nagaraj et al. | 2026-09-21 | ⭐⭐ |
+| 34 | [The Endless Exam: Mathematical Constructions from To...](https://arxiv.org/abs/2609.24555) | Muhan Zhang | 2026-09-21 | ⭐ |
+| 35 | [Beyond Predictable Paths: Redefining AI Security Inc...](https://arxiv.org/abs/2609.24515) | Anastasia Pustozerova et al. | 2026-09-21 | ⭐ |
+| 36 | [A Temporal Knowledge Graph for Music Festival Lineup...](https://arxiv.org/abs/2609.24467) | Julia Gastinger et al. | 2026-09-21 | ⭐ |
+| 37 | [Few-Shot Demonstrations Elicit the Use of In-Context...](https://arxiv.org/abs/2609.24352) | Kohsei Matsutani et al. | 2026-09-21 | ⭐ |
+| 38 | [Toward a Unified Mathematics of Concepts](https://arxiv.org/abs/2609.24554) | Chen Shani | 2026-09-21 | ⭐ |
+| 39 | [Credit Access is Associated with Improved Food Secur...](https://arxiv.org/abs/2609.24382) | Jordi Cerdà-Bautista et al. | 2026-09-21 | ⭐ |
+| 40 | [Identity-Consistent Analysis of Long-Shot Windsurfin...](https://arxiv.org/abs/2609.24492) | Bertil Braun | 2026-09-21 | ⭐ |
+| 41 | [Can Spiking Neural Networks play pinball? A neuromor...](https://arxiv.org/abs/2609.24403) | Mazdak Fatahi et al. | 2026-09-21 | ⭐ |
+| 42 | [On the Information-Theoretic Limits of Latent-Space ...](https://arxiv.org/abs/2609.24377) | Jinwan Jeon et al. | 2026-09-21 | ⭐ |
+| 43 | [QLoRA Fine-Tuning of Ministral LLM for Sequence-to-F...](https://arxiv.org/abs/2609.24538) | Demian Pavlyshenko et al. | 2026-09-21 | ⭐ |
+| 44 | [Auditing Source Exposure in Baidu and Google AI Search](https://arxiv.org/abs/2609.24407) | Yibo Li et al. | 2026-09-21 | ⭐ |
+| 45 | [Climate Variability Modulates the Impact of Price Sp...](https://arxiv.org/abs/2609.24394) | Jordi Cerdà-Bautista et al. | 2026-09-21 | ⭐ |
+| 46 | [BrainWideBench: Benchmarking large-scale pretraining...](https://arxiv.org/abs/2609.22064) | Alexandre Andre et al. | 2026-09-18 | ⭐⭐⭐ |
+| 47 | [AutoViewMem: Self-Configuring Orthogonal Views for C...](https://arxiv.org/abs/2609.21940) | Zijie Cao et al. | 2026-09-18 | ⭐⭐ |
+| 48 | [NemotronLabs VoiceChat: An Open Full-duplex Speech-t...](https://arxiv.org/abs/2609.21967) | Jagadeesh Balam et al. | 2026-09-18 | ⭐⭐ |
+| 49 | [Neural Cellular Automata Learn General Features in t...](https://arxiv.org/abs/2609.21870) | Etienne Guichard et al. | 2026-09-18 | ⭐⭐ |
+| 50 | [TrialAtlas: Multi-Agent Research Organization for Cl...](https://arxiv.org/abs/2609.21859) | Jiacheng Lin et al. | 2026-09-18 | ⭐⭐ |
 
 ---
 
