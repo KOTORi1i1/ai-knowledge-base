@@ -1,18 +1,42 @@
 {
-  "date": "2026-09-22",
-  "generated": "2026-09-22T02:50:03.858Z",
+  "date": "2026-09-23",
+  "generated": "2026-09-23T02:50:07.797Z",
   "headline": {
-    "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
-    "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi",
+    "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+    "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+    "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
     "source": "MarkTechPost",
     "category": "模型"
   },
-  "trend": "🔥 模型方向最活跃（11 条），「Agent」是今日热词（8 次）",
+  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（7 次）",
   "top3": [
     {
       "rank": 1,
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "source": "MarkTechPost",
+      "date": "2026-09-22"
+    },
+    {
+      "rank": 2,
+      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
+      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI r",
+      "stars": 4.5,
+      "starsText": "★★★★★",
+      "category": "Agent",
+      "categoryId": "agent",
+      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+      "source": "MarkTechPost",
+      "date": "2026-09-22"
+    },
+    {
+      "rank": 3,
       "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
       "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi",
       "stars": 4.5,
@@ -22,38 +46,20 @@
       "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
       "source": "MarkTechPost",
       "date": "2026-09-21"
-    },
-    {
-      "rank": 2,
-      "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
-      "summary": "We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post ",
-      "stars": 4.3,
-      "starsText": "★★★★☆",
-      "category": "工具",
-      "categoryId": "tool",
-      "link": "https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/",
-      "source": "MarkTechPost",
-      "date": "2026-09-21"
-    },
-    {
-      "rank": 3,
-      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
-      "summary": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with thei",
-      "stars": 4.2,
-      "starsText": "★★★★☆",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
-      "source": "MarkTechPost",
-      "date": "2026-09-21"
     }
   ],
   "categories": {
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 11,
-      "top": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model"
+      "count": 10,
+      "top": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performa"
+    },
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
+      "count": 5,
+      "top": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Codin"
     },
     "tool": {
       "name": "工具",
@@ -61,29 +67,23 @@
       "count": 4,
       "top": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent"
     },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 4,
-      "top": "One to More, More to One: Category-Aware Iterative Expert Tr"
+    "paper": {
+      "name": "论文",
+      "icon": "📄",
+      "count": 1,
+      "top": "RULER: Instance-aware Rubric Rewards for SVG Generation"
     },
     "other": {
       "name": "other",
       "icon": "📋",
-      "count": 1,
-      "top": "SteerDuplex: Steerable Duplex Speech Dialogue Models"
-    },
-    "paper": {
-      "name": "论文",
-      "icon": "📄",
       "count": 2,
-      "top": "From Pretraining to Proficiency: Real-World Subtask RL for L"
+      "top": "The Functionalizer: Lossless Functional Decomposition for Su"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🛠 工具，头条是「Alibaba Qwen Releases Qwen-Image-2.1: A 」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Anthropic Releases Claude Opus 5.5: Fabl」",
   "stats": {
     "total": 22,
     "avgRating": 3.9,
-    "topRated": 6
+    "topRated": 8
   }
 }
