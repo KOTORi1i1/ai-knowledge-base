@@ -7,30 +7,30 @@ title: 📰 AI 资讯
 
 > 每天自动从多个 AI 资讯源聚合最新动态。
 
-## 📅 最近更新: 2026-09-23
+## 📅 最近更新: 2026-09-25
 
 | # | 标题 | 来源 | 日期 |
 |---|------|------|------|
-| 1 | [Bellman Policy Optimization](https://huggingface.co/papers/2609.15987) | HuggingFace Daily | 2026-09-23 |
-| 2 | [From Pattern Recognizers to Personalized Companions: A Survey of La...](https://huggingface.co/papers/2609.25186) | HuggingFace Daily | 2026-09-23 |
-| 3 | [Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embed...](https://huggingface.co/papers/2609.25165) | HuggingFace Daily | 2026-09-23 |
-| 4 | [Recursive self-improvement of AI research agents](https://huggingface.co/papers/2609.26457) | HuggingFace Daily | 2026-09-23 |
-| 5 | [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Mem...](https://huggingface.co/papers/2609.26796) | HuggingFace Daily | 2026-09-23 |
-| 6 | [RULER: Instance-aware Rubric Rewards for SVG Generation](https://huggingface.co/papers/2609.25270) | HuggingFace Daily | 2026-09-23 |
-| 7 | [The information geometry of large language models is shared, learne...](https://huggingface.co/papers/2609.11063) | HuggingFace Daily | 2026-09-23 |
-| 8 | [Towards Full Pipeline FP8 Reinforcement Learning for LLMs](https://huggingface.co/papers/2609.22870) | HuggingFace Daily | 2026-09-23 |
-| 9 | [ACLArena: Agent Continue Learning in Multi-stage Post-training](https://huggingface.co/papers/2609.23989) | HuggingFace Daily | 2026-09-23 |
-| 10 | [SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Co...](https://huggingface.co/papers/2609.06052) | HuggingFace Daily | 2026-09-23 |
-| 11 | [Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at ...](https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/) | MarkTechPost | 2026-09-22 |
-| 12 | [NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent...](https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/) | MarkTechPost | 2026-09-22 |
-| 13 | [SpaceXAI Releases Grok 4.7: A Larger Base Model at the Same $2/$6 P...](https://www.marktechpost.com/2026/09/21/spacexai-releases-grok-4-7/) | MarkTechPost | 2026-09-22 |
-| 14 | [AWS Strands Agents Team Releases Strands Harness: An Open-Source Ag...](https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/) | MarkTechPost | 2026-09-21 |
-| 15 | [Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Im...](https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/) | MarkTechPost | 2026-09-21 |
-| 16 | [Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks...](https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/) | MarkTechPost | 2026-09-21 |
-| 17 | [StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model...](https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/) | MarkTechPost | 2026-09-21 |
-| 18 | [Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in...](https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/) | MarkTechPost | 2026-09-20 |
-| 19 | [You too Google! Google Confirms Gemini Breached 3 Companies in AI S...](https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/) | MarkTechPost | 2026-09-20 |
-| 20 | [Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Inter...](https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/) | MarkTechPost | 2026-09-20 |
+| 1 | [IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterati...](https://huggingface.co/papers/2609.29444) | HuggingFace Daily | 2026-09-25 |
+| 2 | [ViRDM: Taming Representation Distribution Matching for Few-Step Cau...](https://huggingface.co/papers/2609.28923) | HuggingFace Daily | 2026-09-25 |
+| 3 | [AgentKernel: The Trust-Native Agentic Operating System](https://huggingface.co/papers/2609.29647) | HuggingFace Daily | 2026-09-25 |
+| 4 | [PUBG Ally: A Conversational Embodied Agent as an AI Teammate](https://huggingface.co/papers/2609.29837) | HuggingFace Daily | 2026-09-25 |
+| 5 | [OmniEcho: Spatial Audio Understanding for Embodied Agents](https://huggingface.co/papers/2609.23407) | HuggingFace Daily | 2026-09-25 |
+| 6 | [World Action Agent: Harnessing VLMs for Robot Manipulation via Worl...](https://huggingface.co/papers/2609.29964) | HuggingFace Daily | 2026-09-25 |
+| 7 | [WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Vide...](https://huggingface.co/papers/2609.30221) | HuggingFace Daily | 2026-09-25 |
+| 8 | [ExplorationBench: Measuring AI Systems' Exploration in Verifiable A...](https://huggingface.co/papers/2609.30199) | HuggingFace Daily | 2026-09-25 |
+| 9 | [Training Object Permanence in World Models](https://huggingface.co/papers/2609.28654) | HuggingFace Daily | 2026-09-25 |
+| 10 | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](https://huggingface.co/papers/2609.28416) | HuggingFace Daily | 2026-09-25 |
+| 11 | [BottleCap AI Releases ThinkingCap-Qwen3.8-27B: 37.2% Fewer Thinking...](https://www.marktechpost.com/2026/09/24/bottlecap-ai-releases-thinkingcap-qwen3-8-27b-37-2-fewer-thinking-tokens-at-a-0-86pp-accuracy-cost/) | MarkTechPost | 2026-09-24 |
+| 12 | [Contrastive-LM Releases CLM-8B: An Open System One Model That Score...](https://www.marktechpost.com/2026/09/23/contrastive-lm-releases-clm-8b-an-open-system-one-model-that-scores-agent-actions-up-to-9x-faster-than-jev/) | MarkTechPost | 2026-09-24 |
+| 13 | [A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Conf...](https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/) | MarkTechPost | 2026-09-24 |
+| 14 | [Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt...](https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/) | MarkTechPost | 2026-09-23 |
+| 15 | [NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weigh...](https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/) | MarkTechPost | 2026-09-23 |
+| 16 | [Nokia Open-Sources AnyJev: A Training-Free Layer That Turns Any Ope...](https://www.marktechpost.com/2026/09/23/nokia-open-sources-anyjev-a-training-free-layer-that-turns-any-open-llm-into-a-calibrated-decision-model/) | MarkTechPost | 2026-09-23 |
+| 17 | [Kyutai Releases Voice of Reason: A Speech-Native Model that Solves ...](https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/) | MarkTechPost | 2026-09-23 |
+| 18 | [OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Ben...](https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks/) | MarkTechPost | 2026-09-23 |
+| 19 | [SpeakON Ships a MagSafe AI Voice Button With Its Own Microphone](https://www.marktechpost.com/2026/09/22/speakon-ships-a-magsafe-ai-voice-button/) | MarkTechPost | 2026-09-23 |
+| 20 | [Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at ...](https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/) | MarkTechPost | 2026-09-22 |
 | 21 | [Dataclasses for Structured Application Data](https://machinelearningmastery.com/dataclasses-for-structured-application-data/) | Machine Learning Mastery | 2026-09-04 |
 | 22 | [Single-Agent vs. Multi-Agent Systems: When the Complexity Is Worth It](https://machinelearningmastery.com/single-agent-vs-multi-agent-systems-when-the-complexity-is-worth-it/) | Machine Learning Mastery | 2026-09-03 |
 | 23 | [AI Agent Memory Design: What Works and What Doesn’t](https://machinelearningmastery.com/ai-agent-memory-design-what-works-and-what-doesnt/) | Machine Learning Mastery | 2026-09-02 |
@@ -56,6 +56,8 @@ title: 📰 AI 资讯
 
 ## 🗄️ 历史归档
 
+- [📰 2026-09-25](/news/2026-09-25)
+- [📰 2026-09-24](/news/2026-09-24)
 - [📰 2026-09-23](/news/2026-09-23)
 - [📰 2026-09-22](/news/2026-09-22)
 - [📰 2026-09-21](/news/2026-09-21)
@@ -84,5 +86,3 @@ title: 📰 AI 资讯
 - [📰 2026-08-26](/news/2026-08-26)
 - [📰 2026-08-25](/news/2026-08-25)
 - [📰 2026-08-24](/news/2026-08-24)
-- [📰 2026-08-23](/news/2026-08-23)
-- [📰 2026-08-22](/news/2026-08-22)

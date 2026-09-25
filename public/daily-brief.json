@@ -1,89 +1,95 @@
 {
-  "date": "2026-09-23",
-  "generated": "2026-09-23T02:50:07.797Z",
+  "date": "2026-09-25",
+  "generated": "2026-09-25T02:57:14.644Z",
   "headline": {
-    "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-    "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the",
+    "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
+    "summary": "NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one que",
     "why": "今日最重要的一条 AI 资讯，建议优先阅读",
-    "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+    "link": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
     "source": "MarkTechPost",
-    "category": "模型"
+    "category": "📋 其他"
   },
-  "trend": "🔥 模型方向最活跃（10 条），「Agent」是今日热词（7 次）",
+  "trend": "🔥 模型方向最活跃（12 条），「Agent」是今日热词（12 次）",
   "top3": [
     {
       "rank": 1,
-      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
-      "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the",
+      "title": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Open-Weight Model That Tracks 8 Speakers in Real Time",
+      "summary": "NVIDIA has released Nemotron 3 Diarization, an open-weight speaker diarization model on Hugging Face. It answers one que",
       "stars": 4.5,
       "starsText": "★★★★★",
-      "category": "模型",
-      "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "category": "📋 其他",
+      "categoryId": "other",
+      "link": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
       "source": "MarkTechPost",
-      "date": "2026-09-22"
+      "date": "2026-09-23"
     },
     {
       "rank": 2,
-      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
-      "summary": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI r",
-      "stars": 4.5,
-      "starsText": "★★★★★",
-      "category": "Agent",
-      "categoryId": "agent",
-      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+      "title": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With Prompt-Based Voice Design",
+      "summary": "Google has released Gemini 3.8 Flash TTS and Flash-Lite TTS, 2 new text-to-speech models available now through the Gemin",
+      "stars": 4,
+      "starsText": "★★★★☆",
+      "category": "模型",
+      "categoryId": "model",
+      "link": "https://www.marktechpost.com/2026/09/23/google-releases-gemini-3-8-flash-tts-and-flash-lite-tts-with-prompt-based-voice-design/",
       "source": "MarkTechPost",
-      "date": "2026-09-22"
+      "date": "2026-09-23"
     },
     {
       "rank": 3,
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
-      "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi",
-      "stars": 4.5,
-      "starsText": "★★★★★",
+      "title": "Kyutai Releases Voice of Reason: A Speech-Native Model that Solves Spoken Math with Reinforcement Learning",
+      "summary": "Kyutai has released Voice of Reason, 2 open-weight speech-to-speech models built on GLM-4-Voice-9B. Supervised fine-tuni",
+      "stars": 4,
+      "starsText": "★★★★☆",
       "category": "模型",
       "categoryId": "model",
-      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
+      "link": "https://www.marktechpost.com/2026/09/22/kyutai-releases-voice-of-reason-a-speech-native-model-that-solves-spoken-math-with-reinforcement-learning/",
       "source": "MarkTechPost",
-      "date": "2026-09-21"
+      "date": "2026-09-23"
     }
   ],
   "categories": {
+    "other": {
+      "name": "other",
+      "icon": "📋",
+      "count": 3,
+      "top": "NVIDIA Releases Nemotron 3 Diarization: A 100M-Parameter Ope"
+    },
     "model": {
       "name": "模型",
       "icon": "🔥",
-      "count": 10,
-      "top": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performa"
-    },
-    "agent": {
-      "name": "Agent",
-      "icon": "🤖",
-      "count": 5,
-      "top": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Codin"
+      "count": 12,
+      "top": "Google Releases Gemini 3.8 Flash TTS and Flash-Lite TTS With"
     },
     "tool": {
       "name": "工具",
       "icon": "🛠",
+      "count": 3,
+      "top": "ViRDM: Taming Representation Distribution Matching for Few-S"
+    },
+    "agent": {
+      "name": "Agent",
+      "icon": "🤖",
       "count": 4,
-      "top": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent"
+      "top": "AgentKernel: The Trust-Native Agentic Operating System"
+    },
+    "tutorial": {
+      "name": "教程",
+      "icon": "📚",
+      "count": 1,
+      "top": "ExplorationBench: Measuring AI Systems' Exploration in Verif"
     },
     "paper": {
       "name": "论文",
       "icon": "📄",
       "count": 1,
-      "top": "RULER: Instance-aware Rubric Rewards for SVG Generation"
-    },
-    "other": {
-      "name": "other",
-      "icon": "📋",
-      "count": 2,
-      "top": "The Functionalizer: Lossless Functional Decomposition for Su"
+      "top": "Knowledge Pull Requests for Continual Document Authoring"
     }
   },
-  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「Anthropic Releases Claude Opus 5.5: Fabl」",
+  "oneLiner": "今天的主题是 🔥 模型 + 🤖 Agent，头条是「NVIDIA Releases Nemotron 3 Diarization: 」",
   "stats": {
-    "total": 22,
-    "avgRating": 3.9,
-    "topRated": 8
+    "total": 24,
+    "avgRating": 3.8,
+    "topRated": 4
   }
 }
